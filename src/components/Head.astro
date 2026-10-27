@@ -1,0 +1,50 @@
+---
+import DefaultHead from '@astrojs/starlight/components/Head.astro';
+---
+<DefaultHead {...Astro.props} />
+<script>
+  function setupImages() {
+    if (document.querySelector('#carmella-image-dialog')) return;
+    const dialog = document.createElement('dialog');
+    dialog.id = 'carmella-image-dialog';
+    dialog.setAttribute('aria-label', 'عرض الصورة بحجم أكبر');
+    dialog.setAttribute('aria-labelledby', 'carmella-preview-title');
+    dialog.innerHTML = '<header class="image-dialog-header"><div><span class="image-dialog-eyebrow">معاينة الصورة</span><h2 id="carmella-preview-title"></h2></div><button type="button" aria-label="إغلاق الصورة">إغلاق <span aria-hidden="true">×</span></button></header><div class="image-dialog-stage"><img alt="" /></div><footer class="image-dialog-footer"><span>اضغط خارج النافذة أو Escape للإغلاق</span><a target="_blank" rel="noopener noreferrer">فتح الصورة الأصلية ↗</a></footer>';
+    document.body.append(dialog);
+    const close = dialog.querySelector('button')!;
+    const preview = dialog.querySelector('img')!;
+    const title = dialog.querySelector('h2')!;
+    const original = dialog.querySelector('a')!;
+    let trigger: HTMLImageElement | undefined;
+    let previousOverflow = '';
+    close.addEventListener('click', () => dialog.close());
+    dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
+    dialog.addEventListener('close', () => {
+      document.documentElement.style.overflow = previousOverflow;
+      trigger?.focus({ preventScroll: true });
+    });
+    document.querySelectorAll<HTMLImageElement>('.sl-markdown-content img').forEach(image => {
+      if (image.closest('a')) return;
+      image.tabIndex = 0;
+      image.setAttribute('role', 'button');
+      image.setAttribute('aria-label', 'تكبير: ' + image.alt);
+      const open = () => {
+        trigger = image;
+        previousOverflow = document.documentElement.style.overflow;
+        preview.src = image.src;
+        preview.alt = image.alt;
+        title.textContent = image.alt || 'الصورة بحجم أكبر';
+        original.href = image.src;
+        dialog.showModal();
+        document.documentElement.style.overflow = 'hidden';
+        close.focus();
+      };
+      image.addEventListener('click', open);
+      image.addEventListener('keydown', event => {
+        if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); open(); }
+      });
+    });
+  }
+  document.addEventListener('astro:page-load', setupImages);
+  setupImages();
+</script>

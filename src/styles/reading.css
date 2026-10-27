@@ -1,0 +1,115 @@
+/* Shared reading rhythm for Arabic documentation, catalogs, and navigation. */
+:root {
+  --carmella-body: 1.0625rem;
+  --carmella-small: .9375rem;
+  --carmella-caption: .875rem;
+  --sl-content-gap-y: 1rem;
+  --sl-line-height-headings: 1.5;
+}
+
+body { line-height: 1.85; }
+::selection { background: var(--sl-color-accent-high); color: var(--sl-color-accent-low); }
+main:not(:has(.hero)) h1 {
+  font-size: clamp(1.75rem, 2.5vw, 2.125rem);
+  font-weight: 800;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-wrap: pretty;
+}
+.sl-markdown-content { font-size: var(--carmella-body); line-height: 1.9; }
+.sl-markdown-content > :first-child { margin-block-start: 0; }
+.sl-markdown-content :is(p, ul, ol) { margin-block: 1rem; }
+.sl-markdown-content :is(ul, ol) { padding-inline-start: 1.4rem; }
+.sl-markdown-content li + li { margin-block-start: .45rem; }
+.sl-markdown-content li::marker { color: var(--sl-color-text-accent); font-weight: 700; }
+.sl-markdown-content strong { font-weight: 700; }
+.sl-markdown-content .sl-heading-wrapper {
+  margin-block: 2rem .75rem;
+  scroll-margin-top: 7rem;
+}
+.sl-markdown-content .sl-heading-wrapper.level-h2 {
+  margin-block-start: 2.75rem;
+  padding-block-start: 1.25rem;
+  border-block-start: 1px solid var(--sl-color-hairline);
+}
+.sl-markdown-content .sl-heading-wrapper.level-h3 {
+  padding-inline-start: .75rem;
+  border-inline-start: 3px solid var(--sl-color-accent);
+}
+.sl-markdown-content :is(h2, h3, h4) {
+  font-weight: 700;
+  line-height: 1.6;
+  letter-spacing: 0;
+  scroll-margin-top: 7rem;
+}
+.sl-markdown-content h2 { font-size: 1.5rem; }
+.sl-markdown-content h3 { font-size: 1.1875rem; }
+.sl-markdown-content h4 { font-size: 1.0625rem; }
+.sl-markdown-content .sl-heading-wrapper :is(h2, h3, h4) {
+  margin: 0 !important;
+  padding: 0;
+  border: 0;
+}
+.sl-markdown-content .sl-heading-wrapper:has(:target) {
+  background: var(--sl-color-accent-low);
+  border-radius: .35rem;
+}
+.sl-markdown-content a:not(.component-card, .sl-link-card, .sl-anchor-link) {
+  text-underline-offset: .25em;
+  text-decoration-thickness: 1px;
+}
+.sl-markdown-content a:hover { text-decoration-thickness: 2px; }
+:is(a, button, summary, .table-scroll):focus-visible {
+  outline: 2px solid var(--sl-color-accent);
+  outline-offset: 3px;
+  border-radius: .35rem;
+}
+.sl-markdown-content code { font-size: .875em; line-height: 1.65; border-radius: .3rem; }
+.sl-markdown-content .table-scroll { margin-block: 1.25rem 1.75rem; }
+.sl-markdown-content :is(th, td) { font-size: var(--carmella-small); line-height: 1.85; padding: .875rem; }
+.sl-markdown-content th { font-weight: 700; }
+.sl-markdown-content tbody tr:last-child > td { border-block-end: 0; }
+.sl-markdown-content :is(td small, .image-reference, figcaption, .update-gallery figcaption) {
+  display: block;
+  font-size: var(--carmella-caption);
+  line-height: 1.8;
+  color: var(--sl-color-gray-2);
+  margin-block-start: .65rem;
+}
+.sl-markdown-content :is(.source-note, .uncaptured-preview, .missing-image) {
+  font-size: var(--carmella-small);
+  line-height: 1.85;
+  margin-block: 1.25rem;
+}
+.sl-markdown-content .starlight-aside { margin-block: 1.5rem; padding: 1rem 1.25rem; }
+.sl-markdown-content .starlight-aside p { margin-block: .65rem 0; }
+.sl-markdown-content .starlight-aside .starlight-aside__title { font-size: 1rem; margin: 0; }
+.sl-markdown-content details { margin-block: 1.5rem; padding: 1rem 1.25rem; }
+.sl-markdown-content summary { font-size: 1rem; line-height: 1.8; }
+.sl-markdown-content details[open] > summary { padding-block-end: .75rem; border-block-end: 1px solid var(--sl-color-hairline); }
+.component-catalog { gap: 1.25rem; margin-block: 1.75rem; }
+.sl-markdown-content .component-card { gap: .75rem; padding-block-end: 1.25rem; }
+.sl-markdown-content .component-card strong { font-size: 1.125rem; line-height: 1.7; }
+.sl-markdown-content .component-card span { font-size: 1rem; line-height: 1.85; }
+.sl-markdown-content .component-card small { font-size: var(--carmella-caption); line-height: 1.8; }
+.component-card :is(strong, span, small) { margin-block: 0; }
+.sl-markdown-content .card .title { font-size: 1.125rem !important; line-height: 1.7; }
+#starlight__sidebar a { font-size: var(--carmella-small); line-height: 1.65; padding-block: .5rem; border-radius: .4rem; }
+#starlight__sidebar a[aria-current='page'] {
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-text-accent);
+  border-inline-start: 3px solid var(--sl-color-accent);
+  font-weight: 700;
+}
+starlight-toc a { font-size: var(--carmella-caption); line-height: 1.7; padding-block: .375rem; }
+starlight-toc a[aria-current='true'] { font-weight: 700; color: var(--sl-color-text-accent); background: var(--sl-color-accent-low); border-radius: .3rem; }
+
+@media (max-width: 50rem) {
+  :root { --carmella-body: 1rem; }
+  .sl-markdown-content .sl-heading-wrapper { margin-block-start: 1.75rem; }
+  .sl-markdown-content .sl-heading-wrapper.level-h2 { margin-block-start: 2.25rem; padding-block-start: 1rem; }
+  .sl-markdown-content h2 { font-size: 1.375rem; }
+  .sl-markdown-content h3 { font-size: 1.125rem; }
+  .sl-markdown-content :is(th, td) { padding: .75rem; }
+  .sl-markdown-content :is(.starlight-aside, details) { padding: .875rem 1rem; }
+}
