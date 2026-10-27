@@ -19,5 +19,14 @@ body{line-height:1.85}.site-title{font-weight:800;letter-spacing:-.03em}.sl-mark
 @media(max-width:50rem){.sl-markdown-content table:has(img[src*="/updates/"]){min-width:0!important}.sl-markdown-content table:has(img[src*="/updates/"]) thead{display:none}.sl-markdown-content table:has(img[src*="/updates/"]) tbody{display:block}.sl-markdown-content table:has(img[src*="/updates/"]) tr{display:grid;grid-template-columns:minmax(0,1fr);padding:.75rem;border-bottom:1px solid var(--sl-color-hairline)}.sl-markdown-content table:has(img[src*="/updates/"]) td{display:block;border:0;padding:.4rem}.sl-markdown-content table:has(img[src*="/updates/"]) td:first-child{font-weight:700}.sl-markdown-content table:has(img[src*="/updates/"]) td img{max-height:24rem}.sl-markdown-content table:has(img[src*="/updates/"]) small{display:block}}
 
 :root{--sl-color-accent-low:#37241d;--sl-color-accent:#d5a580;--sl-color-accent-high:#f6dbc5}
-:root[data-theme="light"]{--sl-color-accent-low:#f8ede4;--sl-color-accent:#8b5436;--sl-color-accent-high:#643b28;--sl-color-white:#382b26;--sl-color-gray-6:#f8f5f1;--sl-color-bg:#fffdf9}
+:root[data-theme="light"]{--sl-color-accent-low:#f8f1df;--sl-color-accent:#80622f;--sl-color-accent-high:#654d24;--sl-color-white:#2c2722;--sl-color-gray-1:#38332c;--sl-color-gray-2:#575047;--sl-color-gray-3:#746b5f;--sl-color-gray-4:#bdb4a7;--sl-color-gray-5:#e5dfd4;--sl-color-gray-6:#f7f4ed;--sl-color-bg:#fffdf8;--sl-color-bg-nav:#ffffff;--sl-color-bg-sidebar:#ffffff;--sl-color-hairline:#e8e1d5;--sl-color-text:#38332c;--sl-color-text-accent:#70542a}
 .hero .tagline{max-width:38rem}.hero h1{font-size:clamp(2.25rem,5vw,3.75rem)!important}.site-title{letter-spacing:0}
+
+/* Airy light palette: gold accents without dark filled surfaces. */
+:root[data-theme="light"] .hero .sl-link-button.primary{background:linear-gradient(135deg,#f0e2bd,#e8d4a2);color:#342a19;border-color:#d6be87}
+:root[data-theme="light"] .hero .sl-link-button.primary:hover{background:#e2cc96}
+:root[data-theme="light"] .hero .sl-link-button.secondary{background:#fff;color:#70542a;border-color:#d6c7ac}
+:root[data-theme="light"] .starlight-aside--note{--sl-color-asides-text-accent:#70542a;--sl-color-asides-border:#c7aa6b;background:#faf4e4;border-color:#d9c38e;color:#423a2d}
+:root[data-theme="light"] .site-title{color:#70542a}
+:root[data-theme="light"] .card{background:#fff;border-color:#e5dfd4}
+:root[data-theme="light"] ::selection{background:#e8d4a2;color:#2c2722}
