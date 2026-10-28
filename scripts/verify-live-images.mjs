@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import {createHash} from 'node:crypto';
+import assert from 'node:assert/strict';
+const release=JSON.parse(fs.readFileSync('release-manifest.json'));
+const repairs=JSON.parse(fs.readFileSync('repair-report.json'));
+const files=[...repairs.replacedImages,...repairs.addedImages];
+const base=process.argv[2]||'https://fadisowan.github.io/carmella-docs/';
+let next=0,verified=0;
+await Promise.all(Array.from({length:8},async()=>{while(next<files.length){const file=files[next++],expected=release.sourceHashes[file];const response=await fetch(base+file+'?v='+expected.slice(0,12),{signal:AbortSignal.timeout(30000)});assert.equal(response.status,200,file);const actual=createHash('sha256').update(Buffer.from(await response.arrayBuffer())).digest('hex');assert.equal(actual,expected,'Published image differs from revised archive: '+file);verified++;if(verified%100===0)console.log('Verified '+verified+'/'+files.length+' revised images');}}));
+console.log(JSON.stringify({base,verifiedRevisedImageHashes:verified,mismatches:0}));

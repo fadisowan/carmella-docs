@@ -9,7 +9,7 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:desktop"><img src="/carmella-docs/images/47-cml-brand-numbers-desktop.webp" alt="أرقام تحكي القصة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>أرقام تحكي القصة — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:desktop"><img src="/carmella-docs/images/47-cml-brand-numbers-desktop.webp?v=920c37f0e2f3" alt="أرقام تحكي القصة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>أرقام تحكي القصة — معاينة الكمبيوتر</figcaption></figure>
 <figure data-source-ref="components/47-cml-brand-numbers:mobile"><img src="/carmella-docs/images/47-cml-brand-numbers-mobile.webp" alt="أرقام تحكي القصة — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>أرقام تحكي القصة — معاينة الجوال</figcaption></figure>
 </div>
 
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر صغير فوق العنوان. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان تمهيدي</p><div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:0:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-eyebrow-panel.webp" alt="عنوان تمهيدي — عنوان تمهيدي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان تمهيدي — عنوان تمهيدي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:0:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-eyebrow-panel.webp?v=5d05343f8cec" alt="عنوان تمهيدي — عنوان تمهيدي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان تمهيدي — عنوان تمهيدي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عنوان القسم.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:1:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:1:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-title-panel.webp?v=dfd7f91d2ca4" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف قصير
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر واحد تحت العنوان. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">وصف قصير</p><div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:2:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-description-panel.webp" alt="وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:2:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-description-panel.webp?v=354d9a79326c" alt="وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الإحصاءات
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> من إحصاء واحد إلى أربعة. لا يظهر الإحصاء إلا إذا كُتبت قيمته وعنوانه.</p>
 
 <div class="setting-example"><p class="option-label">الإحصاءات</p><div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:3:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-stats-panel.webp" alt="الإحصاءات — الإحصاءات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الإحصاءات — الإحصاءات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:3:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-stats-panel.webp?v=039d1ee69cf3" alt="الإحصاءات — الإحصاءات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الإحصاءات — الإحصاءات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -90,12 +90,12 @@ editUrl: false
 <p><strong>الخيارات:</strong> بخلفية · بدون خلفية</p>
 
 <div class="setting-example"><p class="option-label">بخلفية — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:4:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-background-style-panel-panel.webp" alt="خلفية القسم — بخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/47-cml-brand-numbers:4:0:result"><img src="/carmella-docs/images/47-cml-brand-numbers-background-style-panel-result.webp" alt="خلفية القسم — بخلفية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بخلفية — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:4:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-background-style-panel-panel.webp?v=de3683d97c80" alt="خلفية القسم — بخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:4:0:result"><img src="/carmella-docs/images/47-cml-brand-numbers-background-style-panel-result.webp?v=920c37f0e2f3" alt="خلفية القسم — بخلفية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بخلفية — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">بدون خلفية</p><div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:4:1:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-background-style-plain-panel.webp" alt="خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:4:1:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-background-style-plain-panel.webp?v=f3aa2dbfbd42" alt="خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مسافة علوية مخصّصة بالبكسل
@@ -107,7 +107,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «المسافة أعلى القسم» = حسب الثيم</p>
 
 <div class="setting-example"><p class="option-label">مسافة علوية مخصّصة بالبكسل</p><div class="preview-grid">
-<figure data-source-ref="components/47-cml-brand-numbers:5:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-top-spacing-panel.webp" alt="مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/47-cml-brand-numbers:5:0:panel"><img src="/carmella-docs/images/47-cml-brand-numbers-top-spacing-panel.webp?v=21df31adef87" alt="مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مسافة سفلية مخصّصة بالبكسل

@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:desktop"><img src="/carmella-docs/images/31-featured-products-style1-desktop.webp" alt="منتجات مميزة - نمط 1 — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>منتجات مميزة - نمط 1 — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:mobile"><img src="/carmella-docs/images/31-featured-products-style1-mobile.webp" alt="منتجات مميزة - نمط 1 — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>منتجات مميزة - نمط 1 — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:desktop"><img src="/carmella-docs/images/31-featured-products-style1-desktop.webp?v=ea23596897f7" alt="منتجات مميزة - نمط 1 — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>منتجات مميزة - نمط 1 — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:mobile"><img src="/carmella-docs/images/31-featured-products-style1-mobile.webp?v=d700f7afb5a5" alt="منتجات مميزة - نمط 1 — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>منتجات مميزة - نمط 1 — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -55,7 +55,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">الأحدث — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:3:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-source-type-latest-panel.webp" alt="مصدر منتجات القسم — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر منتجات القسم — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:3:0:result"><img src="/carmella-docs/images/31-featured-products-style1-source-type-latest-result.webp" alt="مصدر منتجات القسم — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر منتجات القسم — الأحدث — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:3:0:result"><img src="/carmella-docs/images/31-featured-products-style1-source-type-latest-result.webp?v=ea23596897f7" alt="مصدر منتجات القسم — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر منتجات القسم — الأحدث — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">الأكثر مبيعاً</p><div class="preview-grid">
@@ -134,7 +134,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:8:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:8:0:result"><img src="/carmella-docs/images/31-featured-products-style1-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:8:0:result"><img src="/carmella-docs/images/31-featured-products-style1-align-right-result.webp?v=ea23596897f7" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
@@ -155,7 +155,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">افتراضي — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:9:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-card-hover-default-panel.webp" alt="أسلوب بطاقة المنتج عند التأشير — افتراضي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب بطاقة المنتج عند التأشير — افتراضي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:9:0:result"><img src="/carmella-docs/images/31-featured-products-style1-card-hover-default-result.webp" alt="أسلوب بطاقة المنتج عند التأشير — افتراضي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أسلوب بطاقة المنتج عند التأشير — افتراضي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:9:0:result"><img src="/carmella-docs/images/31-featured-products-style1-card-hover-default-result.webp?v=ea23596897f7" alt="أسلوب بطاقة المنتج عند التأشير — افتراضي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أسلوب بطاقة المنتج عند التأشير — افتراضي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">شريط أدوات أفقي</p><div class="preview-grid">
@@ -176,7 +176,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">الافتراضي لهذا القسم — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:10:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-card-style-section-panel.webp" alt="شكل البطاقات في هذا القسم — الافتراضي لهذا القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>شكل البطاقات في هذا القسم — الافتراضي لهذا القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:10:0:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-card-style-section-result.webp" alt="شكل البطاقات في هذا القسم — الافتراضي لهذا القسم — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>شكل البطاقات في هذا القسم — الافتراضي لهذا القسم — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:10:0:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-card-style-section-result.webp?v=ea23596897f7" alt="شكل البطاقات في هذا القسم — الافتراضي لهذا القسم — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>شكل البطاقات في هذا القسم — الافتراضي لهذا القسم — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">أساسي</p><div class="preview-grid">
@@ -209,27 +209,27 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">تلقائي — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:11:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-auto-panel.webp" alt="المنتجات في الصف (كمبيوتر) — تلقائي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — تلقائي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:11:0:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-auto-result.webp" alt="المنتجات في الصف (كمبيوتر) — تلقائي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — تلقائي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:11:0:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-auto-result.webp?v=ea23596897f7" alt="المنتجات في الصف (كمبيوتر) — تلقائي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — تلقائي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">2</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:11:1:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-2-panel.webp" alt="المنتجات في الصف (كمبيوتر) — 2 — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 2 — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:11:1:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-2-result.webp" alt="المنتجات في الصف (كمبيوتر) — 2 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 2 — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:11:1:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-2-result.webp?v=85ac69792897" alt="المنتجات في الصف (كمبيوتر) — 2 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 2 — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">3</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:11:2:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-3-panel.webp" alt="المنتجات في الصف (كمبيوتر) — 3 — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 3 — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:11:2:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-3-result.webp" alt="المنتجات في الصف (كمبيوتر) — 3 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 3 — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:11:2:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-3-result.webp?v=3f988abb3e45" alt="المنتجات في الصف (كمبيوتر) — 3 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 3 — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">4</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:11:3:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-4-panel.webp" alt="المنتجات في الصف (كمبيوتر) — 4 — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 4 — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:11:3:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-4-result.webp" alt="المنتجات في الصف (كمبيوتر) — 4 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 4 — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:11:3:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-4-result.webp?v=ea23596897f7" alt="المنتجات في الصف (كمبيوتر) — 4 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 4 — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">5</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:11:4:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-5-panel.webp" alt="المنتجات في الصف (كمبيوتر) — 5 — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 5 — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:11:4:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-5-result.webp" alt="المنتجات في الصف (كمبيوتر) — 5 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 5 — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:11:4:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-d-5-result.webp?v=fb236868358d" alt="المنتجات في الصف (كمبيوتر) — 5 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (كمبيوتر) — 5 — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 ## المنتجات في الصف (جوال)
@@ -242,17 +242,17 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">تلقائي — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:12:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-auto-panel.webp" alt="المنتجات في الصف (جوال) — تلقائي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — تلقائي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:12:0:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-auto-result.webp" alt="المنتجات في الصف (جوال) — تلقائي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — تلقائي — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:12:0:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-auto-result.webp?v=d700f7afb5a5" alt="المنتجات في الصف (جوال) — تلقائي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — تلقائي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">1</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:12:1:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-1-panel.webp" alt="المنتجات في الصف (جوال) — 1 — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — 1 — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:12:1:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-1-result.webp" alt="المنتجات في الصف (جوال) — 1 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — 1 — معاينة النتيجة<small class="image-reference">لقطة المصدر على الكمبيوتر؛ لا تُظهر أثر هذا الخيار على الجوال. لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:12:1:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-1-result.webp?v=a62f77c5a7be" alt="المنتجات في الصف (جوال) — 1 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — 1 — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">2</p><div class="preview-grid">
 <figure data-source-ref="components/31-featured-products-style1:12:2:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-2-panel.webp" alt="المنتجات في الصف (جوال) — 2 — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — 2 — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/31-featured-products-style1:12:2:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-2-result.webp" alt="المنتجات في الصف (جوال) — 2 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — 2 — معاينة النتيجة<small class="image-reference">لقطة المصدر على الكمبيوتر؛ لا تُظهر أثر هذا الخيار على الجوال. لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:12:2:result"><img src="/carmella-docs/images/31-featured-products-style1-cml-cols-m-2-result.webp?v=d700f7afb5a5" alt="المنتجات في الصف (جوال) — 2 — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المنتجات في الصف (جوال) — 2 — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

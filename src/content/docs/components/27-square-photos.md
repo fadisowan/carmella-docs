@@ -22,19 +22,17 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:0:0:panel"><img src="/carmella-docs/images/27-square-photos-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:0:0:panel"><img src="/carmella-docs/images/27-square-photos-title-panel.webp?v=6ce792e1df07" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العناصر
-
-اسم الحقل في المصدر: <code>items</code>.
 
 <p class="field-meta"><span><strong>النوع:</strong> عناصر متكررة</span><span><strong>الافتراضي:</strong> عناصر جاهزة</span></p>
 
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">العناصر</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:1:0:panel"><img src="/carmella-docs/images/27-square-photos-items-panel.webp" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:1:0:panel"><img src="/carmella-docs/images/27-square-photos-items-panel.webp?v=6dd40e0a1a6a" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -66,16 +64,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:2:0:panel"><img src="/carmella-docs/images/27-square-photos-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:2:0:panel"><img src="/carmella-docs/images/27-square-photos-align-right-panel.webp?v=2709d4c0ee30" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="components/27-square-photos:2:0:result"><img src="/carmella-docs/images/27-square-photos-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:2:1:panel"><img src="/carmella-docs/images/27-square-photos-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:2:1:panel"><img src="/carmella-docs/images/27-square-photos-align-center-panel.webp?v=d364b19dc21d" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:2:2:panel"><img src="/carmella-docs/images/27-square-photos-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:2:2:panel"><img src="/carmella-docs/images/27-square-photos-align-left-panel.webp?v=e6a1d042e12c" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عرض جميع الصور بنفس الحجم
@@ -85,7 +83,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عند الإيقاف وكان عدد الصور ٣ أو ٥، تظهر الصورة الأولى كبيرة (موزاييك) والباقي حولها. الأعداد الأخرى متساوية دائمًا: صورتان أو أربع في عمودين، والباقي في ثلاثة أعمدة.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:3:0:panel"><img src="/carmella-docs/images/27-square-photos-equal-size-panel.webp" alt="عرض جميع الصور بنفس الحجم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عرض جميع الصور بنفس الحجم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:3:0:panel"><img src="/carmella-docs/images/27-square-photos-equal-size-panel.webp?v=420169dd94ad" alt="عرض جميع الصور بنفس الحجم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عرض جميع الصور بنفس الحجم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صور بالأبيض والأسود
@@ -95,7 +93,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> تتلوّن عند مرور الماوس، وتبقى ملوّنة على الجوال.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:4:0:panel"><img src="/carmella-docs/images/27-square-photos-cml-gray-panel.webp" alt="صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:4:0:panel"><img src="/carmella-docs/images/27-square-photos-cml-gray-panel.webp?v=e4de793f1bd8" alt="صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="components/27-square-photos:4:0:result"><img src="/carmella-docs/images/27-square-photos-cml-gray-on-result.webp" alt="صور بالأبيض والأسود — بعد قلب المفتاح — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>صور بالأبيض والأسود — بعد قلب المفتاح — معاينة النتيجة</figcaption></figure>
 </div></div>
 

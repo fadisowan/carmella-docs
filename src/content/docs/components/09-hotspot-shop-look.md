@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:desktop"><img src="/carmella-docs/images/09-hotspot-shop-look-desktop.webp" alt="تسوّق من الصورة (نقاط) — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>تسوّق من الصورة (نقاط) — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/09-hotspot-shop-look:mobile"><img src="/carmella-docs/images/09-hotspot-shop-look-mobile.webp" alt="تسوّق من الصورة (نقاط) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>تسوّق من الصورة (نقاط) — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:desktop"><img src="/carmella-docs/images/09-hotspot-shop-look-desktop.webp?v=4b20b35ba1e3" alt="تسوّق من الصورة (نقاط) — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>تسوّق من الصورة (نقاط) — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:mobile"><img src="/carmella-docs/images/09-hotspot-shop-look-mobile.webp?v=20b895255c83" alt="تسوّق من الصورة (نقاط) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>تسوّق من الصورة (نقاط) — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.</p>
 
 <div class="setting-example"><p class="option-label">نص علوي صغير</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:0:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-eyebrow-panel.webp" alt="نص علوي صغير — نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص علوي صغير — نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:0:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-eyebrow-panel.webp?v=c41875108f72" alt="نص علوي صغير — نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص علوي صغير — نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:1:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:1:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-title-panel.webp?v=6d24ff68492c" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الوصف
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.</p>
 
 <div class="setting-example"><p class="option-label">الوصف</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:2:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-description-panel.webp" alt="الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:2:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-description-panel.webp?v=910641842682" alt="الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة الإطلالة
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> المقاس المناسب 1000×1200 بكسل</p>
 
 <div class="setting-example"><p class="option-label">صورة الإطلالة</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:3:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-image-panel.webp" alt="صورة الإطلالة — صورة الإطلالة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الإطلالة — صورة الإطلالة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:3:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-image-panel.webp?v=71638ec2d675" alt="صورة الإطلالة — صورة الإطلالة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الإطلالة — صورة الإطلالة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة الجوال (اختياري)
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> صورة خاصة بالجوال؛ إن تُركت فارغة تُستخدم الصورة الرئيسية.</p>
 
 <div class="setting-example"><p class="option-label">صورة الجوال (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:4:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-mobile-image-panel.webp" alt="صورة الجوال (اختياري) — صورة الجوال (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الجوال (اختياري) — صورة الجوال (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:4:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-mobile-image-panel.webp?v=511351b36c46" alt="صورة الجوال (اختياري) — صورة الجوال (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الجوال (اختياري) — صورة الجوال (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## المنتجات والنقاط
@@ -72,7 +72,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">المنتجات والنقاط</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:5:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-items-panel.webp" alt="المنتجات والنقاط — المنتجات والنقاط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات والنقاط — المنتجات والنقاط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:5:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-items-panel.webp?v=d9cc531ee9c1" alt="المنتجات والنقاط — المنتجات والنقاط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتجات والنقاط — المنتجات والنقاط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -132,7 +132,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغًا للّون الافتراضي.</p>
 
 <div class="setting-example"><p class="option-label">لون خلفية القسم</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:6:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-background-color-panel.webp" alt="لون خلفية القسم — لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون خلفية القسم — لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:6:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-background-color-panel.webp?v=c4fa00248ccc" alt="لون خلفية القسم — لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون خلفية القسم — لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون النص
@@ -142,7 +142,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغًا للّون الافتراضي.</p>
 
 <div class="setting-example"><p class="option-label">لون النص</p><div class="preview-grid">
-<figure data-source-ref="components/09-hotspot-shop-look:7:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-text-color-panel.webp" alt="لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/09-hotspot-shop-look:7:0:panel"><img src="/carmella-docs/images/09-hotspot-shop-look-text-color-panel.webp?v=bffa04c61d51" alt="لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

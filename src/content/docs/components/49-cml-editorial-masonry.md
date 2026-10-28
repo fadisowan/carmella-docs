@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:desktop"><img src="/carmella-docs/images/49-cml-editorial-masonry-desktop.webp" alt="شبكة المنتجات التحريرية — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>شبكة المنتجات التحريرية — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/49-cml-editorial-masonry:mobile"><img src="/carmella-docs/images/49-cml-editorial-masonry-mobile.webp" alt="شبكة المنتجات التحريرية — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>شبكة المنتجات التحريرية — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:desktop"><img src="/carmella-docs/images/49-cml-editorial-masonry-desktop.webp?v=015d3952635e" alt="شبكة المنتجات التحريرية — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>شبكة المنتجات التحريرية — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:mobile"><img src="/carmella-docs/images/49-cml-editorial-masonry-mobile.webp?v=47e044950440" alt="شبكة المنتجات التحريرية — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>شبكة المنتجات التحريرية — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -75,7 +75,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">الأحدث — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/49-cml-editorial-masonry:5:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-type-latest-panel.webp" alt="مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/49-cml-editorial-masonry:5:0:result"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-type-latest-result.webp" alt="مصدر المنتجات — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:5:0:result"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-type-latest-result.webp?v=015d3952635e" alt="مصدر المنتجات — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">الأكثر مبيعاً</p><div class="preview-grid">
@@ -248,7 +248,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">متوسطة — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/49-cml-editorial-masonry:19:1:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-gap-medium-panel.webp" alt="حجم الفراغات بين البطاقات — متوسطة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم الفراغات بين البطاقات — متوسطة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/49-cml-editorial-masonry:19:1:result"><img src="/carmella-docs/images/49-cml-editorial-masonry-gap-medium-result.webp" alt="حجم الفراغات بين البطاقات — متوسطة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الفراغات بين البطاقات — متوسطة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:19:1:result"><img src="/carmella-docs/images/49-cml-editorial-masonry-gap-medium-result.webp?v=015d3952635e" alt="حجم الفراغات بين البطاقات — متوسطة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الفراغات بين البطاقات — متوسطة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">واسعة</p><div class="preview-grid">
@@ -269,7 +269,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">افتراضي — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/49-cml-editorial-masonry:20:1:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-height-standard-panel.webp" alt="ارتفاع التكوين — افتراضي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ارتفاع التكوين — افتراضي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/49-cml-editorial-masonry:20:1:result"><img src="/carmella-docs/images/49-cml-editorial-masonry-height-standard-result.webp" alt="ارتفاع التكوين — افتراضي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>ارتفاع التكوين — افتراضي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:20:1:result"><img src="/carmella-docs/images/49-cml-editorial-masonry-height-standard-result.webp?v=015d3952635e" alt="ارتفاع التكوين — افتراضي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>ارتفاع التكوين — افتراضي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">مرتفع</p><div class="preview-grid">

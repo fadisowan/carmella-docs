@@ -10,7 +10,7 @@ editUrl: false
 
 <div class="preview-grid">
 <figure data-source-ref="components/14-category-showcase:desktop"><img src="/carmella-docs/images/14-category-showcase-desktop.webp" alt="واجهة التصنيفات — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>واجهة التصنيفات — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/14-category-showcase:mobile"><img src="/carmella-docs/images/14-category-showcase-mobile.webp" alt="واجهة التصنيفات — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>واجهة التصنيفات — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:mobile"><img src="/carmella-docs/images/14-category-showcase-mobile.webp?v=2f8b15ee970c" alt="واجهة التصنيفات — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>واجهة التصنيفات — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:0:0:panel"><img src="/carmella-docs/images/14-category-showcase-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:0:0:panel"><img src="/carmella-docs/images/14-category-showcase-title-panel.webp?v=69b85b06c274" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي تحت العنوان (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي تحت العنوان (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:1:0:panel"><img src="/carmella-docs/images/14-category-showcase-subtitle-panel.webp" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:1:0:panel"><img src="/carmella-docs/images/14-category-showcase-subtitle-panel.webp?v=527150d4d1b5" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## بطاقات التصنيفات
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">بطاقات التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:2:0:panel"><img src="/carmella-docs/images/14-category-showcase-items-panel.webp" alt="بطاقات التصنيفات — بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>بطاقات التصنيفات — بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:2:0:panel"><img src="/carmella-docs/images/14-category-showcase-items-panel.webp?v=6e84fa02594c" alt="بطاقات التصنيفات — بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>بطاقات التصنيفات — بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -86,16 +86,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:3:0:panel"><img src="/carmella-docs/images/14-category-showcase-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:3:0:panel"><img src="/carmella-docs/images/14-category-showcase-align-right-panel.webp?v=8dbe8ab72dee" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="components/14-category-showcase:3:0:result"><img src="/carmella-docs/images/14-category-showcase-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:3:1:panel"><img src="/carmella-docs/images/14-category-showcase-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:3:1:panel"><img src="/carmella-docs/images/14-category-showcase-align-center-panel.webp?v=09b9147f5de1" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:3:2:panel"><img src="/carmella-docs/images/14-category-showcase-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:3:2:panel"><img src="/carmella-docs/images/14-category-showcase-align-left-panel.webp?v=bb4cf3397b21" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صور بالأبيض والأسود
@@ -105,7 +105,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> تتلوّن عند مرور الماوس، وتبقى ملوّنة على الجوال.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:4:0:panel"><img src="/carmella-docs/images/14-category-showcase-cml-gray-panel.webp" alt="صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:4:0:panel"><img src="/carmella-docs/images/14-category-showcase-cml-gray-panel.webp?v=f56487456d67" alt="صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صور بالأبيض والأسود — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="components/14-category-showcase:4:0:result"><img src="/carmella-docs/images/14-category-showcase-cml-gray-on-result.webp" alt="صور بالأبيض والأسود — بعد قلب المفتاح — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>صور بالأبيض والأسود — بعد قلب المفتاح — معاينة النتيجة</figcaption></figure>
 </div></div>
 

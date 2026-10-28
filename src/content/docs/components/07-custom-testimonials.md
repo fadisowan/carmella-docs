@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يستبدل العنوان الافتراضي «آراء العملاء».</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:0:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-section-title-panel.webp" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:0:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-section-title-panel.webp?v=33bb48e20fcb" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## التقييمات
@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">التقييمات</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:1:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-items-panel.webp" alt="التقييمات — التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التقييمات — التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:1:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-items-panel.webp?v=85d967236694" alt="التقييمات — التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التقييمات — التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -65,7 +65,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> ينقل الشرائح تلقائيًا دون ضغط الزائر.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:2:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-auto-play-panel.webp" alt="تشغيل تلقائي للشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تشغيل تلقائي للشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:2:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-auto-play-panel.webp?v=84987ed6b678" alt="تشغيل تلقائي للشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تشغيل تلقائي للشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## أيقونة الاقتباس
@@ -75,7 +75,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> علامة التنصيص الزخرفية في البطاقة.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:3:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-show-quote-icon-panel.webp" alt="أيقونة الاقتباس — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أيقونة الاقتباس — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:3:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-show-quote-icon-panel.webp?v=23bfc752a180" alt="أيقونة الاقتباس — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أيقونة الاقتباس — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نجوم التقييم
@@ -85,7 +85,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> إظهار تقييم النجوم لكل رأي.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:4:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-show-stars-panel.webp" alt="نجوم التقييم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نجوم التقييم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:4:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-show-stars-panel.webp?v=4e4bd2be37cb" alt="نجوم التقييم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نجوم التقييم — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## طريقة العرض

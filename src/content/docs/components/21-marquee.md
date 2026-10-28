@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/21-marquee:desktop"><img src="/carmella-docs/images/21-marquee-desktop.webp" alt="شريط نصوص متحرك — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>شريط نصوص متحرك — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/21-marquee:mobile"><img src="/carmella-docs/images/21-marquee-mobile.webp" alt="شريط نصوص متحرك — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>شريط نصوص متحرك — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/21-marquee:desktop"><img src="/carmella-docs/images/21-marquee-desktop.webp?v=f4132e766532" alt="شريط نصوص متحرك — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>شريط نصوص متحرك — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/21-marquee:mobile"><img src="/carmella-docs/images/21-marquee-mobile.webp?v=3fa3fd1103d3" alt="شريط نصوص متحرك — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>شريط نصوص متحرك — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -25,7 +25,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">مستقيم — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/21-marquee:0:0:panel"><img src="/carmella-docs/images/21-marquee-style-straight-panel.webp" alt="الشكل — مستقيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشكل — مستقيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:0:0:result"><img src="/carmella-docs/images/21-marquee-style-straight-result.webp" alt="الشكل — مستقيم — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>الشكل — مستقيم — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:0:0:result"><img src="/carmella-docs/images/21-marquee-style-straight-result.webp?v=f4132e766532" alt="الشكل — مستقيم — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>الشكل — مستقيم — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 ## اتجاه الحركة
@@ -38,7 +38,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">مع اتجاه القراءة — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/21-marquee:1:0:panel"><img src="/carmella-docs/images/21-marquee-direction-rtl-panel.webp" alt="اتجاه الحركة — مع اتجاه القراءة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اتجاه الحركة — مع اتجاه القراءة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:1:0:result"><img src="/carmella-docs/images/21-marquee-direction-rtl-result.webp" alt="اتجاه الحركة — مع اتجاه القراءة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>اتجاه الحركة — مع اتجاه القراءة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:1:0:result"><img src="/carmella-docs/images/21-marquee-direction-rtl-result.webp?v=f4132e766532" alt="اتجاه الحركة — مع اتجاه القراءة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>اتجاه الحركة — مع اتجاه القراءة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">عكس اتجاه القراءة</p><div class="preview-grid">
@@ -55,7 +55,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">جاهز (بطيء/عادي/سريع) — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/21-marquee:2:0:panel"><img src="/carmella-docs/images/21-marquee-speed-mode-preset-panel.webp" alt="وضع السرعة — جاهز (بطيء/عادي/سريع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وضع السرعة — جاهز (بطيء/عادي/سريع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:2:0:result"><img src="/carmella-docs/images/21-marquee-speed-mode-preset-result.webp" alt="وضع السرعة — جاهز (بطيء/عادي/سريع) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>وضع السرعة — جاهز (بطيء/عادي/سريع) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:2:0:result"><img src="/carmella-docs/images/21-marquee-speed-mode-preset-result.webp?v=f4132e766532" alt="وضع السرعة — جاهز (بطيء/عادي/سريع) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>وضع السرعة — جاهز (بطيء/عادي/سريع) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">مخصص بالثواني</p><div class="preview-grid">
@@ -78,7 +78,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">عادي — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/21-marquee:3:1:panel"><img src="/carmella-docs/images/21-marquee-speed-normal-panel.webp" alt="السرعة الجاهزة — عادي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>السرعة الجاهزة — عادي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:3:1:result"><img src="/carmella-docs/images/21-marquee-speed-normal-result.webp" alt="السرعة الجاهزة — عادي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>السرعة الجاهزة — عادي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:3:1:result"><img src="/carmella-docs/images/21-marquee-speed-normal-result.webp?v=f4132e766532" alt="السرعة الجاهزة — عادي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>السرعة الجاهزة — عادي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">سريع</p><div class="preview-grid">
@@ -94,7 +94,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «وضع السرعة» = مخصص بالثواني</p>
 
 <div class="setting-example"><p class="option-label">مدة دورة كاملة (ثانية)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:4:0:panel"><img src="/carmella-docs/images/21-marquee-speed-seconds-panel.webp" alt="مدة دورة كاملة (ثانية) — مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة دورة كاملة (ثانية) — مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:4:0:panel"><img src="/carmella-docs/images/21-marquee-speed-seconds-panel.webp?v=4ce169f8bea6" alt="مدة دورة كاملة (ثانية) — مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة دورة كاملة (ثانية) — مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## إيقاف مؤقت عند التأشير
@@ -104,7 +104,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يوقف الحركة حين يضع الزائر المؤشر عليها ليقرأ.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:5:0:panel"><img src="/carmella-docs/images/21-marquee-pause-on-hover-panel.webp" alt="إيقاف مؤقت عند التأشير — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>إيقاف مؤقت عند التأشير — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:5:0:panel"><img src="/carmella-docs/images/21-marquee-pause-on-hover-panel.webp?v=a1e0ed994877" alt="إيقاف مؤقت عند التأشير — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>إيقاف مؤقت عند التأشير — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مصدر الشريط (أ / الرئيسي)
@@ -116,16 +116,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> نصوص يدوية · تصنيفات المتجر · رابط التخفيضات</p>
 
 <div class="setting-example"><p class="option-label">نصوص يدوية — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:6:0:panel"><img src="/carmella-docs/images/21-marquee-strip-a-source-manual-panel.webp" alt="مصدر الشريط (أ / الرئيسي) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:6:0:result"><img src="/carmella-docs/images/21-marquee-strip-a-source-manual-result.webp" alt="مصدر الشريط (أ / الرئيسي) — نصوص يدوية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — نصوص يدوية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:6:0:panel"><img src="/carmella-docs/images/21-marquee-strip-a-source-manual-panel.webp?v=93f4fe34bf70" alt="مصدر الشريط (أ / الرئيسي) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:6:0:result"><img src="/carmella-docs/images/21-marquee-strip-a-source-manual-result.webp?v=f4132e766532" alt="مصدر الشريط (أ / الرئيسي) — نصوص يدوية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — نصوص يدوية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">تصنيفات المتجر</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:6:1:panel"><img src="/carmella-docs/images/21-marquee-strip-a-source-categories-panel.webp" alt="مصدر الشريط (أ / الرئيسي) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:6:1:panel"><img src="/carmella-docs/images/21-marquee-strip-a-source-categories-panel.webp?v=9809e850e4be" alt="مصدر الشريط (أ / الرئيسي) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">رابط التخفيضات</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:6:2:panel"><img src="/carmella-docs/images/21-marquee-strip-a-source-offers-panel.webp" alt="مصدر الشريط (أ / الرئيسي) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:6:2:panel"><img src="/carmella-docs/images/21-marquee-strip-a-source-offers-panel.webp?v=3ebcde4fac81" alt="مصدر الشريط (أ / الرئيسي) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط (أ / الرئيسي) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## النصوص اليدوية (شريط أ)
@@ -137,7 +137,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = نصوص يدوية</p>
 
 <div class="setting-example"><p class="option-label">النصوص اليدوية (شريط أ)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:7:0:panel"><img src="/carmella-docs/images/21-marquee-items-panel.webp" alt="النصوص اليدوية (شريط أ) — النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النصوص اليدوية (شريط أ) — النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:7:0:panel"><img src="/carmella-docs/images/21-marquee-items-panel.webp?v=e938ea28b260" alt="النصوص اليدوية (شريط أ) — النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النصوص اليدوية (شريط أ) — النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -175,7 +175,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = تصنيفات المتجر</p>
 
 <div class="setting-example"><p class="option-label">تصنيفات الشريط أ</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:8:0:panel"><img src="/carmella-docs/images/21-marquee-categories-panel.webp" alt="تصنيفات الشريط أ — تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط أ — تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:8:0:panel"><img src="/carmella-docs/images/21-marquee-categories-panel.webp?v=22d7c8a25b06" alt="تصنيفات الشريط أ — تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط أ — تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص شريحة التخفيضات
@@ -187,7 +187,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = رابط التخفيضات</p>
 
 <div class="setting-example"><p class="option-label">نص شريحة التخفيضات</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:9:0:panel"><img src="/carmella-docs/images/21-marquee-offers-label-panel.webp" alt="نص شريحة التخفيضات — نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص شريحة التخفيضات — نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:9:0:panel"><img src="/carmella-docs/images/21-marquee-offers-label-panel.webp?v=6cf137442263" alt="نص شريحة التخفيضات — نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص شريحة التخفيضات — نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط التخفيضات
@@ -199,7 +199,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = رابط التخفيضات</p>
 
 <div class="setting-example"><p class="option-label">رابط التخفيضات</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:10:0:panel"><img src="/carmella-docs/images/21-marquee-offers-url-panel.webp" alt="رابط التخفيضات — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط التخفيضات — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:10:0:panel"><img src="/carmella-docs/images/21-marquee-offers-url-panel.webp?v=835ce43bbc6a" alt="رابط التخفيضات — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط التخفيضات — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نصوص الشريط ب (متقاطع)
@@ -211,7 +211,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «الشكل» = crossed</p>
 
 <div class="setting-example"><p class="option-label">نصوص الشريط ب (متقاطع)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:11:0:panel"><img src="/carmella-docs/images/21-marquee-items-strip-b-panel.webp" alt="نصوص الشريط ب (متقاطع) — نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نصوص الشريط ب (متقاطع) — نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:11:0:panel"><img src="/carmella-docs/images/21-marquee-items-strip-b-panel.webp?v=6bf76e11feb5" alt="نصوص الشريط ب (متقاطع) — نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نصوص الشريط ب (متقاطع) — نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -251,16 +251,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> نصوص يدوية · تصنيفات المتجر · رابط التخفيضات</p>
 
 <div class="setting-example"><p class="option-label">نصوص يدوية — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:12:0:panel"><img src="/carmella-docs/images/21-marquee-strip-b-source-manual-panel.webp" alt="مصدر الشريط ب (متقاطع) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:12:0:result"><img src="/carmella-docs/images/21-marquee-strip-b-source-manual-result.webp" alt="مصدر الشريط ب (متقاطع) — نصوص يدوية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — نصوص يدوية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:12:0:panel"><img src="/carmella-docs/images/21-marquee-strip-b-source-manual-panel.webp?v=50759876656f" alt="مصدر الشريط ب (متقاطع) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — نصوص يدوية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:12:0:result"><img src="/carmella-docs/images/21-marquee-strip-b-source-manual-result.webp?v=f4132e766532" alt="مصدر الشريط ب (متقاطع) — نصوص يدوية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — نصوص يدوية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">تصنيفات المتجر</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:12:1:panel"><img src="/carmella-docs/images/21-marquee-strip-b-source-categories-panel.webp" alt="مصدر الشريط ب (متقاطع) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:12:1:panel"><img src="/carmella-docs/images/21-marquee-strip-b-source-categories-panel.webp?v=fa29dfc90f2d" alt="مصدر الشريط ب (متقاطع) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — تصنيفات المتجر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">رابط التخفيضات</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:12:2:panel"><img src="/carmella-docs/images/21-marquee-strip-b-source-offers-panel.webp" alt="مصدر الشريط ب (متقاطع) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:12:2:panel"><img src="/carmella-docs/images/21-marquee-strip-b-source-offers-panel.webp?v=f99089a9fee6" alt="مصدر الشريط ب (متقاطع) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر الشريط ب (متقاطع) — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تصنيفات الشريط ب
@@ -272,7 +272,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «الشكل» = crossed و «مصدر الشريط ب (متقاطع)» = تصنيفات المتجر</p>
 
 <div class="setting-example"><p class="option-label">تصنيفات الشريط ب</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:13:0:panel"><img src="/carmella-docs/images/21-marquee-categories-strip-b-panel.webp" alt="تصنيفات الشريط ب — تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط ب — تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:13:0:panel"><img src="/carmella-docs/images/21-marquee-categories-strip-b-panel.webp?v=b6055fc39f5d" alt="تصنيفات الشريط ب — تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط ب — تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نمط النص
@@ -284,16 +284,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> كلاسيكي (أحرف كبيرة) · أنيق (حالة طبيعية) · عرض (واسع وبارز)</p>
 
 <div class="setting-example"><p class="option-label">كلاسيكي (أحرف كبيرة)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:14:0:panel"><img src="/carmella-docs/images/21-marquee-text-style-classic-panel.webp" alt="نمط النص — كلاسيكي (أحرف كبيرة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نمط النص — كلاسيكي (أحرف كبيرة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:14:0:panel"><img src="/carmella-docs/images/21-marquee-text-style-classic-panel.webp?v=a0bbe3edc350" alt="نمط النص — كلاسيكي (أحرف كبيرة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نمط النص — كلاسيكي (أحرف كبيرة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">أنيق (حالة طبيعية) — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:14:1:panel"><img src="/carmella-docs/images/21-marquee-text-style-elegant-panel.webp" alt="نمط النص — أنيق (حالة طبيعية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نمط النص — أنيق (حالة طبيعية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:14:1:result"><img src="/carmella-docs/images/21-marquee-text-style-elegant-result.webp" alt="نمط النص — أنيق (حالة طبيعية) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>نمط النص — أنيق (حالة طبيعية) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:14:1:panel"><img src="/carmella-docs/images/21-marquee-text-style-elegant-panel.webp?v=a80abda5f0dc" alt="نمط النص — أنيق (حالة طبيعية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نمط النص — أنيق (حالة طبيعية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:14:1:result"><img src="/carmella-docs/images/21-marquee-text-style-elegant-result.webp?v=f4132e766532" alt="نمط النص — أنيق (حالة طبيعية) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>نمط النص — أنيق (حالة طبيعية) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">عرض (واسع وبارز)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:14:2:panel"><img src="/carmella-docs/images/21-marquee-text-style-display-panel.webp" alt="نمط النص — عرض (واسع وبارز) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نمط النص — عرض (واسع وبارز) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:14:2:panel"><img src="/carmella-docs/images/21-marquee-text-style-display-panel.webp?v=42a8d60356ab" alt="نمط النص — عرض (واسع وبارز) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نمط النص — عرض (واسع وبارز) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## حجم الخط
@@ -310,7 +310,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">متوسط — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/21-marquee:15:1:panel"><img src="/carmella-docs/images/21-marquee-font-size-medium-panel.webp" alt="حجم الخط — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم الخط — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:15:1:result"><img src="/carmella-docs/images/21-marquee-font-size-medium-result.webp" alt="حجم الخط — متوسط — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الخط — متوسط — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:15:1:result"><img src="/carmella-docs/images/21-marquee-font-size-medium-result.webp?v=f4132e766532" alt="حجم الخط — متوسط — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الخط — متوسط — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">كبير</p><div class="preview-grid">
@@ -341,7 +341,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">نجمة — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/21-marquee:17:0:panel"><img src="/carmella-docs/images/21-marquee-separator-star-panel.webp" alt="أيقونة الفاصل بين النصوص — نجمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أيقونة الفاصل بين النصوص — نجمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:17:0:result"><img src="/carmella-docs/images/21-marquee-separator-star-result.webp" alt="أيقونة الفاصل بين النصوص — نجمة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أيقونة الفاصل بين النصوص — نجمة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:17:0:result"><img src="/carmella-docs/images/21-marquee-separator-star-result.webp?v=f4132e766532" alt="أيقونة الفاصل بين النصوص — نجمة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أيقونة الفاصل بين النصوص — نجمة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">ألماسة</p><div class="preview-grid">
@@ -420,7 +420,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">عادي — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/21-marquee:20:1:panel"><img src="/carmella-docs/images/21-marquee-density-normal-panel.webp" alt="تباعد العناصر — عادي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تباعد العناصر — عادي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/21-marquee:20:1:result"><img src="/carmella-docs/images/21-marquee-density-normal-result.webp" alt="تباعد العناصر — عادي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>تباعد العناصر — عادي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/21-marquee:20:1:result"><img src="/carmella-docs/images/21-marquee-density-normal-result.webp?v=f4132e766532" alt="تباعد العناصر — عادي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>تباعد العناصر — عادي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">واسع</p><div class="preview-grid">

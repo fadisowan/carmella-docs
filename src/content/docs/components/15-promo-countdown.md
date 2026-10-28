@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:desktop"><img src="/carmella-docs/images/15-promo-countdown-desktop.webp" alt="عرض + عدّاد تنازلي — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>عرض + عدّاد تنازلي — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/15-promo-countdown:mobile"><img src="/carmella-docs/images/15-promo-countdown-mobile.webp" alt="عرض + عدّاد تنازلي — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>عرض + عدّاد تنازلي — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:desktop"><img src="/carmella-docs/images/15-promo-countdown-desktop.webp?v=14f60ccdeed3" alt="عرض + عدّاد تنازلي — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>عرض + عدّاد تنازلي — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:mobile"><img src="/carmella-docs/images/15-promo-countdown-mobile.webp?v=9cdfce692e6b" alt="عرض + عدّاد تنازلي — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>عرض + عدّاد تنازلي — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -105,12 +105,12 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">ممتلئ — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/15-promo-countdown:8:0:panel"><img src="/carmella-docs/images/15-promo-countdown-cml-btn-style-filled-panel.webp" alt="شكل الزر — ممتلئ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>شكل الزر — ممتلئ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/15-promo-countdown:8:0:result"><img src="/carmella-docs/images/15-promo-countdown-cml-btn-style-filled-result.webp" alt="شكل الزر — ممتلئ — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>شكل الزر — ممتلئ — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:8:0:result"><img src="/carmella-docs/images/15-promo-countdown-cml-btn-style-filled-result.webp?v=14f60ccdeed3" alt="شكل الزر — ممتلئ — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>شكل الزر — ممتلئ — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">مفرّغ</p><div class="preview-grid">
 <figure data-source-ref="components/15-promo-countdown:8:1:panel"><img src="/carmella-docs/images/15-promo-countdown-cml-btn-style-outline-panel.webp" alt="شكل الزر — مفرّغ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>شكل الزر — مفرّغ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/15-promo-countdown:8:1:result"><img src="/carmella-docs/images/15-promo-countdown-cml-btn-style-outline-result.webp" alt="شكل الزر — مفرّغ — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>شكل الزر — مفرّغ — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:8:1:result"><img src="/carmella-docs/images/15-promo-countdown-cml-btn-style-outline-result.webp?v=b2277e550868" alt="شكل الزر — مفرّغ — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>شكل الزر — مفرّغ — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

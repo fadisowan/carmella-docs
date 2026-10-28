@@ -9,12 +9,9 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/20-video-story:desktop"><img src="/carmella-docs/images/20-video-story-desktop.webp" alt="قصص فيديو — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>قصص فيديو — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/20-video-story:desktop"><img src="/carmella-docs/images/20-video-story-desktop.webp?v=7935dcc0c117" alt="قصص فيديو — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>قصص فيديو — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/20-video-story:mobile"><img src="/carmella-docs/images/20-video-story-mobile.webp?v=1b294344ad27" alt="قصص فيديو — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>قصص فيديو — معاينة الجوال</figcaption></figure>
 </div>
-
-:::note[معاينة الجوال]
-لم تتضمن الحزمة لقطة مستقلة للجوال لهذا المكوّن.
-:::
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
 
@@ -25,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:0:0:panel"><img src="/carmella-docs/images/20-video-story-section-title-panel.webp" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:0:0:panel"><img src="/carmella-docs/images/20-video-story-section-title-panel.webp?v=0e9a7a62a341" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الفيديوهات
@@ -35,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">الفيديوهات</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:1:0:panel"><img src="/carmella-docs/images/20-video-story-items-panel.webp" alt="الفيديوهات — الفيديوهات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الفيديوهات — الفيديوهات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:1:0:panel"><img src="/carmella-docs/images/20-video-story-items-panel.webp?v=d2a47b21a0d4" alt="الفيديوهات — الفيديوهات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الفيديوهات — الفيديوهات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -103,16 +100,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:2:0:panel"><img src="/carmella-docs/images/20-video-story-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/20-video-story:2:0:result"><img src="/carmella-docs/images/20-video-story-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/20-video-story:2:0:panel"><img src="/carmella-docs/images/20-video-story-align-right-panel.webp?v=04c32b5c624d" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:2:0:result"><img src="/carmella-docs/images/20-video-story-align-right-result.webp?v=7935dcc0c117" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:2:1:panel"><img src="/carmella-docs/images/20-video-story-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:2:1:panel"><img src="/carmella-docs/images/20-video-story-align-center-panel.webp?v=2b4284c4aee1" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:2:2:panel"><img src="/carmella-docs/images/20-video-story-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:2:2:panel"><img src="/carmella-docs/images/20-video-story-align-left-panel.webp?v=1279245aef8b" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## التخطيط
@@ -124,16 +121,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> ستوري أفقي · كروت · مميز</p>
 
 <div class="setting-example"><p class="option-label">ستوري أفقي — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:3:0:panel"><img src="/carmella-docs/images/20-video-story-layout-stories-panel.webp" alt="التخطيط — ستوري أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — ستوري أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/20-video-story:3:0:result"><img src="/carmella-docs/images/20-video-story-layout-stories-result.webp" alt="التخطيط — ستوري أفقي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>التخطيط — ستوري أفقي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/20-video-story:3:0:panel"><img src="/carmella-docs/images/20-video-story-layout-stories-panel.webp?v=8aca1ab1f130" alt="التخطيط — ستوري أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — ستوري أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:3:0:result"><img src="/carmella-docs/images/20-video-story-layout-stories-result.webp?v=7935dcc0c117" alt="التخطيط — ستوري أفقي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>التخطيط — ستوري أفقي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">كروت</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:3:1:panel"><img src="/carmella-docs/images/20-video-story-layout-cards-panel.webp" alt="التخطيط — كروت — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — كروت — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:3:1:panel"><img src="/carmella-docs/images/20-video-story-layout-cards-panel.webp?v=be4c8ee54f4e" alt="التخطيط — كروت — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — كروت — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">مميز</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:3:2:panel"><img src="/carmella-docs/images/20-video-story-layout-featured-panel.webp" alt="التخطيط — مميز — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — مميز — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:3:2:panel"><img src="/carmella-docs/images/20-video-story-layout-featured-panel.webp?v=85d015d1e197" alt="التخطيط — مميز — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — مميز — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## أبعاد الفيديو
@@ -145,18 +142,18 @@ editUrl: false
 <p><strong>الخيارات:</strong> طولي · مربع · عريض</p>
 
 <div class="setting-example"><p class="option-label">طولي — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:4:0:panel"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-portrait-panel.webp" alt="أبعاد الفيديو — طولي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — طولي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/20-video-story:4:0:result"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-portrait-result.webp" alt="أبعاد الفيديو — طولي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — طولي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/20-video-story:4:0:panel"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-portrait-panel.webp?v=addf10444caa" alt="أبعاد الفيديو — طولي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — طولي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:4:0:result"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-portrait-result.webp?v=7935dcc0c117" alt="أبعاد الفيديو — طولي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — طولي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">مربع</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:4:1:panel"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-square-panel.webp" alt="أبعاد الفيديو — مربع — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — مربع — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/20-video-story:4:1:result"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-square-result.webp" alt="أبعاد الفيديو — مربع — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — مربع — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/20-video-story:4:1:panel"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-square-panel.webp?v=90dfd7faad22" alt="أبعاد الفيديو — مربع — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — مربع — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:4:1:result"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-square-result.webp?v=d7f5841cd9b0" alt="أبعاد الفيديو — مربع — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — مربع — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">عريض</p><div class="preview-grid">
-<figure data-source-ref="components/20-video-story:4:2:panel"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-wide-panel.webp" alt="أبعاد الفيديو — عريض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — عريض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/20-video-story:4:2:result"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-wide-result.webp" alt="أبعاد الفيديو — عريض — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — عريض — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/20-video-story:4:2:panel"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-wide-panel.webp?v=6bbee9536033" alt="أبعاد الفيديو — عريض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — عريض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/20-video-story:4:2:result"><img src="/carmella-docs/images/20-video-story-cml-vs-ratio-wide-result.webp?v=8d82b9d48b19" alt="أبعاد الفيديو — عريض — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أبعاد الفيديو — عريض — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 ## التشغيل
@@ -169,7 +166,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">عند الظهور — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/20-video-story:5:0:panel"><img src="/carmella-docs/images/20-video-story-cml-vs-play-view-panel.webp" alt="التشغيل — عند الظهور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التشغيل — عند الظهور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/20-video-story:5:0:result"><img src="/carmella-docs/images/20-video-story-cml-vs-play-view-result.webp" alt="التشغيل — عند الظهور — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>التشغيل — عند الظهور — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/20-video-story:5:0:result"><img src="/carmella-docs/images/20-video-story-cml-vs-play-view-result.webp?v=7935dcc0c117" alt="التشغيل — عند الظهور — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>التشغيل — عند الظهور — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">عند مرور الماوس فقط</p><div class="preview-grid">

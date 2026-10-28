@@ -14,7 +14,7 @@ for(const u of nav){const m=JSON.parse(fs.readFileSync('source-docs/'+u.path+'/m
 assert.equal(fields,562);assert.equal(items,139);assert.equal(pairs,907);
 assert.deepEqual([...expected].sort(),release.assignments.map(x=>[x.ref,x.file]).sort(),'Image mapping differs from original manifest');
 for(const {ref,file}of release.assignments){const slug=ref.split(':')[0],html=fs.readFileSync('dist/'+slug+'/index.html','utf8');const start=html.indexOf(`data-source-ref="${ref}"`);assert.ok(start>=0,'Missing option image '+ref);const figure=html.slice(start,html.indexOf('</figure>',start));assert.ok(figure.includes(`/carmella-docs/images/${file}`),'Wrong option image '+ref);}
-const images=list('source-docs/images');assert.equal(images.length,1145);assert.deepEqual(list('dist/images'),images);
+const images=list('source-docs/images');assert.equal(images.length,1146);assert.deepEqual(list('dist/images'),images);
 for(const image of images)assert.equal(hash('dist/images/'+image),hash('source-docs/images/'+image),'Published original image changed: '+image);
 const files=list('dist').filter(f=>f.endsWith('.html'));let references=0;
 for(const f of files){const html=fs.readFileSync('dist/'+f,'utf8');assert.ok(!/بانتظار محتوى الثيم|واجهة الدليل جاهزة، والشروحات|سيُضاف محتوى/.test(html),'Placeholder page '+f);for(const match of html.matchAll(/(?:href|src)="(\/carmella-docs\/[^"?#]*)(?:[^"\s]*)"/g)){let target=decodeURIComponent(match[1].replace('/carmella-docs/',''));if(!target||target.endsWith('/'))target+='index.html';assert.ok(fs.existsSync('dist/'+target),f+': '+target);references++;}}

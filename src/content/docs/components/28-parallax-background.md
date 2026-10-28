@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/28-parallax-background:desktop"><img src="/carmella-docs/images/28-parallax-background-desktop.webp" alt="بنر باراللاكس — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>بنر باراللاكس — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/28-parallax-background:mobile"><img src="/carmella-docs/images/28-parallax-background-mobile.webp" alt="بنر باراللاكس — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>بنر باراللاكس — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:desktop"><img src="/carmella-docs/images/28-parallax-background-desktop.webp?v=99afad02d143" alt="بنر باراللاكس — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>بنر باراللاكس — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:mobile"><img src="/carmella-docs/images/28-parallax-background-mobile.webp?v=fbf0af2c92f4" alt="بنر باراللاكس — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>بنر باراللاكس — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -75,7 +75,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/28-parallax-background:5:0:panel"><img src="/carmella-docs/images/28-parallax-background-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/28-parallax-background:5:0:result"><img src="/carmella-docs/images/28-parallax-background-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:5:0:result"><img src="/carmella-docs/images/28-parallax-background-align-right-result.webp?v=99afad02d143" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">

@@ -2,55 +2,55 @@
 
 | القسم | الخيارات | صورة الحاسوب | صورة الجوال | صور النتائج | المصدر |
 |---|---|---|---|---|---|
-| 01-enhanced-slider — صور متحركة (محسنة) | 9 | ✓ | ✓ | 5 | carmelea |
+| 01-enhanced-slider — صور متحركة (محسنة) | 9 | ✓ | ✓ | 5 | final |
 | 02-main-links — روابط سريعة | 11 | — | — | 0 | — |
 | 03-slider-products-with-header — منتجات متحركة مع خلفية | 7 | — | — | 0 | — |
-| 04-enhanced-square-banners — صور مربعة (محسنة) | 5 | ✓ | ✓ | 0 | fadi |
-| 05-cml-promo-banners — بانرات ترويجية (شبكة) | 5 | ✓ | ✓ | 3 | fadi |
+| 04-enhanced-square-banners — صور مربعة (محسنة) | 5 | ✓ | ✓ | 0 | final |
+| 05-cml-promo-banners — بانرات ترويجية (شبكة) | 5 | ✓ | ✓ | 3 | final |
 | 06-brands — الماركات التجارية | 8 | — | — | 0 | — |
 | 07-custom-testimonials — آراء عملاء مخصصة | 7 | — | — | 0 | — |
-| 08-accordion-gallery — معرض أكورديون تفاعلي | 10 | ✓ | ✓ | 3 | fadi |
-| 09-hotspot-shop-look — تسوّق من الصورة (نقاط) | 9 | ✓ | ✓ | 0 | fadi |
-| 10-before-after — قبل / بعد | 9 | ✓ | ✓ | 4 | fadi |
-| 11-lookbook — معرض الإطلالات | 5 | ✓ | ✓ | 1 | carmelea |
-| 12-press-logos — شعارات العملاء مخصص | 8 | ✓ | ✓ | 6 | fadi |
+| 08-accordion-gallery — معرض أكورديون تفاعلي | 10 | ✓ | ✓ | 3 | final |
+| 09-hotspot-shop-look — تسوّق من الصورة (نقاط) | 9 | ✓ | ✓ | 0 | final |
+| 10-before-after — قبل / بعد | 9 | ✓ | ✓ | 4 | final |
+| 11-lookbook — معرض الإطلالات | 5 | ✓ | ✓ | 1 | final |
+| 12-press-logos — شعارات العملاء مخصص | 8 | ✓ | ✓ | 6 | final |
 | 13-recently-viewed — شاهدت مؤخراً | 4 | — | — | 0 | — |
-| 14-category-showcase — واجهة التصنيفات | 6 | ✓ | ✓ | 2 | fadi |
-| 15-promo-countdown — عرض + عدّاد تنازلي | 10 | ✓ | ✓ | 2 | fadi |
-| 16-animated-image — كارميلا | صورة متحركة | 15 | ✓ | ✓ | 4 | fadi |
-| 17-hover-reveal-gallery — كارميلا | معرض كشف الصور | 7 | ✓ | ✓ | 4 | fadi |
-| 18-text-reveal — كارميلا | ظهور النص | 12 | ✓ | ✓ | 5 | carmelea |
-| 19-sticky-story — كارميلا | قصة ثابتة مع السكرول | 6 | ✓ | ✓ | 1 | fadi |
-| 20-video-story — كارميلا | قصص فيديو | 7 | ✓ | — | 6 | fadi |
-| 21-marquee — كارميلا | شريط نصوص متحرك | 24 | ✓ | ✓ | 10 | carmelea |
-| 22-youtube — كارميلا · فيديو يوتيوب | 6 | ✓ | ✓ | 0 | fadi |
-| 23-store-features — كارميلا · مميزات المتجر | 6 | ✓ | ✓ | 1 | fadi |
+| 14-category-showcase — واجهة التصنيفات | 6 | ✓ | ✓ | 2 | final |
+| 15-promo-countdown — عرض + عدّاد تنازلي | 10 | ✓ | ✓ | 2 | final |
+| 16-animated-image — كارميلا | صورة متحركة | 15 | ✓ | ✓ | 4 | final |
+| 17-hover-reveal-gallery — كارميلا | معرض كشف الصور | 7 | ✓ | ✓ | 4 | final |
+| 18-text-reveal — كارميلا | ظهور النص | 12 | ✓ | ✓ | 5 | final |
+| 19-sticky-story — كارميلا | قصة ثابتة مع السكرول | 6 | ✓ | ✓ | 1 | final |
+| 20-video-story — كارميلا | قصص فيديو | 7 | ✓ | ✓ | 6 | final |
+| 21-marquee — كارميلا | شريط نصوص متحرك | 24 | ✓ | ✓ | 10 | final |
+| 22-youtube — كارميلا · فيديو يوتيوب | 6 | ✓ | ✓ | 0 | final |
+| 23-store-features — كارميلا · مميزات المتجر | 6 | ✓ | ✓ | 1 | final |
 | 24-testimonials — كارميلا · آراء العملاء | 6 | — | — | 0 | — |
 | 25-latest-products — كارميلا · أحدث المنتجات | 10 | — | — | 0 | — |
-| 26-photos-slider — كارميلا · معرض صور | 6 | ✓ | ✓ | 0 | fadi |
-| 27-square-photos — كارميلا · صور مربعة | 6 | ✓ | ✓ | 2 | fadi |
-| 28-parallax-background — كارميلا · بنر باراللاكس | 8 | ✓ | ✓ | 1 | fadi |
-| 29-fixed-banner — كارميلا · بنر ثابت | 6 | ✓ | ✓ | 0 | fadi |
+| 26-photos-slider — كارميلا · معرض صور | 6 | ✓ | ✓ | 0 | final |
+| 27-square-photos — كارميلا · صور مربعة | 6 | ✓ | ✓ | 2 | final |
+| 28-parallax-background — كارميلا · بنر باراللاكس | 8 | ✓ | ✓ | 1 | final |
+| 29-fixed-banner — كارميلا · بنر ثابت | 6 | ✓ | ✓ | 0 | final |
 | 30-cml-promo — كارميلا · بانر إعلاني / خصم | 16 | — | — | 0 | — |
-| 31-featured-products-style1 — كارميلا · منتجات مميزة - نمط 1 | 14 | ✓ | ✓ | 12 | carmelea |
-| 32-featured-products-style2 — كارميلا · منتجات مميزة - نمط 2 | 16 | ✓ | ✓ | 12 | carmelea |
-| 33-products-tabs — كارميلا · تبويبات علوية | 11 | ✓ | ✓ | 11 | fadi |
-| 34-faq — كارميلا · الأسئلة الشائعة | 5 | ✓ | ✓ | 1 | fadi |
-| 35-circular-categories — كارميلا · فئات دائرية | 10 | ✓ | ✓ | 15 | carmelea |
+| 31-featured-products-style1 — كارميلا · منتجات مميزة - نمط 1 | 14 | ✓ | ✓ | 12 | final |
+| 32-featured-products-style2 — كارميلا · منتجات مميزة - نمط 2 | 16 | ✓ | ✓ | 12 | final |
+| 33-products-tabs — كارميلا · تبويبات علوية | 11 | ✓ | ✓ | 11 | final |
+| 34-faq — كارميلا · الأسئلة الشائعة | 5 | ✓ | ✓ | 1 | final |
+| 35-circular-categories — كارميلا · فئات دائرية | 10 | ✓ | ✓ | 15 | final |
 | 36-enhanced-video-slider — فيديو متحرك (محسّن) | 8 | — | — | 0 | — |
-| 37-cml-about — كارميلا · نبذة عنّا | 8 | ✓ | ✓ | 0 | fadi |
-| 38-cml-banner-slider — كارميلا · بانر سلايدر | 7 | ✓ | ✓ | 5 | fadi |
-| 39-cml-social-icons — كارميلا · أيقونات التواصل الاجتماعي | 14 | ✓ | ✓ | 1 | fadi |
-| 40-cml-curated-collection — كارميلا · مجموعة مختارة مع صورة | 12 | ✓ | ✓ | 1 | fadi |
+| 37-cml-about — كارميلا · نبذة عنّا | 8 | ✓ | ✓ | 0 | final |
+| 38-cml-banner-slider — كارميلا · بانر سلايدر | 7 | ✓ | ✓ | 5 | final |
+| 39-cml-social-icons — كارميلا · أيقونات التواصل الاجتماعي | 14 | ✓ | ✓ | 1 | final |
+| 40-cml-curated-collection — كارميلا · مجموعة مختارة مع صورة | 12 | ✓ | ✓ | 1 | final |
 | 41-cml-cta-banner — كارميلا · بانر CTA | 10 | — | — | 0 | — |
-| 42-cml-aside-tabs — كارميلا · منتجات بتبويبات جانبية | 11 | ✓ | ✓ | 10 | carmelea |
-| 43-stacked-cards — بطاقات متراكبة | 5 | ✓ | ✓ | 1 | carmelea |
-| 44-horizontal-showcase — عرض أفقي متحرك | 9 | ✓ | ✓ | 3 | carmelea |
-| 45-cml-instagram — كارميلا · معرض إنستغرام | 8 | ✓ | ✓ | 2 | fadi |
-| 46-cml-product-spotlight — منتج بالتفصيل | 7 | ✓ | ✓ | 1 | fadi |
-| 47-cml-brand-numbers — كارميلا · أرقام تحكي القصة | 8 | ✓ | ✓ | 1 | fadi |
-| 48-cml-swipe-discovery — كارميلا · اكتشف بالسحب | 21 | ✓ | ✓ | 3 | fadi |
-| 49-cml-editorial-masonry — كارميلا · شبكة المنتجات التحريرية | 24 | ✓ | ✓ | 3 | fadi |
+| 42-cml-aside-tabs — كارميلا · منتجات بتبويبات جانبية | 11 | ✓ | ✓ | 10 | final |
+| 43-stacked-cards — بطاقات متراكبة | 5 | ✓ | ✓ | 1 | final |
+| 44-horizontal-showcase — عرض أفقي متحرك | 9 | ✓ | ✓ | 3 | final |
+| 45-cml-instagram — كارميلا · معرض إنستغرام | 8 | ✓ | ✓ | 2 | final |
+| 46-cml-product-spotlight — منتج بالتفصيل | 7 | ✓ | ✓ | 1 | final |
+| 47-cml-brand-numbers — كارميلا · أرقام تحكي القصة | 8 | ✓ | ✓ | 1 | final |
+| 48-cml-swipe-discovery — كارميلا · اكتشف بالسحب | 21 | ✓ | ✓ | 3 | final |
+| 49-cml-editorial-masonry — كارميلا · شبكة المنتجات التحريرية | 24 | ✓ | ✓ | 3 | final |
 
 ## أقسام بلا لقطة (10)
 

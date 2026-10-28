@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/11-lookbook:desktop"><img src="/carmella-docs/images/11-lookbook-desktop.webp" alt="معرض الإطلالات — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>معرض الإطلالات — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/11-lookbook:mobile"><img src="/carmella-docs/images/11-lookbook-mobile.webp" alt="معرض الإطلالات — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>معرض الإطلالات — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:desktop"><img src="/carmella-docs/images/11-lookbook-desktop.webp?v=35a4f0d411a4" alt="معرض الإطلالات — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>معرض الإطلالات — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:mobile"><img src="/carmella-docs/images/11-lookbook-mobile.webp?v=83e8cf983cc6" alt="معرض الإطلالات — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>معرض الإطلالات — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/11-lookbook:0:0:panel"><img src="/carmella-docs/images/11-lookbook-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:0:0:panel"><img src="/carmella-docs/images/11-lookbook-title-panel.webp?v=ecee6853bde8" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي تحت العنوان (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي تحت العنوان (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/11-lookbook:1:0:panel"><img src="/carmella-docs/images/11-lookbook-subtitle-panel.webp" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:1:0:panel"><img src="/carmella-docs/images/11-lookbook-subtitle-panel.webp?v=7301fe5bba03" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصور
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">الصور</p><div class="preview-grid">
-<figure data-source-ref="components/11-lookbook:2:0:panel"><img src="/carmella-docs/images/11-lookbook-items-panel.webp" alt="الصور — الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصور — الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:2:0:panel"><img src="/carmella-docs/images/11-lookbook-items-panel.webp?v=b0ca9ae9a65c" alt="الصور — الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصور — الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -86,16 +86,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/11-lookbook:3:0:panel"><img src="/carmella-docs/images/11-lookbook-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/11-lookbook:3:0:result"><img src="/carmella-docs/images/11-lookbook-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:3:0:panel"><img src="/carmella-docs/images/11-lookbook-align-right-panel.webp?v=fd66e9c80d6e" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:3:0:result"><img src="/carmella-docs/images/11-lookbook-align-right-result.webp?v=35a4f0d411a4" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/11-lookbook:3:1:panel"><img src="/carmella-docs/images/11-lookbook-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:3:1:panel"><img src="/carmella-docs/images/11-lookbook-align-center-panel.webp?v=99e8316afafb" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/11-lookbook:3:2:panel"><img src="/carmella-docs/images/11-lookbook-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/11-lookbook:3:2:panel"><img src="/carmella-docs/images/11-lookbook-align-left-panel.webp?v=7877a127a813" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

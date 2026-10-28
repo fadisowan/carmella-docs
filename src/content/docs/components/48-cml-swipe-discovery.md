@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:desktop"><img src="/carmella-docs/images/48-cml-swipe-discovery-desktop.webp" alt="اكتشف بالسحب — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>اكتشف بالسحب — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/48-cml-swipe-discovery:mobile"><img src="/carmella-docs/images/48-cml-swipe-discovery-mobile.webp" alt="اكتشف بالسحب — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>اكتشف بالسحب — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:desktop"><img src="/carmella-docs/images/48-cml-swipe-discovery-desktop.webp?v=cbb4180c5871" alt="اكتشف بالسحب — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>اكتشف بالسحب — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:mobile"><img src="/carmella-docs/images/48-cml-swipe-discovery-mobile.webp?v=c90aed133ff6" alt="اكتشف بالسحب — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>اكتشف بالسحب — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر صغير فوق العنوان. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان تمهيدي صغير</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:0:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-eyebrow-panel.webp" alt="عنوان تمهيدي صغير — عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان تمهيدي صغير — عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:0:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-eyebrow-panel.webp?v=6700f1fea39e" alt="عنوان تمهيدي صغير — عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان تمهيدي صغير — عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> كل سطر يظهر في سطر مستقل.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:1:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:1:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-title-panel.webp?v=82bb1aaf7695" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف قصير
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">وصف قصير</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:2:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-description-panel.webp" alt="وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:2:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-description-panel.webp?v=3aebcddb4373" alt="وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص زر عرض جميع المنتجات
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على زر عرض جميع المنتجات.</p>
 
 <div class="setting-example"><p class="option-label">نص زر عرض جميع المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:3:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-text-panel.webp" alt="نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:3:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-text-panel.webp?v=bd780ffe019e" alt="نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط زر عرض جميع المنتجات
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصفحة التي يفتحها زر عرض جميع المنتجات.</p>
 
 <div class="setting-example"><p class="option-label">رابط زر عرض جميع المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:4:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-url-panel.webp" alt="رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:4:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-url-panel.webp?v=5b2d4f5de335" alt="رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مصدر المنتجات
@@ -74,28 +74,28 @@ editUrl: false
 <p><strong>الخيارات:</strong> الأحدث · الأكثر مبيعاً · العروض والتخفيضات · تصنيف محدد · علامة تجارية · منتجات محددة</p>
 
 <div class="setting-example"><p class="option-label">الأحدث — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:5:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-latest-panel.webp" alt="مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/48-cml-swipe-discovery:5:0:result"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-latest-result.webp" alt="مصدر المنتجات — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:5:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-latest-panel.webp?v=4e434607da35" alt="مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:5:0:result"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-latest-result.webp?v=cbb4180c5871" alt="مصدر المنتجات — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">الأكثر مبيعاً</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:5:1:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-sales-panel.webp" alt="مصدر المنتجات — الأكثر مبيعاً — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأكثر مبيعاً — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:5:1:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-sales-panel.webp?v=4fc3b5c916c8" alt="مصدر المنتجات — الأكثر مبيعاً — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأكثر مبيعاً — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">العروض والتخفيضات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:5:2:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-offers-panel.webp" alt="مصدر المنتجات — العروض والتخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — العروض والتخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:5:2:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-offers-panel.webp?v=9d4e67815631" alt="مصدر المنتجات — العروض والتخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — العروض والتخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">تصنيف محدد</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:5:3:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-categories-panel.webp" alt="مصدر المنتجات — تصنيف محدد — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — تصنيف محدد — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:5:3:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-categories-panel.webp?v=9f504f296ce6" alt="مصدر المنتجات — تصنيف محدد — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — تصنيف محدد — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">علامة تجارية</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:5:4:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-brands-panel.webp" alt="مصدر المنتجات — علامة تجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — علامة تجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:5:4:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-brands-panel.webp?v=c02771a5894c" alt="مصدر المنتجات — علامة تجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — علامة تجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">منتجات محددة</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:5:5:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-selected-panel.webp" alt="مصدر المنتجات — منتجات محددة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — منتجات محددة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:5:5:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-type-selected-panel.webp?v=cddcda27e14c" alt="مصدر المنتجات — منتجات محددة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — منتجات محددة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر التصنيفات
@@ -234,7 +234,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">صفحة المنتج — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/48-cml-swipe-discovery:18:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-open-mode-product-panel.webp" alt="الضغط على البطاقة يفتح — صفحة المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الضغط على البطاقة يفتح — صفحة المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/48-cml-swipe-discovery:18:0:result"><img src="/carmella-docs/images/48-cml-swipe-discovery-open-mode-product-result.webp" alt="الضغط على البطاقة يفتح — صفحة المنتج — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>الضغط على البطاقة يفتح — صفحة المنتج — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:18:0:result"><img src="/carmella-docs/images/48-cml-swipe-discovery-open-mode-product-result.webp?v=cbb4180c5871" alt="الضغط على البطاقة يفتح — صفحة المنتج — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>الضغط على البطاقة يفتح — صفحة المنتج — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">العرض السريع</p><div class="preview-grid">
@@ -251,7 +251,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">بدون خلفية — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/48-cml-swipe-discovery:19:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-background-style-plain-panel.webp" alt="خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/48-cml-swipe-discovery:19:0:result"><img src="/carmella-docs/images/48-cml-swipe-discovery-background-style-plain-result.webp" alt="خلفية القسم — بدون خلفية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:19:0:result"><img src="/carmella-docs/images/48-cml-swipe-discovery-background-style-plain-result.webp?v=cbb4180c5871" alt="خلفية القسم — بدون خلفية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">خلفية متدرجة</p><div class="preview-grid">

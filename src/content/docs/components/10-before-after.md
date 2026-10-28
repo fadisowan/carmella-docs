@@ -9,7 +9,7 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/10-before-after:desktop"><img src="/carmella-docs/images/10-before-after-desktop.webp" alt="قبل / بعد — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>قبل / بعد — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/10-before-after:desktop"><img src="/carmella-docs/images/10-before-after-desktop.webp?v=ee64c351f67f" alt="قبل / بعد — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>قبل / بعد — معاينة الكمبيوتر</figcaption></figure>
 <figure data-source-ref="components/10-before-after:mobile"><img src="/carmella-docs/images/10-before-after-mobile.webp" alt="قبل / بعد — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>قبل / بعد — معاينة الجوال</figcaption></figure>
 </div>
 
@@ -85,7 +85,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/10-before-after:6:0:panel"><img src="/carmella-docs/images/10-before-after-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/10-before-after:6:0:result"><img src="/carmella-docs/images/10-before-after-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/10-before-after:6:0:result"><img src="/carmella-docs/images/10-before-after-align-right-result.webp?v=ee64c351f67f" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
@@ -106,17 +106,17 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">ذهبي — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/10-before-after:7:0:panel"><img src="/carmella-docs/images/10-before-after-cml-divider-gold-panel.webp" alt="لون الفاصل — ذهبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الفاصل — ذهبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/10-before-after:7:0:result"><img src="/carmella-docs/images/10-before-after-cml-divider-gold-result.webp" alt="لون الفاصل — ذهبي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون الفاصل — ذهبي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/10-before-after:7:0:result"><img src="/carmella-docs/images/10-before-after-cml-divider-gold-result.webp?v=ee64c351f67f" alt="لون الفاصل — ذهبي — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون الفاصل — ذهبي — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">أبيض</p><div class="preview-grid">
 <figure data-source-ref="components/10-before-after:7:1:panel"><img src="/carmella-docs/images/10-before-after-cml-divider-white-panel.webp" alt="لون الفاصل — أبيض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الفاصل — أبيض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/10-before-after:7:1:result"><img src="/carmella-docs/images/10-before-after-cml-divider-white-result.webp" alt="لون الفاصل — أبيض — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون الفاصل — أبيض — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/10-before-after:7:1:result"><img src="/carmella-docs/images/10-before-after-cml-divider-white-result.webp?v=6a0364706e23" alt="لون الفاصل — أبيض — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون الفاصل — أبيض — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">داكن</p><div class="preview-grid">
 <figure data-source-ref="components/10-before-after:7:2:panel"><img src="/carmella-docs/images/10-before-after-cml-divider-dark-panel.webp" alt="لون الفاصل — داكن — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الفاصل — داكن — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/10-before-after:7:2:result"><img src="/carmella-docs/images/10-before-after-cml-divider-dark-result.webp" alt="لون الفاصل — داكن — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون الفاصل — داكن — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/10-before-after:7:2:result"><img src="/carmella-docs/images/10-before-after-cml-divider-dark-result.webp?v=51744c1ee8d2" alt="لون الفاصل — داكن — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون الفاصل — داكن — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

@@ -10,7 +10,7 @@ editUrl: false
 
 <div class="preview-grid">
 <figure data-source-ref="components/04-enhanced-square-banners:desktop"><img src="/carmella-docs/images/04-enhanced-square-banners-desktop.webp" alt="صور مربعة (محسنة) — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>صور مربعة (محسنة) — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/04-enhanced-square-banners:mobile"><img src="/carmella-docs/images/04-enhanced-square-banners-mobile.webp" alt="صور مربعة (محسنة) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>صور مربعة (محسنة) — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:mobile"><img src="/carmella-docs/images/04-enhanced-square-banners-mobile.webp?v=b7b8494899c0" alt="صور مربعة (محسنة) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>صور مربعة (محسنة) — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يظهر فوق الشبكة عند تعبئته.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/04-enhanced-square-banners:0:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-section-title-panel.webp" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:0:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-section-title-panel.webp?v=011eb9be547d" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## قائمة الصور
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصور التي يعرضها القسم، لكل صورة رابطها.</p>
 
 <div class="setting-example"><p class="option-label">قائمة الصور</p><div class="preview-grid">
-<figure data-source-ref="components/04-enhanced-square-banners:1:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-banners-panel.webp" alt="قائمة الصور — قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>قائمة الصور — قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:1:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-banners-panel.webp?v=44514c14a708" alt="قائمة الصور — قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>قائمة الصور — قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -68,7 +68,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> شبكة متساوية دائمًا حتى مع أربع صور فأكثر.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/04-enhanced-square-banners:2:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-disable-feature-panel.webp" alt="تعطيل البلاطة الكبيرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تعطيل البلاطة الكبيرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:2:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-disable-feature-panel.webp?v=aab6f8cd97d8" alt="تعطيل البلاطة الكبيرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تعطيل البلاطة الكبيرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## إخفاء النصوص فوق الصور
@@ -78,7 +78,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عرض الصور وحدها بلا عناوين أو أوصاف.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/04-enhanced-square-banners:3:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-hide-text-panel.webp" alt="إخفاء النصوص فوق الصور — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>إخفاء النصوص فوق الصور — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:3:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-hide-text-panel.webp?v=53fda7886874" alt="إخفاء النصوص فوق الصور — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>إخفاء النصوص فوق الصور — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

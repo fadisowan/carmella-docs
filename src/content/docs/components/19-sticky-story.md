@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:desktop"><img src="/carmella-docs/images/19-sticky-story-desktop.webp" alt="قصة ثابتة مع السكرول — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>قصة ثابتة مع السكرول — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/19-sticky-story:mobile"><img src="/carmella-docs/images/19-sticky-story-mobile.webp" alt="قصة ثابتة مع السكرول — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>قصة ثابتة مع السكرول — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:desktop"><img src="/carmella-docs/images/19-sticky-story-desktop.webp?v=63a3b83621b5" alt="قصة ثابتة مع السكرول — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>قصة ثابتة مع السكرول — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:mobile"><img src="/carmella-docs/images/19-sticky-story-mobile.webp?v=94cc4c735bbd" alt="قصة ثابتة مع السكرول — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>قصة ثابتة مع السكرول — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:0:0:panel"><img src="/carmella-docs/images/19-sticky-story-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:0:0:panel"><img src="/carmella-docs/images/19-sticky-story-title-panel.webp?v=a1197306fb06" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الوصف
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.</p>
 
 <div class="setting-example"><p class="option-label">الوصف</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:1:0:panel"><img src="/carmella-docs/images/19-sticky-story-description-panel.webp" alt="الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:1:0:panel"><img src="/carmella-docs/images/19-sticky-story-description-panel.webp?v=de85102bf518" alt="الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصورة الثابتة
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصورة المعروضة في هذا العنصر.</p>
 
 <div class="setting-example"><p class="option-label">الصورة الثابتة</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:2:0:panel"><img src="/carmella-docs/images/19-sticky-story-image-panel.webp" alt="الصورة الثابتة — الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة الثابتة — الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:2:0:panel"><img src="/carmella-docs/images/19-sticky-story-image-panel.webp?v=d7109f3adc01" alt="الصورة الثابتة — الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة الثابتة — الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الخطوات
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">الخطوات</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:3:0:panel"><img src="/carmella-docs/images/19-sticky-story-items-panel.webp" alt="الخطوات — الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الخطوات — الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:3:0:panel"><img src="/carmella-docs/images/19-sticky-story-items-panel.webp?v=1b93cbee6f26" alt="الخطوات — الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الخطوات — الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -90,12 +90,12 @@ editUrl: false
 <p><strong>الخيارات:</strong> صورة · عنوان</p>
 
 <div class="setting-example"><p class="option-label">صورة — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:4:0:panel"><img src="/carmella-docs/images/19-sticky-story-pinned-type-image-panel.webp" alt="نوع العنصر الثابت — صورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع العنصر الثابت — صورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/19-sticky-story:4:0:result"><img src="/carmella-docs/images/19-sticky-story-pinned-type-image-result.webp" alt="نوع العنصر الثابت — صورة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>نوع العنصر الثابت — صورة — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:4:0:panel"><img src="/carmella-docs/images/19-sticky-story-pinned-type-image-panel.webp?v=afaac650ed8f" alt="نوع العنصر الثابت — صورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع العنصر الثابت — صورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:4:0:result"><img src="/carmella-docs/images/19-sticky-story-pinned-type-image-result.webp?v=63a3b83621b5" alt="نوع العنصر الثابت — صورة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>نوع العنصر الثابت — صورة — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">عنوان</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:4:1:panel"><img src="/carmella-docs/images/19-sticky-story-pinned-type-title-panel.webp" alt="نوع العنصر الثابت — عنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع العنصر الثابت — عنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:4:1:panel"><img src="/carmella-docs/images/19-sticky-story-pinned-type-title-panel.webp?v=0d1876087fd2" alt="نوع العنصر الثابت — عنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع العنصر الثابت — عنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

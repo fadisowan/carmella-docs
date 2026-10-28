@@ -14,14 +14,12 @@ editUrl: false
 
 ## الشرائح
 
-اسم الحقل في المصدر: <code>slides</code>.
-
 <p class="field-meta"><span><strong>النوع:</strong> عناصر متكررة</span><span><strong>الافتراضي:</strong> عناصر جاهزة</span></p>
 
 <p><strong>الوظيفة:</strong> الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.</p>
 
 <div class="setting-example"><p class="option-label">الشرائح</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:0:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-slides-panel.webp" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:0:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-slides-panel.webp?v=ca51fdb37c61" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -89,19 +87,19 @@ editUrl: false
 <p><strong>الخيارات:</strong> ظهور من الأسفل (افتراضي) · كاشف مقطوع · انزلاق جانبي · ظهور كلمة كلمة</p>
 
 <div class="setting-example"><p class="option-label">ظهور من الأسفل (افتراضي) — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:1:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-fade-up-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:1:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-fade-up-panel.webp?v=5e416b59eb7b" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">كاشف مقطوع</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:1:1:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-clip-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:1:1:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-clip-panel.webp?v=9fe8eef13bc6" alt="نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">انزلاق جانبي</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:1:2:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-drift-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:1:2:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-drift-panel.webp?v=3687756c08af" alt="نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">ظهور كلمة كلمة</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:1:3:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-typewriter-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:1:3:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-text-anim-typewriter-panel.webp?v=f336cde23e2a" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تنقّل تلقائي بين الشرائح
@@ -111,7 +109,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> إطفاؤه يثبّت الشريحة حتى يسحب الزائر.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:2:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-autoplay-slides-panel.webp" alt="تنقّل تلقائي بين الشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تنقّل تلقائي بين الشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:2:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-autoplay-slides-panel.webp?v=41ab2263e753" alt="تنقّل تلقائي بين الشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تنقّل تلقائي بين الشرائح — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نقاط التنقّل
@@ -121,7 +119,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> مؤشرات الشرائح أسفل العرض.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:3:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-show-pagination-panel.webp" alt="نقاط التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نقاط التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:3:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-show-pagination-panel.webp?v=f8c03d99badb" alt="نقاط التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نقاط التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ألوان النصوص والزر

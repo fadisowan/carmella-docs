@@ -1,15 +1,6 @@
 {
   "wideDesktopForMobileOptions": [
-    "08-accordion-gallery-mobile-layout-accordion-result.webp",
-    "31-featured-products-style1-cml-cols-m-1-result.webp",
-    "31-featured-products-style1-cml-cols-m-2-result.webp",
-    "32-featured-products-style2-cml-cols-m-1-result.webp",
-    "32-featured-products-style2-cml-cols-m-2-result.webp",
-    "35-circular-categories-cml-per-row-m-2-result.webp",
-    "35-circular-categories-cml-per-row-m-3-result.webp",
-    "35-circular-categories-cml-per-row-m-4-result.webp",
-    "42-cml-aside-tabs-cml-cols-m-1-result.webp",
-    "42-cml-aside-tabs-cml-cols-m-2-result.webp"
+    "08-accordion-gallery-mobile-layout-accordion-result.webp"
   ],
   "sharedResultFiles": [
     "01-enhanced-slider-cml-slide-seconds-theme-result.webp",
@@ -66,30 +57,27 @@
     "31-featured-products-style1-align-right-result.webp",
     "31-featured-products-style1-card-hover-default-result.webp",
     "31-featured-products-style1-cml-card-style-section-result.webp",
+    "31-featured-products-style1-cml-cols-d-4-result.webp",
     "31-featured-products-style1-cml-cols-d-auto-result.webp",
     "31-featured-products-style1-source-type-latest-result.webp",
-    "31-featured-products-style1-cml-cols-d-4-result.webp",
-    "31-featured-products-style1-cml-cols-m-1-result.webp",
     "31-featured-products-style1-cml-cols-m-2-result.webp",
+    "31-featured-products-style1-cml-cols-m-auto-result.webp",
     "32-featured-products-style2-align-right-result.webp",
     "32-featured-products-style2-card-hover-default-result.webp",
     "32-featured-products-style2-cml-card-style-section-result.webp",
+    "32-featured-products-style2-cml-cols-d-4-result.webp",
     "32-featured-products-style2-cml-cols-d-auto-result.webp",
     "32-featured-products-style2-source-type-latest-result.webp",
-    "32-featured-products-style2-cml-cols-d-4-result.webp",
-    "32-featured-products-style2-cml-cols-m-1-result.webp",
-    "32-featured-products-style2-cml-cols-m-2-result.webp",
     "33-products-tabs-align-right-result.webp",
     "33-products-tabs-card-hover-default-result.webp",
     "33-products-tabs-cml-card-style-section-result.webp",
+    "33-products-tabs-cml-cols-d-4-result.webp",
     "33-products-tabs-cml-cols-d-auto-result.webp",
+    "33-products-tabs-cml-cols-m-2-result.webp",
+    "33-products-tabs-cml-cols-m-auto-result.webp",
     "35-circular-categories-align-right-result.webp",
     "35-circular-categories-cml-img-shape-circle-result.webp",
     "35-circular-categories-cml-per-row-d-auto-result.webp",
-    "35-circular-categories-cml-per-row-d-6-result.webp",
-    "35-circular-categories-cml-per-row-m-2-result.webp",
-    "35-circular-categories-cml-per-row-m-3-result.webp",
-    "35-circular-categories-cml-per-row-m-4-result.webp",
     "38-cml-banner-slider-cml-slide-seconds-theme-result.webp",
     "38-cml-banner-slider-cml-transition-slide-result.webp",
     "38-cml-banner-slider-cml-zoom-off-result.webp",
@@ -98,8 +86,8 @@
     "42-cml-aside-tabs-card-hover-default-result.webp",
     "42-cml-aside-tabs-cml-card-style-section-result.webp",
     "42-cml-aside-tabs-cml-cols-d-auto-result.webp",
-    "42-cml-aside-tabs-cml-cols-m-1-result.webp",
     "42-cml-aside-tabs-cml-cols-m-2-result.webp",
+    "42-cml-aside-tabs-cml-cols-m-auto-result.webp",
     "44-horizontal-showcase-background-style-plain-result.webp",
     "44-horizontal-showcase-loop-direction-forward-result.webp",
     "44-horizontal-showcase-loop-speed-normal-result.webp",
@@ -114,8 +102,10 @@
     "shared-cml-bg-soft-result.webp",
     "shared-cml-bg-surface-result.webp"
   ],
-  "iconIssues": [
-    "components/23-store-features",
-    "components/39-cml-social-icons"
+  "iconIssues": [],
+  "resolved": [
+    "Mobile column previews now captured at mobile width for components 31, 32, 35, 42",
+    "Icons corrected in store features and social icons",
+    "Video stories mobile preview added"
   ]
 }

@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:desktop"><img src="/carmella-docs/images/43-stacked-cards-desktop.webp" alt="بطاقات متراكبة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>بطاقات متراكبة — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/43-stacked-cards:mobile"><img src="/carmella-docs/images/43-stacked-cards-mobile.webp" alt="بطاقات متراكبة — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>بطاقات متراكبة — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:desktop"><img src="/carmella-docs/images/43-stacked-cards-desktop.webp?v=08446beb2975" alt="بطاقات متراكبة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>بطاقات متراكبة — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:mobile"><img src="/carmella-docs/images/43-stacked-cards-mobile.webp?v=0c4aa954a3d8" alt="بطاقات متراكبة — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>بطاقات متراكبة — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:0:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-title-panel.webp" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:0:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-title-panel.webp?v=228435a67d4b" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف القسم
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> وصف قصير تحت عنوان القسم.</p>
 
 <div class="setting-example"><p class="option-label">وصف القسم</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:1:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-description-panel.webp" alt="وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:1:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-description-panel.webp?v=4b5e28642cad" alt="وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## البطاقات
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">البطاقات</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:2:0:panel"><img src="/carmella-docs/images/43-stacked-cards-items-panel.webp" alt="البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:2:0:panel"><img src="/carmella-docs/images/43-stacked-cards-items-panel.webp?v=3afcc12a9e6f" alt="البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -92,12 +92,12 @@ editUrl: false
 <p><strong>الخيارات:</strong> وسط · جانبي</p>
 
 <div class="setting-example"><p class="option-label">وسط — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:3:0:panel"><img src="/carmella-docs/images/43-stacked-cards-stack-style-centered-panel.webp" alt="أسلوب التكديس — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب التكديس — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/43-stacked-cards:3:0:result"><img src="/carmella-docs/images/43-stacked-cards-stack-style-centered-result.webp" alt="أسلوب التكديس — وسط — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أسلوب التكديس — وسط — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:3:0:panel"><img src="/carmella-docs/images/43-stacked-cards-stack-style-centered-panel.webp?v=16ca19cd9616" alt="أسلوب التكديس — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب التكديس — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:3:0:result"><img src="/carmella-docs/images/43-stacked-cards-stack-style-centered-result.webp?v=08446beb2975" alt="أسلوب التكديس — وسط — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أسلوب التكديس — وسط — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">جانبي</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:3:1:panel"><img src="/carmella-docs/images/43-stacked-cards-stack-style-side-panel.webp" alt="أسلوب التكديس — جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب التكديس — جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:3:1:panel"><img src="/carmella-docs/images/43-stacked-cards-stack-style-side-panel.webp?v=d14b33a83e03" alt="أسلوب التكديس — جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب التكديس — جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/37-cml-about:desktop"><img src="/carmella-docs/images/37-cml-about-desktop.webp" alt="نبذة عنّا — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>نبذة عنّا — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/37-cml-about:mobile"><img src="/carmella-docs/images/37-cml-about-mobile.webp" alt="نبذة عنّا — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>نبذة عنّا — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/37-cml-about:desktop"><img src="/carmella-docs/images/37-cml-about-desktop.webp?v=8d3a78473a2c" alt="نبذة عنّا — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>نبذة عنّا — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/37-cml-about:mobile"><img src="/carmella-docs/images/37-cml-about-mobile.webp?v=6511eb438947" alt="نبذة عنّا — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>نبذة عنّا — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).

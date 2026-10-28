@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/12-press-logos:desktop"><img src="/carmella-docs/images/12-press-logos-desktop.webp" alt="شعارات العملاء مخصص — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>شعارات العملاء مخصص — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/12-press-logos:mobile"><img src="/carmella-docs/images/12-press-logos-mobile.webp" alt="شعارات العملاء مخصص — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>شعارات العملاء مخصص — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/12-press-logos:desktop"><img src="/carmella-docs/images/12-press-logos-desktop.webp?v=58376b39b456" alt="شعارات العملاء مخصص — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>شعارات العملاء مخصص — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/12-press-logos:mobile"><img src="/carmella-docs/images/12-press-logos-mobile.webp?v=1002848f6918" alt="شعارات العملاء مخصص — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>شعارات العملاء مخصص — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -75,7 +75,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/12-press-logos:3:0:panel"><img src="/carmella-docs/images/12-press-logos-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/12-press-logos:3:0:result"><img src="/carmella-docs/images/12-press-logos-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/12-press-logos:3:0:result"><img src="/carmella-docs/images/12-press-logos-align-right-result.webp?v=58376b39b456" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
@@ -106,17 +106,17 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">صغير</p><div class="preview-grid">
 <figure data-source-ref="components/12-press-logos:5:0:panel"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-sm-panel.webp" alt="حجم الشعار — صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم الشعار — صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/12-press-logos:5:0:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-sm-result.webp" alt="حجم الشعار — صغير — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الشعار — صغير — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/12-press-logos:5:0:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-sm-result.webp?v=fb6f3179da7a" alt="حجم الشعار — صغير — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الشعار — صغير — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">متوسط — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/12-press-logos:5:1:panel"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-md-panel.webp" alt="حجم الشعار — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم الشعار — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/12-press-logos:5:1:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-md-result.webp" alt="حجم الشعار — متوسط — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الشعار — متوسط — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/12-press-logos:5:1:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-md-result.webp?v=58376b39b456" alt="حجم الشعار — متوسط — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الشعار — متوسط — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">كبير</p><div class="preview-grid">
 <figure data-source-ref="components/12-press-logos:5:2:panel"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-lg-panel.webp" alt="حجم الشعار — كبير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم الشعار — كبير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/12-press-logos:5:2:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-lg-result.webp" alt="حجم الشعار — كبير — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الشعار — كبير — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/12-press-logos:5:2:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-size-lg-result.webp?v=8c5fbef4bedb" alt="حجم الشعار — كبير — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم الشعار — كبير — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 ## ألوان الشعارات
@@ -129,7 +129,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">أبيض وأسود (الافتراضي) — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/12-press-logos:6:0:panel"><img src="/carmella-docs/images/12-press-logos-cml-logo-tone-theme-panel.webp" alt="ألوان الشعارات — أبيض وأسود (الافتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ألوان الشعارات — أبيض وأسود (الافتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/12-press-logos:6:0:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-tone-theme-result.webp" alt="ألوان الشعارات — أبيض وأسود (الافتراضي) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>ألوان الشعارات — أبيض وأسود (الافتراضي) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/12-press-logos:6:0:result"><img src="/carmella-docs/images/12-press-logos-cml-logo-tone-theme-result.webp?v=58376b39b456" alt="ألوان الشعارات — أبيض وأسود (الافتراضي) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>ألوان الشعارات — أبيض وأسود (الافتراضي) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">ملوّنة</p><div class="preview-grid">

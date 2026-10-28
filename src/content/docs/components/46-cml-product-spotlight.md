@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/46-cml-product-spotlight:desktop"><img src="/carmella-docs/images/46-cml-product-spotlight-desktop.webp" alt="منتج بالتفصيل — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>منتج بالتفصيل — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/46-cml-product-spotlight:mobile"><img src="/carmella-docs/images/46-cml-product-spotlight-mobile.webp" alt="منتج بالتفصيل — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>منتج بالتفصيل — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/46-cml-product-spotlight:desktop"><img src="/carmella-docs/images/46-cml-product-spotlight-desktop.webp?v=b39d92878926" alt="منتج بالتفصيل — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>منتج بالتفصيل — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/46-cml-product-spotlight:mobile"><img src="/carmella-docs/images/46-cml-product-spotlight-mobile.webp?v=3c992d5b5f58" alt="منتج بالتفصيل — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>منتج بالتفصيل — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -59,7 +59,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">الصورة في البداية — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/46-cml-product-spotlight:2:0:panel"><img src="/carmella-docs/images/46-cml-product-spotlight-layout-image-start-panel.webp" alt="موضع الصورة — الصورة في البداية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>موضع الصورة — الصورة في البداية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/46-cml-product-spotlight:2:0:result"><img src="/carmella-docs/images/46-cml-product-spotlight-layout-image-start-result.webp" alt="موضع الصورة — الصورة في البداية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>موضع الصورة — الصورة في البداية — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/46-cml-product-spotlight:2:0:result"><img src="/carmella-docs/images/46-cml-product-spotlight-layout-image-start-result.webp?v=b39d92878926" alt="موضع الصورة — الصورة في البداية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>موضع الصورة — الصورة في البداية — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">الصورة في النهاية</p><div class="preview-grid">

@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:desktop"><img src="/carmella-docs/images/44-horizontal-showcase-desktop.webp" alt="عرض أفقي متحرك — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>عرض أفقي متحرك — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/44-horizontal-showcase:mobile"><img src="/carmella-docs/images/44-horizontal-showcase-mobile.webp" alt="عرض أفقي متحرك — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>عرض أفقي متحرك — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:desktop"><img src="/carmella-docs/images/44-horizontal-showcase-desktop.webp?v=9a4a95319074" alt="عرض أفقي متحرك — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>عرض أفقي متحرك — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:mobile"><img src="/carmella-docs/images/44-horizontal-showcase-mobile.webp?v=5d220b2ebfe6" alt="عرض أفقي متحرك — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>عرض أفقي متحرك — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:0:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-section-title-panel.webp" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:0:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-section-title-panel.webp?v=ee0271a19dce" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف القسم
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> وصف قصير تحت عنوان القسم.</p>
 
 <div class="setting-example"><p class="option-label">وصف القسم</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:1:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-section-description-panel.webp" alt="وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:1:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-section-description-panel.webp?v=02c020e34de7" alt="وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الشرائح
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">الشرائح</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:2:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-items-panel.webp" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:2:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-items-panel.webp?v=b4344476e74d" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -84,7 +84,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> مطفأة افتراضيًّا. الشريط يُسحب بالإصبع وبعجلة الفأرة، وتظهر الأسهم فوق الصور عند تفعيلها.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:3:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-show-arrows-panel.webp" alt="إظهار أسهم التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>إظهار أسهم التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:3:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-show-arrows-panel.webp?v=c38c1f3a5f40" alt="إظهار أسهم التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>إظهار أسهم التنقّل — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## حركة تلقائية مستمرة
@@ -94,7 +94,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> تتحرّك الشرائح من نفسها في حلقة لا تنتهي، بلا حاجة للتمرير. تتوقّف عند التأشير لتتيح النقر.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:4:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-auto-loop-panel.webp" alt="حركة تلقائية مستمرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حركة تلقائية مستمرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:4:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-auto-loop-panel.webp?v=d8f42a556990" alt="حركة تلقائية مستمرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حركة تلقائية مستمرة — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## سرعة الحركة
@@ -108,16 +108,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> هادئة · عادية · سريعة</p>
 
 <div class="setting-example"><p class="option-label">هادئة</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:5:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-slow-panel.webp" alt="سرعة الحركة — هادئة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — هادئة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:5:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-slow-panel.webp?v=63c02af804df" alt="سرعة الحركة — هادئة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — هادئة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">عادية — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:5:1:panel"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-normal-panel.webp" alt="سرعة الحركة — عادية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — عادية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/44-horizontal-showcase:5:1:result"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-normal-result.webp" alt="سرعة الحركة — عادية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — عادية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:5:1:panel"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-normal-panel.webp?v=0c587ff85441" alt="سرعة الحركة — عادية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — عادية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:5:1:result"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-normal-result.webp?v=9a4a95319074" alt="سرعة الحركة — عادية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — عادية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">سريعة</p><div class="preview-grid">
-<figure data-source-ref="components/44-horizontal-showcase:5:2:panel"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-fast-panel.webp" alt="سرعة الحركة — سريعة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — سريعة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:5:2:panel"><img src="/carmella-docs/images/44-horizontal-showcase-loop-speed-fast-panel.webp?v=84184a758d11" alt="سرعة الحركة — سريعة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سرعة الحركة — سريعة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اتجاه الحركة
@@ -132,7 +132,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">من اليمين إلى اليسار — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/44-horizontal-showcase:6:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-loop-direction-forward-panel.webp" alt="اتجاه الحركة — من اليمين إلى اليسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اتجاه الحركة — من اليمين إلى اليسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/44-horizontal-showcase:6:0:result"><img src="/carmella-docs/images/44-horizontal-showcase-loop-direction-forward-result.webp" alt="اتجاه الحركة — من اليمين إلى اليسار — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>اتجاه الحركة — من اليمين إلى اليسار — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:6:0:result"><img src="/carmella-docs/images/44-horizontal-showcase-loop-direction-forward-result.webp?v=9a4a95319074" alt="اتجاه الحركة — من اليمين إلى اليسار — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>اتجاه الحركة — من اليمين إلى اليسار — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">من اليسار إلى اليمين</p><div class="preview-grid">
@@ -149,7 +149,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">بدون خلفية — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/44-horizontal-showcase:7:0:panel"><img src="/carmella-docs/images/44-horizontal-showcase-background-style-plain-panel.webp" alt="خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/44-horizontal-showcase:7:0:result"><img src="/carmella-docs/images/44-horizontal-showcase-background-style-plain-result.webp" alt="خلفية القسم — بدون خلفية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/44-horizontal-showcase:7:0:result"><img src="/carmella-docs/images/44-horizontal-showcase-background-style-plain-result.webp?v=9a4a95319074" alt="خلفية القسم — بدون خلفية — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>خلفية القسم — بدون خلفية — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">بخلفية</p><div class="preview-grid">

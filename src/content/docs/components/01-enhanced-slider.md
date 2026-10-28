@@ -9,22 +9,20 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:desktop"><img src="/carmella-docs/images/01-enhanced-slider-desktop.webp" alt="صور متحركة (محسنة) — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>صور متحركة (محسنة) — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/01-enhanced-slider:mobile"><img src="/carmella-docs/images/01-enhanced-slider-mobile.webp" alt="صور متحركة (محسنة) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>صور متحركة (محسنة) — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:desktop"><img src="/carmella-docs/images/01-enhanced-slider-desktop.webp?v=4273ed62b61d" alt="صور متحركة (محسنة) — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>صور متحركة (محسنة) — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:mobile"><img src="/carmella-docs/images/01-enhanced-slider-mobile.webp?v=f039f66a49f6" alt="صور متحركة (محسنة) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>صور متحركة (محسنة) — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
 
 ## الشرائح
 
-اسم الحقل في المصدر: <code>slides</code>.
-
 <p class="field-meta"><span><strong>النوع:</strong> عناصر متكررة</span><span><strong>الافتراضي:</strong> عناصر جاهزة</span></p>
 
 <p><strong>الوظيفة:</strong> الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.</p>
 
 <div class="setting-example"><p class="option-label">الشرائح</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:0:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-slides-panel.webp" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:0:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-slides-panel.webp?v=963838ca4879" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -110,24 +108,24 @@ editUrl: false
 <p><strong>الخيارات:</strong> متحرك أفقياً (افتراضي) · ظهور من الأسفل · كاشف مقطوع · انزلاق جانبي · ظهور كلمة كلمة</p>
 
 <div class="setting-example"><p class="option-label">متحرك أفقياً (افتراضي) — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:1:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-swiper-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/01-enhanced-slider:1:0:result"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-swiper-result.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:1:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-swiper-panel.webp?v=963ba3fd311d" alt="نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:1:0:result"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-swiper-result.webp?v=4273ed62b61d" alt="نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — متحرك أفقياً (افتراضي) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">ظهور من الأسفل</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:1:1:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-fade-up-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:1:1:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-fade-up-panel.webp?v=0dda125e86d4" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور من الأسفل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">كاشف مقطوع</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:1:2:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-clip-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:1:2:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-clip-panel.webp?v=8ca9643a9e6b" alt="نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — كاشف مقطوع — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">انزلاق جانبي</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:1:3:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-drift-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:1:3:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-drift-panel.webp?v=9bbf917e5f83" alt="نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — انزلاق جانبي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">ظهور كلمة كلمة</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:1:4:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-typewriter-panel.webp" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:1:4:panel"><img src="/carmella-docs/images/01-enhanced-slider-text-anim-typewriter-panel.webp?v=96b43f65dd97" alt="نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نوع تأثير النص (افتراضي لكل الشرائح) — ظهور كلمة كلمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مدة كل شريحة
@@ -139,24 +137,24 @@ editUrl: false
 <p><strong>الخيارات:</strong> حسب الثيم · 4 ثوانٍ · 6 ثوانٍ · 8 ثوانٍ · 12 ثانية</p>
 
 <div class="setting-example"><p class="option-label">حسب الثيم — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:2:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-theme-panel.webp" alt="مدة كل شريحة — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/01-enhanced-slider:2:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-theme-result.webp" alt="مدة كل شريحة — حسب الثيم — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — حسب الثيم — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:2:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-theme-panel.webp?v=0eed13f2240f" alt="مدة كل شريحة — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:2:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-theme-result.webp?v=4273ed62b61d" alt="مدة كل شريحة — حسب الثيم — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — حسب الثيم — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">4 ثوانٍ</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:2:1:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-4-panel.webp" alt="مدة كل شريحة — 4 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 4 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:2:1:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-4-panel.webp?v=ea44ac91513d" alt="مدة كل شريحة — 4 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 4 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">6 ثوانٍ</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:2:2:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-6-panel.webp" alt="مدة كل شريحة — 6 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 6 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:2:2:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-6-panel.webp?v=1718d7ad013e" alt="مدة كل شريحة — 6 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 6 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">8 ثوانٍ</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:2:3:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-8-panel.webp" alt="مدة كل شريحة — 8 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 8 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:2:3:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-8-panel.webp?v=00202889088e" alt="مدة كل شريحة — 8 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 8 ثوانٍ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">12 ثانية</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:2:4:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-12-panel.webp" alt="مدة كل شريحة — 12 ثانية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 12 ثانية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:2:4:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-slide-seconds-12-panel.webp?v=c4f750dd3c65" alt="مدة كل شريحة — 12 ثانية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة كل شريحة — 12 ثانية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الانتقال بين الشرائح
@@ -168,12 +166,12 @@ editUrl: false
 <p><strong>الخيارات:</strong> انزلاق · تلاشي</p>
 
 <div class="setting-example"><p class="option-label">انزلاق — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:3:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-transition-slide-panel.webp" alt="الانتقال بين الشرائح — انزلاق — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الانتقال بين الشرائح — انزلاق — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/01-enhanced-slider:3:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-transition-slide-result.webp" alt="الانتقال بين الشرائح — انزلاق — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>الانتقال بين الشرائح — انزلاق — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:3:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-transition-slide-panel.webp?v=b46b5c0afdb2" alt="الانتقال بين الشرائح — انزلاق — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الانتقال بين الشرائح — انزلاق — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:3:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-transition-slide-result.webp?v=4273ed62b61d" alt="الانتقال بين الشرائح — انزلاق — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>الانتقال بين الشرائح — انزلاق — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">تلاشي</p><div class="preview-grid">
-<figure data-source-ref="components/01-enhanced-slider:3:1:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-transition-fade-panel.webp" alt="الانتقال بين الشرائح — تلاشي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الانتقال بين الشرائح — تلاشي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:3:1:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-transition-fade-panel.webp?v=9b199661f39f" alt="الانتقال بين الشرائح — تلاشي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الانتقال بين الشرائح — تلاشي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## حركة تقريب الصورة
@@ -186,7 +184,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">مفعّلة — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/01-enhanced-slider:4:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-zoom-on-panel.webp" alt="حركة تقريب الصورة — مفعّلة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حركة تقريب الصورة — مفعّلة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/01-enhanced-slider:4:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-zoom-on-result.webp" alt="حركة تقريب الصورة — مفعّلة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حركة تقريب الصورة — مفعّلة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:4:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-zoom-on-result.webp?v=4273ed62b61d" alt="حركة تقريب الصورة — مفعّلة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حركة تقريب الصورة — مفعّلة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">متوقفة</p><div class="preview-grid">
@@ -203,7 +201,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">حسب الثيم (افتراضي) — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/01-enhanced-slider:5:0:panel"><img src="/carmella-docs/images/01-enhanced-slider-cml-text-tone-theme-panel.webp" alt="ألوان النصوص والزر — حسب الثيم (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ألوان النصوص والزر — حسب الثيم (افتراضي) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/01-enhanced-slider:5:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-text-tone-theme-result.webp" alt="ألوان النصوص والزر — حسب الثيم (افتراضي) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>ألوان النصوص والزر — حسب الثيم (افتراضي) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/01-enhanced-slider:5:0:result"><img src="/carmella-docs/images/01-enhanced-slider-cml-text-tone-theme-result.webp?v=4273ed62b61d" alt="ألوان النصوص والزر — حسب الثيم (افتراضي) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>ألوان النصوص والزر — حسب الثيم (افتراضي) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">العنوان بلون الثيم</p><div class="preview-grid">

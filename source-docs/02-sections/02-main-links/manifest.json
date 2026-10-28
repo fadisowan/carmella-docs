@@ -59,7 +59,7 @@
       ]
     },
     {
-      "label": "links",
+      "label": "الروابط",
       "type": "عناصر متكررة",
       "default": "عناصر جاهزة",
       "what": "الروابط التي يعرضها القسم، لكل رابط نصه ووجهته وأيقونته.",
@@ -70,7 +70,7 @@
         {
           "panel": "../../images/02-main-links-links-panel.webp",
           "result": "",
-          "option": "links",
+          "option": "الروابط",
           "note": ""
         }
       ],

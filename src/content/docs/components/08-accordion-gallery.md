@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:desktop"><img src="/carmella-docs/images/08-accordion-gallery-desktop.webp" alt="معرض أكورديون تفاعلي — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>معرض أكورديون تفاعلي — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/08-accordion-gallery:mobile"><img src="/carmella-docs/images/08-accordion-gallery-mobile.webp" alt="معرض أكورديون تفاعلي — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>معرض أكورديون تفاعلي — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:desktop"><img src="/carmella-docs/images/08-accordion-gallery-desktop.webp?v=5602330a8382" alt="معرض أكورديون تفاعلي — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>معرض أكورديون تفاعلي — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:mobile"><img src="/carmella-docs/images/08-accordion-gallery-mobile.webp?v=6bfa7d39e4cf" alt="معرض أكورديون تفاعلي — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>معرض أكورديون تفاعلي — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:0:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:0:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-panel.webp?v=98e9c5a7d8f0" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي تحت العنوان (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير يظهر أسفل العنوان الرئيسي.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي تحت العنوان (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:1:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-subtitle-panel.webp" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:1:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-subtitle-panel.webp?v=6b4253c410eb" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## البطاقات
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">البطاقات</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:2:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-items-panel.webp" alt="البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:2:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-items-panel.webp?v=70e6aaa21fac" alt="البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -104,16 +104,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> صغير · متوسط · كبير</p>
 
 <div class="setting-example"><p class="option-label">صغير</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:3:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-size-small-panel.webp" alt="حجم خط العناوين — صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:3:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-size-small-panel.webp?v=958fb5bdc28a" alt="حجم خط العناوين — صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">متوسط</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:3:1:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-size-medium-panel.webp" alt="حجم خط العناوين — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:3:1:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-size-medium-panel.webp?v=e4cf79d7a89a" alt="حجم خط العناوين — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — متوسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">كبير — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:3:2:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-size-large-panel.webp" alt="حجم خط العناوين — كبير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — كبير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/08-accordion-gallery:3:2:result"><img src="/carmella-docs/images/08-accordion-gallery-title-size-large-result.webp" alt="حجم خط العناوين — كبير — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — كبير — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:3:2:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-size-large-panel.webp?v=71b6bf23372a" alt="حجم خط العناوين — كبير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — كبير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:3:2:result"><img src="/carmella-docs/images/08-accordion-gallery-title-size-large-result.webp?v=5602330a8382" alt="حجم خط العناوين — كبير — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>حجم خط العناوين — كبير — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 ## محاذاة العنوان والنص الفرعي
@@ -125,16 +125,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:4:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/08-accordion-gallery:4:0:result"><img src="/carmella-docs/images/08-accordion-gallery-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:4:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-align-right-panel.webp?v=6d2250f00026" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:4:0:result"><img src="/carmella-docs/images/08-accordion-gallery-align-right-result.webp?v=5602330a8382" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:4:1:panel"><img src="/carmella-docs/images/08-accordion-gallery-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:4:1:panel"><img src="/carmella-docs/images/08-accordion-gallery-align-center-panel.webp?v=75ad87d9eec1" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:4:2:panel"><img src="/carmella-docs/images/08-accordion-gallery-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:4:2:panel"><img src="/carmella-docs/images/08-accordion-gallery-align-left-panel.webp?v=028dab984fba" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تخطيط الجوال
@@ -146,16 +146,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> أكورديون — كل البطاقات ظاهرة · تمرير أفقي · بطاقات مكدّسة</p>
 
 <div class="setting-example"><p class="option-label">أكورديون — كل البطاقات ظاهرة — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:5:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-accordion-panel.webp" alt="تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/08-accordion-gallery:5:0:result"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-accordion-result.webp" alt="تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — معاينة النتيجة<small class="image-reference">لقطة المصدر على الكمبيوتر؛ لا تُظهر أثر هذا الخيار على الجوال. لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:5:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-accordion-panel.webp?v=7243e7a6c70b" alt="تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:5:0:result"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-accordion-result.webp?v=5602330a8382" alt="تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — أكورديون — كل البطاقات ظاهرة — معاينة النتيجة<small class="image-reference">لقطة المصدر على الكمبيوتر؛ لا تُظهر أثر هذا الخيار على الجوال. لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">تمرير أفقي</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:5:1:panel"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-scroll-panel.webp" alt="تخطيط الجوال — تمرير أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — تمرير أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:5:1:panel"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-scroll-panel.webp?v=b6768e0e8c06" alt="تخطيط الجوال — تمرير أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — تمرير أفقي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">بطاقات مكدّسة</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:5:2:panel"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-stacked-panel.webp" alt="تخطيط الجوال — بطاقات مكدّسة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — بطاقات مكدّسة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:5:2:panel"><img src="/carmella-docs/images/08-accordion-gallery-mobile-layout-stacked-panel.webp?v=5853d6ff8502" alt="تخطيط الجوال — بطاقات مكدّسة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تخطيط الجوال — بطاقات مكدّسة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ارتفاع البطاقات — سطح المكتب (بكسل)

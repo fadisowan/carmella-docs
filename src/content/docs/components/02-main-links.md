@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:0:0:panel"><img src="/carmella-docs/images/02-main-links-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:0:0:panel"><img src="/carmella-docs/images/02-main-links-title-panel.webp?v=a1c95d18e481" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عرض روابط التصنيفات
@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يمكنك تحديد التصنيفات بدل العناصر الخاصة، مع امكانية عرض صورة التصنيف مع العنصر</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:1:0:panel"><img src="/carmella-docs/images/02-main-links-show-cats-panel.webp" alt="عرض روابط التصنيفات — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عرض روابط التصنيفات — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:1:0:panel"><img src="/carmella-docs/images/02-main-links-show-cats-panel.webp?v=65246312e1bb" alt="عرض روابط التصنيفات — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عرض روابط التصنيفات — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## حدد التصنيفات
@@ -41,12 +41,10 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «عرض روابط التصنيفات» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">حدد التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:2:0:panel"><img src="/carmella-docs/images/02-main-links-categories-panel.webp" alt="حدد التصنيفات — حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حدد التصنيفات — حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:2:0:panel"><img src="/carmella-docs/images/02-main-links-categories-panel.webp?v=cf3d3739bd20" alt="حدد التصنيفات — حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حدد التصنيفات — حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الروابط
-
-اسم الحقل في المصدر: <code>links</code>.
 
 <p class="field-meta"><span><strong>النوع:</strong> عناصر متكررة</span><span><strong>الافتراضي:</strong> عناصر جاهزة</span></p>
 
@@ -55,7 +53,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «عرض روابط التصنيفات» = مطفأ</p>
 
 <div class="setting-example"><p class="option-label">الروابط</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:3:0:panel"><img src="/carmella-docs/images/02-main-links-links-panel.webp" alt="الروابط — الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الروابط — الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:3:0:panel"><img src="/carmella-docs/images/02-main-links-links-panel.webp?v=251b3f597058" alt="الروابط — الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الروابط — الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -87,15 +85,15 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:4:0:panel"><img src="/carmella-docs/images/02-main-links-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:4:0:panel"><img src="/carmella-docs/images/02-main-links-align-right-panel.webp?v=93d19f59e457" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:4:1:panel"><img src="/carmella-docs/images/02-main-links-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:4:1:panel"><img src="/carmella-docs/images/02-main-links-align-center-panel.webp?v=454d7489a292" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:4:2:panel"><img src="/carmella-docs/images/02-main-links-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:4:2:panel"><img src="/carmella-docs/images/02-main-links-align-left-panel.webp?v=08038157289b" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## دمج مع العنصر السابق
@@ -105,7 +103,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يلصق القسم بالقسم الذي فوقه بلا فراغ، ليبدوا قسمًا واحدًا.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:5:0:panel"><img src="/carmella-docs/images/02-main-links-merge-with-top-component-panel.webp" alt="دمج مع العنصر السابق — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>دمج مع العنصر السابق — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:5:0:panel"><img src="/carmella-docs/images/02-main-links-merge-with-top-component-panel.webp?v=c0db97c70932" alt="دمج مع العنصر السابق — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>دمج مع العنصر السابق — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عرض أسهم التحرك
@@ -115,7 +113,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يظهر أسهم التنقل يمينًا ويسارًا.</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:6:0:panel"><img src="/carmella-docs/images/02-main-links-show-controls-panel.webp" alt="عرض أسهم التحرك — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عرض أسهم التحرك — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:6:0:panel"><img src="/carmella-docs/images/02-main-links-show-controls-panel.webp?v=497ff3665c40" alt="عرض أسهم التحرك — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عرض أسهم التحرك — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العدد في الصف (كمبيوتر)

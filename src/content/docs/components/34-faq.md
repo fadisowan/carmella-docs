@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/34-faq:desktop"><img src="/carmella-docs/images/34-faq-desktop.webp" alt="الأسئلة الشائعة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>الأسئلة الشائعة — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/34-faq:mobile"><img src="/carmella-docs/images/34-faq-mobile.webp" alt="الأسئلة الشائعة — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>الأسئلة الشائعة — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/34-faq:desktop"><img src="/carmella-docs/images/34-faq-desktop.webp?v=c6ad78e911f7" alt="الأسئلة الشائعة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>الأسئلة الشائعة — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/34-faq:mobile"><img src="/carmella-docs/images/34-faq-mobile.webp?v=f31da595032e" alt="الأسئلة الشائعة — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>الأسئلة الشائعة — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:0:0:panel"><img src="/carmella-docs/images/34-faq-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:0:0:panel"><img src="/carmella-docs/images/34-faq-title-panel.webp?v=ab3b27f33440" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي (اختياري)
@@ -32,19 +32,17 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:1:0:panel"><img src="/carmella-docs/images/34-faq-sub-title-panel.webp" alt="وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:1:0:panel"><img src="/carmella-docs/images/34-faq-sub-title-panel.webp?v=04f4daae95b1" alt="وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العناصر
-
-اسم الحقل في المصدر: <code>items</code>.
 
 <p class="field-meta"><span><strong>النوع:</strong> عناصر متكررة</span><span><strong>الافتراضي:</strong> عناصر جاهزة</span></p>
 
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">العناصر</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:2:0:panel"><img src="/carmella-docs/images/34-faq-items-panel.webp" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:2:0:panel"><img src="/carmella-docs/images/34-faq-items-panel.webp?v=34ffc12adc53" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -82,16 +80,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:3:0:panel"><img src="/carmella-docs/images/34-faq-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/34-faq:3:0:result"><img src="/carmella-docs/images/34-faq-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/34-faq:3:0:panel"><img src="/carmella-docs/images/34-faq-align-right-panel.webp?v=1f9ce28aff27" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:3:0:result"><img src="/carmella-docs/images/34-faq-align-right-result.webp?v=c6ad78e911f7" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:3:1:panel"><img src="/carmella-docs/images/34-faq-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:3:1:panel"><img src="/carmella-docs/images/34-faq-align-center-panel.webp?v=bd00e1711281" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:3:2:panel"><img src="/carmella-docs/images/34-faq-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:3:2:panel"><img src="/carmella-docs/images/34-faq-align-left-panel.webp?v=8935c2410a0b" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

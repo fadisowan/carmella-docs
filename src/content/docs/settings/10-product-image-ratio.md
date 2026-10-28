@@ -201,15 +201,15 @@ editUrl: false
 <p><strong>الخيارات:</strong> ظاهر عند التأشير · مخفي على الجوال · مخفي</p>
 
 <div class="setting-example"><p class="option-label">ظاهر عند التأشير — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="settings/10-product-image-ratio:12:0:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-qv-btn-show-panel.webp" alt="زر العرض السريع — ظاهر عند التأشير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>زر العرض السريع — ظاهر عند التأشير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/10-product-image-ratio:12:0:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-qv-btn-show-panel.webp?v=a986638aeb67" alt="زر العرض السريع — ظاهر عند التأشير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>زر العرض السريع — ظاهر عند التأشير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">مخفي على الجوال</p><div class="preview-grid">
-<figure data-source-ref="settings/10-product-image-ratio:12:1:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-qv-btn-hide-m-panel.webp" alt="زر العرض السريع — مخفي على الجوال — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>زر العرض السريع — مخفي على الجوال — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/10-product-image-ratio:12:1:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-qv-btn-hide-m-panel.webp?v=2b80adc9b186" alt="زر العرض السريع — مخفي على الجوال — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>زر العرض السريع — مخفي على الجوال — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">مخفي</p><div class="preview-grid">
-<figure data-source-ref="settings/10-product-image-ratio:12:2:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-qv-btn-hide-panel.webp" alt="زر العرض السريع — مخفي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>زر العرض السريع — مخفي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/10-product-image-ratio:12:2:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-qv-btn-hide-panel.webp?v=f35d852a1ba3" alt="زر العرض السريع — مخفي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>زر العرض السريع — مخفي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تصغير نصوص البطاقة على الجوال
@@ -219,7 +219,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> نص أصغر ومسافات أقل على الجوال. غير أسلوب البطاقة «مدمج».</p>
 
 <div class="setting-example"><p class="option-label">بعد قلب المفتاح</p><div class="preview-grid">
-<figure data-source-ref="settings/10-product-image-ratio:13:0:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-m-compact-panel.webp" alt="تصغير نصوص البطاقة على الجوال — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصغير نصوص البطاقة على الجوال — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/10-product-image-ratio:13:0:panel"><img src="/carmella-docs/images/settings-10-product-image-ratio-cml-m-compact-panel.webp?v=175984bccb13" alt="تصغير نصوص البطاقة على الجوال — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصغير نصوص البطاقة على الجوال — بعد قلب المفتاح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

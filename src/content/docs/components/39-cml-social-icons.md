@@ -6,15 +6,11 @@ editUrl: false
 
 من **تخصيص الثيم ← مكوّنات الصفحة الرئيسية**. راجع الخيارات التالية بترتيبها في لوحة المكوّن.
 
-:::caution[ملاحظة على لقطة المصدر]
-تظهر بعض الأيقونات كرموز مربعة في الصور المرفقة؛ يمكن الاستدلال على ترتيب العناصر، لكن اللقطة لا توثّق شكل الأيقونات الصحيح.
-:::
-
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:desktop"><img src="/carmella-docs/images/39-cml-social-icons-desktop.webp" alt="أيقونات التواصل الاجتماعي — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>أيقونات التواصل الاجتماعي — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/39-cml-social-icons:mobile"><img src="/carmella-docs/images/39-cml-social-icons-mobile.webp" alt="أيقونات التواصل الاجتماعي — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>أيقونات التواصل الاجتماعي — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:desktop"><img src="/carmella-docs/images/39-cml-social-icons-desktop.webp?v=72381a0abba0" alt="أيقونات التواصل الاجتماعي — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>أيقونات التواصل الاجتماعي — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:mobile"><img src="/carmella-docs/images/39-cml-social-icons-mobile.webp?v=1b908eacf5d3" alt="أيقونات التواصل الاجتماعي — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>أيقونات التواصل الاجتماعي — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -149,7 +145,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/39-cml-social-icons:12:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/39-cml-social-icons:12:0:result"><img src="/carmella-docs/images/39-cml-social-icons-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:12:0:result"><img src="/carmella-docs/images/39-cml-social-icons-align-right-result.webp?v=72381a0abba0" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">

@@ -8,7 +8,7 @@
   "shared": "../../01-shared/",
   "fields": [
     {
-      "label": "slides",
+      "label": "الشرائح",
       "type": "عناصر متكررة",
       "default": "عناصر جاهزة",
       "what": "الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.",
@@ -19,7 +19,7 @@
         {
           "panel": "../../images/36-enhanced-video-slider-slides-panel.webp",
           "result": "",
-          "option": "slides",
+          "option": "الشرائح",
           "note": ""
         }
       ],

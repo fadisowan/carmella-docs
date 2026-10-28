@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:desktop"><img src="/carmella-docs/images/05-cml-promo-banners-desktop.webp" alt="بانرات ترويجية (شبكة) — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>بانرات ترويجية (شبكة) — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/05-cml-promo-banners:mobile"><img src="/carmella-docs/images/05-cml-promo-banners-mobile.webp" alt="بانرات ترويجية (شبكة) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>بانرات ترويجية (شبكة) — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:desktop"><img src="/carmella-docs/images/05-cml-promo-banners-desktop.webp?v=543b8185f5e4" alt="بانرات ترويجية (شبكة) — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>بانرات ترويجية (شبكة) — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:mobile"><img src="/carmella-docs/images/05-cml-promo-banners-mobile.webp?v=4894cf6f54a2" alt="بانرات ترويجية (شبكة) — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>بانرات ترويجية (شبكة) — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> من بانر واحد إلى ستة.</p>
 
 <div class="setting-example"><p class="option-label">البانرات</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:0:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-banners-panel.webp" alt="البانرات — البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البانرات — البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:0:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-banners-panel.webp?v=217842e4618f" alt="البانرات — البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البانرات — البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -78,12 +78,12 @@ editUrl: false
 <p><strong>الخيارات:</strong> ثلاثة أعمدة · عمودان</p>
 
 <div class="setting-example"><p class="option-label">ثلاثة أعمدة — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:1:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-columns-3-panel.webp" alt="عدد الأعمدة — ثلاثة أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — ثلاثة أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/05-cml-promo-banners:1:0:result"><img src="/carmella-docs/images/05-cml-promo-banners-columns-3-result.webp" alt="عدد الأعمدة — ثلاثة أعمدة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — ثلاثة أعمدة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:1:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-columns-3-panel.webp?v=66f527250317" alt="عدد الأعمدة — ثلاثة أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — ثلاثة أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:1:0:result"><img src="/carmella-docs/images/05-cml-promo-banners-columns-3-result.webp?v=543b8185f5e4" alt="عدد الأعمدة — ثلاثة أعمدة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — ثلاثة أعمدة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">عمودان</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:1:1:panel"><img src="/carmella-docs/images/05-cml-promo-banners-columns-2-panel.webp" alt="عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:1:1:panel"><img src="/carmella-docs/images/05-cml-promo-banners-columns-2-panel.webp?v=e051e747ef28" alt="عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## أسلوب الصورة
@@ -95,12 +95,12 @@ editUrl: false
 <p><strong>الخيارات:</strong> بجانب النص · خلفية كاملة</p>
 
 <div class="setting-example"><p class="option-label">بجانب النص</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:2:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-media-style-side-panel.webp" alt="أسلوب الصورة — بجانب النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب الصورة — بجانب النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:2:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-media-style-side-panel.webp?v=06538c1a70a9" alt="أسلوب الصورة — بجانب النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب الصورة — بجانب النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">خلفية كاملة — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:2:1:panel"><img src="/carmella-docs/images/05-cml-promo-banners-media-style-background-panel.webp" alt="أسلوب الصورة — خلفية كاملة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب الصورة — خلفية كاملة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/05-cml-promo-banners:2:1:result"><img src="/carmella-docs/images/05-cml-promo-banners-media-style-background-result.webp" alt="أسلوب الصورة — خلفية كاملة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أسلوب الصورة — خلفية كاملة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:2:1:panel"><img src="/carmella-docs/images/05-cml-promo-banners-media-style-background-panel.webp?v=0519bbcfdd97" alt="أسلوب الصورة — خلفية كاملة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أسلوب الصورة — خلفية كاملة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:2:1:result"><img src="/carmella-docs/images/05-cml-promo-banners-media-style-background-result.webp?v=543b8185f5e4" alt="أسلوب الصورة — خلفية كاملة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>أسلوب الصورة — خلفية كاملة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 ## لون النص
@@ -112,16 +112,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> تلقائي (حسب الثيم) · فاتح · داكن</p>
 
 <div class="setting-example"><p class="option-label">تلقائي (حسب الثيم) — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:3:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-auto-panel.webp" alt="لون النص — تلقائي (حسب الثيم) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — تلقائي (حسب الثيم) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/05-cml-promo-banners:3:0:result"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-auto-result.webp" alt="لون النص — تلقائي (حسب الثيم) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون النص — تلقائي (حسب الثيم) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:3:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-auto-panel.webp?v=ce3d0ff89d9b" alt="لون النص — تلقائي (حسب الثيم) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — تلقائي (حسب الثيم) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:3:0:result"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-auto-result.webp?v=543b8185f5e4" alt="لون النص — تلقائي (حسب الثيم) — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>لون النص — تلقائي (حسب الثيم) — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">فاتح</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:3:1:panel"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-light-panel.webp" alt="لون النص — فاتح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — فاتح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:3:1:panel"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-light-panel.webp?v=ade713f2eee3" alt="لون النص — فاتح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — فاتح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">داكن</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:3:2:panel"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-dark-panel.webp" alt="لون النص — داكن — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — داكن — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:3:2:panel"><img src="/carmella-docs/images/05-cml-promo-banners-text-tone-dark-panel.webp?v=14f1c652f102" alt="لون النص — داكن — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — داكن — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص

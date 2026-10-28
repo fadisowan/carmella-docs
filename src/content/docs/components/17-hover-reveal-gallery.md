@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:0:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-section-title-panel.webp" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:0:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-section-title-panel.webp?v=be8d7ab44d9d" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العناصر
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">العناصر</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:1:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-items-panel.webp" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:1:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-items-panel.webp?v=860c5c8507aa" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -70,16 +70,16 @@ editUrl: false
 <p><strong>الخيارات:</strong> يمين · وسط · يسار</p>
 
 <div class="setting-example"><p class="option-label">يمين — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:2:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-align-right-panel.webp" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:2:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-align-right-panel.webp?v=ec8e25e9cd34" alt="محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="components/17-hover-reveal-gallery:2:0:result"><img src="/carmella-docs/images/17-hover-reveal-gallery-align-right-result.webp" alt="محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يمين — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">وسط</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:2:1:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-align-center-panel.webp" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:2:1:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-align-center-panel.webp?v=f1db2fe67958" alt="محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — وسط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">يسار</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:2:2:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-align-left-panel.webp" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:2:2:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-align-left-panel.webp?v=aa9e5f8b1b00" alt="محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>محاذاة العنوان والنص الفرعي — يسار — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## التخطيط
@@ -91,11 +91,11 @@ editUrl: false
 <p><strong>الخيارات:</strong> قائمة · شبكة</p>
 
 <div class="setting-example"><p class="option-label">قائمة</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:3:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-layout-list-panel.webp" alt="التخطيط — قائمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — قائمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:3:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-layout-list-panel.webp?v=ddc62a9443e2" alt="التخطيط — قائمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — قائمة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">شبكة — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:3:1:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-layout-grid-panel.webp" alt="التخطيط — شبكة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — شبكة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:3:1:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-layout-grid-panel.webp?v=273bda33232e" alt="التخطيط — شبكة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التخطيط — شبكة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="components/17-hover-reveal-gallery:3:1:result"><img src="/carmella-docs/images/17-hover-reveal-gallery-layout-grid-result.webp" alt="التخطيط — شبكة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>التخطيط — شبكة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
@@ -108,11 +108,11 @@ editUrl: false
 <p><strong>الخيارات:</strong> عمودان · 3 أعمدة</p>
 
 <div class="setting-example"><p class="option-label">عمودان</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:4:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-columns-2-panel.webp" alt="عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:4:0:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-columns-2-panel.webp?v=bbdfcaaf21dc" alt="عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — عمودان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">3 أعمدة — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="components/17-hover-reveal-gallery:4:1:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-columns-3-panel.webp" alt="عدد الأعمدة — 3 أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — 3 أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/17-hover-reveal-gallery:4:1:panel"><img src="/carmella-docs/images/17-hover-reveal-gallery-columns-3-panel.webp?v=1b20f61308fc" alt="عدد الأعمدة — 3 أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — 3 أعمدة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="components/17-hover-reveal-gallery:4:1:result"><img src="/carmella-docs/images/17-hover-reveal-gallery-columns-3-result.webp" alt="عدد الأعمدة — 3 أعمدة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>عدد الأعمدة — 3 أعمدة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 

@@ -25,7 +25,7 @@
       ]
     },
     {
-      "label": "items",
+      "label": "العناصر",
       "type": "عناصر متكررة",
       "default": "عناصر جاهزة",
       "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
@@ -36,7 +36,7 @@
         {
           "panel": "../../images/27-square-photos-items-panel.webp",
           "result": "",
-          "option": "items",
+          "option": "العناصر",
           "note": ""
         }
       ],

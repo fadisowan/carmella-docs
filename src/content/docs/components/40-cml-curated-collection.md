@@ -9,8 +9,8 @@ editUrl: false
 ## معاينة المكوّن
 
 <div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:desktop"><img src="/carmella-docs/images/40-cml-curated-collection-desktop.webp" alt="مجموعة مختارة مع صورة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>مجموعة مختارة مع صورة — معاينة الكمبيوتر</figcaption></figure>
-<figure data-source-ref="components/40-cml-curated-collection:mobile"><img src="/carmella-docs/images/40-cml-curated-collection-mobile.webp" alt="مجموعة مختارة مع صورة — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>مجموعة مختارة مع صورة — معاينة الجوال</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:desktop"><img src="/carmella-docs/images/40-cml-curated-collection-desktop.webp?v=8bd28201e9ce" alt="مجموعة مختارة مع صورة — معاينة الكمبيوتر" loading="lazy" decoding="async"/><figcaption>مجموعة مختارة مع صورة — معاينة الكمبيوتر</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:mobile"><img src="/carmella-docs/images/40-cml-curated-collection-mobile.webp?v=b6225cd2af21" alt="مجموعة مختارة مع صورة — معاينة الجوال" loading="lazy" decoding="async"/><figcaption>مجموعة مختارة مع صورة — معاينة الجوال</figcaption></figure>
 </div>
 
 [المسافات والعرض والخلفية والحواف: راجع الخيارات المشتركة](/carmella-docs/shared/).
@@ -85,7 +85,7 @@ editUrl: false
 
 <div class="setting-example"><p class="option-label">الأحدث — القيمة الافتراضية.</p><div class="preview-grid">
 <figure data-source-ref="components/40-cml-curated-collection:6:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-source-type-latest-panel.webp" alt="مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
-<figure data-source-ref="components/40-cml-curated-collection:6:0:result"><img src="/carmella-docs/images/40-cml-curated-collection-source-type-latest-result.webp" alt="مصدر المنتجات — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — معاينة النتيجة</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:6:0:result"><img src="/carmella-docs/images/40-cml-curated-collection-source-type-latest-result.webp?v=8bd28201e9ce" alt="مصدر المنتجات — الأحدث — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>مصدر المنتجات — الأحدث — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">تخفيضات</p><div class="preview-grid">

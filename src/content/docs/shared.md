@@ -15,27 +15,27 @@ editUrl: false
 <p><strong>الخيارات:</strong> حسب الثيم · بلا مسافة · صغيرة · متوسطة · كبيرة</p>
 
 <div class="setting-example"><p class="option-label">حسب الثيم — القيمة الافتراضية.</p><div class="preview-grid">
-<figure data-source-ref="shared:0:0:panel"><img src="/carmella-docs/images/shared-cml-space-top-theme-panel.webp" alt="المسافة أعلى القسم — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="shared:0:0:panel"><img src="/carmella-docs/images/shared-cml-space-top-theme-panel.webp?v=1a97c7698c72" alt="المسافة أعلى القسم — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — حسب الثيم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="shared:0:0:result"><img src="/carmella-docs/images/shared-cml-space-top-theme-result.webp" alt="المسافة أعلى القسم — حسب الثيم — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — حسب الثيم — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">بلا مسافة</p><div class="preview-grid">
-<figure data-source-ref="shared:0:1:panel"><img src="/carmella-docs/images/shared-cml-space-top-none-panel.webp" alt="المسافة أعلى القسم — بلا مسافة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — بلا مسافة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="shared:0:1:panel"><img src="/carmella-docs/images/shared-cml-space-top-none-panel.webp?v=a7b8e23bb3ba" alt="المسافة أعلى القسم — بلا مسافة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — بلا مسافة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="shared:0:1:result"><img src="/carmella-docs/images/shared-cml-space-top-none-result.webp" alt="المسافة أعلى القسم — بلا مسافة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — بلا مسافة — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">صغيرة</p><div class="preview-grid">
-<figure data-source-ref="shared:0:2:panel"><img src="/carmella-docs/images/shared-cml-space-top-sm-panel.webp" alt="المسافة أعلى القسم — صغيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — صغيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="shared:0:2:panel"><img src="/carmella-docs/images/shared-cml-space-top-sm-panel.webp?v=85361d21ce89" alt="المسافة أعلى القسم — صغيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — صغيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="shared:0:2:result"><img src="/carmella-docs/images/shared-cml-space-top-sm-result.webp" alt="المسافة أعلى القسم — صغيرة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — صغيرة — معاينة النتيجة</figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">متوسطة</p><div class="preview-grid">
-<figure data-source-ref="shared:0:3:panel"><img src="/carmella-docs/images/shared-cml-space-top-md-panel.webp" alt="المسافة أعلى القسم — متوسطة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — متوسطة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="shared:0:3:panel"><img src="/carmella-docs/images/shared-cml-space-top-md-panel.webp?v=38488dd50f8d" alt="المسافة أعلى القسم — متوسطة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — متوسطة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="shared:0:3:result"><img src="/carmella-docs/images/shared-cml-space-top-md-result.webp" alt="المسافة أعلى القسم — متوسطة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — متوسطة — معاينة النتيجة<small class="image-reference">لقطة مشتركة بين عدة خيارات في المصدر؛ ليست مقارنة مستقلة لكل خيار.</small></figcaption></figure>
 </div></div>
 
 <div class="setting-example"><p class="option-label">كبيرة</p><div class="preview-grid">
-<figure data-source-ref="shared:0:4:panel"><img src="/carmella-docs/images/shared-cml-space-top-lg-panel.webp" alt="المسافة أعلى القسم — كبيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — كبيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="shared:0:4:panel"><img src="/carmella-docs/images/shared-cml-space-top-lg-panel.webp?v=58fa47d8aa9e" alt="المسافة أعلى القسم — كبيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — كبيرة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 <figure data-source-ref="shared:0:4:result"><img src="/carmella-docs/images/shared-cml-space-top-lg-result.webp" alt="المسافة أعلى القسم — كبيرة — معاينة النتيجة" loading="lazy" decoding="async"/><figcaption>المسافة أعلى القسم — كبيرة — معاينة النتيجة</figcaption></figure>
 </div></div>
 

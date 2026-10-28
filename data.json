@@ -344,7 +344,8 @@
     "path": "02-sections/20-video-story",
     "fields": 7,
     "images": [
-      "desktop"
+      "desktop",
+      "mobile"
     ],
     "results": 6,
     "slug": "components/20-video-story"

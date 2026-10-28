@@ -59,7 +59,7 @@
       ]
     },
     {
-      "label": "items",
+      "label": "العناصر",
       "type": "عناصر متكررة",
       "default": "عناصر جاهزة",
       "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
@@ -70,7 +70,7 @@
         {
           "panel": "../../images/35-circular-categories-items-panel.webp",
           "result": "",
-          "option": "items",
+          "option": "العناصر",
           "note": ""
         }
       ],
@@ -300,5 +300,5 @@
       ]
     }
   ],
-  "source_store": "Carmelea (معاينة الثيم)"
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
 }
