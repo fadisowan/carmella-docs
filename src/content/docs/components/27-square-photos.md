@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:0:0:panel"><img src="/carmella-docs/images/27-square-photos-title-panel.webp?v=6ce792e1df07" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:0:0:panel"><img src="/carmella-docs/images/27-square-photos-title-panel.webp?v=6ce792e1df07" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العناصر
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">العناصر</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:1:0:panel"><img src="/carmella-docs/images/27-square-photos-items-panel.webp?v=6dd40e0a1a6a" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:1:0:panel"><img src="/carmella-docs/images/27-square-photos-items-panel.webp?v=6dd40e0a1a6a" alt="العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -104,7 +104,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--square-photos</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/27-square-photos:5:0:panel"><img src="/carmella-docs/images/27-square-photos-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/27-square-photos:5:0:panel"><img src="/carmella-docs/images/27-square-photos-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

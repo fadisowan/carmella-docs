@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.</p>
 
 <div class="setting-example"><p class="option-label">الشرائح</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:0:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-slides-panel.webp?v=ca51fdb37c61" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:0:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-slides-panel.webp?v=ca51fdb37c61" alt="الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -151,7 +151,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «ألوان النصوص والزر» = ألوان أختارها</p>
 
 <div class="setting-example"><p class="option-label">↳ لون العنوان والوصف</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:5:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-cml-text-color-panel.webp" alt="↳ لون العنوان والوصف — ↳ لون العنوان والوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون العنوان والوصف — ↳ لون العنوان والوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:5:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-cml-text-color-panel.webp" alt="↳ لون العنوان والوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون العنوان والوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ لون الزر والسطر الصغير
@@ -163,7 +163,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «ألوان النصوص والزر» = ألوان أختارها</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الزر والسطر الصغير</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:6:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-cml-btn-color-panel.webp" alt="↳ لون الزر والسطر الصغير — ↳ لون الزر والسطر الصغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الزر والسطر الصغير — ↳ لون الزر والسطر الصغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:6:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-cml-btn-color-panel.webp" alt="↳ لون الزر والسطر الصغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الزر والسطر الصغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص
@@ -173,7 +173,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--enhanced-video-slider</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/36-enhanced-video-slider:7:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/36-enhanced-video-slider:7:0:panel"><img src="/carmella-docs/images/36-enhanced-video-slider-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

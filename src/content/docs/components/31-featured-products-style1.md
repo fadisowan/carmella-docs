@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:0:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-title-panel.webp" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:0:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-title-panel.webp" alt="عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:1:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-sub-title-panel.webp" alt="وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:1:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-sub-title-panel.webp" alt="وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط عرض الكل
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> وجهة زر «عرض الكل» أعلى القسم؛ اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">رابط عرض الكل</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:2:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-display-all-url-panel.webp" alt="رابط عرض الكل — رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط عرض الكل — رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:2:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-display-all-url-panel.webp" alt="رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مصدر منتجات القسم
@@ -87,7 +87,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر منتجات القسم» = تصنيف محدد</p>
 
 <div class="setting-example"><p class="option-label">اختر التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:4:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-source-categories-panel.webp" alt="اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:4:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-source-categories-panel.webp" alt="اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر العلامات التجارية
@@ -99,7 +99,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر منتجات القسم» = علامة تجارية</p>
 
 <div class="setting-example"><p class="option-label">اختر العلامات التجارية</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:5:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-source-brands-panel.webp" alt="اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:5:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-source-brands-panel.webp" alt="اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر المنتجات
@@ -111,7 +111,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر منتجات القسم» = منتجات محددة</p>
 
 <div class="setting-example"><p class="option-label">اختر المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:6:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-source-products-panel.webp" alt="اختر المنتجات — اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات — اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:6:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-source-products-panel.webp" alt="اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عدد المنتجات
@@ -121,7 +121,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> أقصى عدد من العناصر يُعرض في القسم.</p>
 
 <div class="setting-example"><p class="option-label">عدد المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:7:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-limit-panel.webp" alt="عدد المنتجات — عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات — عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:7:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-limit-panel.webp" alt="عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## محاذاة العنوان والنص الفرعي
@@ -262,7 +262,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--featured-products-style1</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/31-featured-products-style1:13:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/31-featured-products-style1:13:0:panel"><img src="/carmella-docs/images/31-featured-products-style1-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

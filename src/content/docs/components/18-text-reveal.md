@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.</p>
 
 <div class="setting-example"><p class="option-label">سطر تمهيدي صغير</p><div class="preview-grid">
-<figure data-source-ref="components/18-text-reveal:0:0:panel"><img src="/carmella-docs/images/18-text-reveal-eyebrow-panel.webp?v=a7a43fd07663" alt="سطر تمهيدي صغير — سطر تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سطر تمهيدي صغير — سطر تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/18-text-reveal:0:0:panel"><img src="/carmella-docs/images/18-text-reveal-eyebrow-panel.webp?v=a7a43fd07663" alt="سطر تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>سطر تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## النص
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المعروض في العنصر.</p>
 
 <div class="setting-example"><p class="option-label">النص</p><div class="preview-grid">
-<figure data-source-ref="components/18-text-reveal:1:0:panel"><img src="/carmella-docs/images/18-text-reveal-text-panel.webp?v=985bdd537282" alt="النص — النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النص — النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/18-text-reveal:1:0:panel"><img src="/carmella-docs/images/18-text-reveal-text-panel.webp?v=985bdd537282" alt="النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وحدة الظهور
@@ -139,7 +139,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> لون خلفية القسم.</p>
 
 <div class="setting-example"><p class="option-label">لون الخلفية</p><div class="preview-grid">
-<figure data-source-ref="components/18-text-reveal:7:0:panel"><img src="/carmella-docs/images/18-text-reveal-background-color-panel.webp" alt="لون الخلفية — لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الخلفية — لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/18-text-reveal:7:0:panel"><img src="/carmella-docs/images/18-text-reveal-background-color-panel.webp" alt="لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون النص
@@ -149,7 +149,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> لون النص فوق الخلفية أو الصورة.</p>
 
 <div class="setting-example"><p class="option-label">لون النص</p><div class="preview-grid">
-<figure data-source-ref="components/18-text-reveal:8:0:panel"><img src="/carmella-docs/images/18-text-reveal-text-color-panel.webp" alt="لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/18-text-reveal:8:0:panel"><img src="/carmella-docs/images/18-text-reveal-text-color-panel.webp" alt="لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مسافة علوية مخصّصة بالبكسل
@@ -161,7 +161,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «المسافة أعلى القسم» = حسب الثيم</p>
 
 <div class="setting-example"><p class="option-label">مسافة علوية مخصّصة بالبكسل</p><div class="preview-grid">
-<figure data-source-ref="components/18-text-reveal:9:0:panel"><img src="/carmella-docs/images/18-text-reveal-top-spacing-panel.webp" alt="مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/18-text-reveal:9:0:panel"><img src="/carmella-docs/images/18-text-reveal-top-spacing-panel.webp" alt="مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مسافة سفلية مخصّصة بالبكسل
@@ -173,7 +173,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «المسافة أسفل القسم» = حسب الثيم</p>
 
 <div class="setting-example"><p class="option-label">مسافة سفلية مخصّصة بالبكسل</p><div class="preview-grid">
-<figure data-source-ref="components/18-text-reveal:10:0:panel"><img src="/carmella-docs/images/18-text-reveal-bottom-spacing-panel.webp" alt="مسافة سفلية مخصّصة بالبكسل — مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة سفلية مخصّصة بالبكسل — مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/18-text-reveal:10:0:panel"><img src="/carmella-docs/images/18-text-reveal-bottom-spacing-panel.webp" alt="مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص
@@ -183,7 +183,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--text-reveal</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/18-text-reveal:11:0:panel"><img src="/carmella-docs/images/18-text-reveal-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/18-text-reveal:11:0:panel"><img src="/carmella-docs/images/18-text-reveal-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

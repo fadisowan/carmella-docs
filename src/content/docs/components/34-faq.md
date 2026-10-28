@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:0:0:panel"><img src="/carmella-docs/images/34-faq-title-panel.webp?v=ab3b27f33440" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:0:0:panel"><img src="/carmella-docs/images/34-faq-title-panel.webp?v=ab3b27f33440" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:1:0:panel"><img src="/carmella-docs/images/34-faq-sub-title-panel.webp?v=04f4daae95b1" alt="وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:1:0:panel"><img src="/carmella-docs/images/34-faq-sub-title-panel.webp?v=04f4daae95b1" alt="وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العناصر
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">العناصر</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:2:0:panel"><img src="/carmella-docs/images/34-faq-items-panel.webp?v=34ffc12adc53" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:2:0:panel"><img src="/carmella-docs/images/34-faq-items-panel.webp?v=34ffc12adc53" alt="العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -99,7 +99,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--faq</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/34-faq:4:0:panel"><img src="/carmella-docs/images/34-faq-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/34-faq:4:0:panel"><img src="/carmella-docs/images/34-faq-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

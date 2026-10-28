@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يظهر فوق الفيديو عند تعبئته.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/22-youtube:0:0:panel"><img src="/carmella-docs/images/22-youtube-section-title-panel.webp" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/22-youtube:0:0:panel"><img src="/carmella-docs/images/22-youtube-section-title-panel.webp" alt="عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## معرّف فيديو يوتيوب
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الجزء الأخير من رابط يوتيوب: youtube.com/watch?v=XXXXXXX</p>
 
 <div class="setting-example"><p class="option-label">معرّف فيديو يوتيوب</p><div class="preview-grid">
-<figure data-source-ref="components/22-youtube:1:0:panel"><img src="/carmella-docs/images/22-youtube-youtube-id-panel.webp" alt="معرّف فيديو يوتيوب — معرّف فيديو يوتيوب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>معرّف فيديو يوتيوب — معرّف فيديو يوتيوب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/22-youtube:1:0:panel"><img src="/carmella-docs/images/22-youtube-youtube-id-panel.webp" alt="معرّف فيديو يوتيوب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>معرّف فيديو يوتيوب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة الغلاف (اختياري)
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> تظهر صورة غلاف مع زر تشغيل بدل تحميل الفيديو مباشرة. اتركها فارغة لعرض الفيديو مباشرة.</p>
 
 <div class="setting-example"><p class="option-label">صورة الغلاف (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/22-youtube:2:0:panel"><img src="/carmella-docs/images/22-youtube-cover-image-panel.webp" alt="صورة الغلاف (اختياري) — صورة الغلاف (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الغلاف (اختياري) — صورة الغلاف (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/22-youtube:2:0:panel"><img src="/carmella-docs/images/22-youtube-cover-image-panel.webp" alt="صورة الغلاف (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الغلاف (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## فتح الفيديو في نافذة منبثقة
@@ -72,7 +72,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--youtube</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/22-youtube:5:0:panel"><img src="/carmella-docs/images/22-youtube-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/22-youtube:5:0:panel"><img src="/carmella-docs/images/22-youtube-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

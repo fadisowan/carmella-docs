@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> مثال: 9665XXXXXXXX (بدون + أو مسافات)</p>
 
 <div class="setting-example"><p class="option-label">رقم واتساب (مع رمز الدولة)</p><div class="preview-grid">
-<figure data-source-ref="settings/16-cml-fc-position:1:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-whatsapp-panel.webp" alt="رقم واتساب (مع رمز الدولة) — رقم واتساب (مع رمز الدولة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رقم واتساب (مع رمز الدولة) — رقم واتساب (مع رمز الدولة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/16-cml-fc-position:1:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-whatsapp-panel.webp" alt="رقم واتساب (مع رمز الدولة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رقم واتساب (مع رمز الدولة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط تيليغرام
@@ -39,7 +39,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> رابط حسابك أو قناتك (https://t.me/…).</p>
 
 <div class="setting-example"><p class="option-label">رابط تيليغرام</p><div class="preview-grid">
-<figure data-source-ref="settings/16-cml-fc-position:2:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-telegram-panel.webp" alt="رابط تيليغرام — رابط تيليغرام — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط تيليغرام — رابط تيليغرام — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/16-cml-fc-position:2:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-telegram-panel.webp" alt="رابط تيليغرام — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط تيليغرام — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رقم الهاتف (للاتصال المباشر)
@@ -49,7 +49,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يفتح الاتصال مباشرة من الجوال؛ اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">رقم الهاتف (للاتصال المباشر)</p><div class="preview-grid">
-<figure data-source-ref="settings/16-cml-fc-position:3:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-phone-panel.webp" alt="رقم الهاتف (للاتصال المباشر) — رقم الهاتف (للاتصال المباشر) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رقم الهاتف (للاتصال المباشر) — رقم الهاتف (للاتصال المباشر) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/16-cml-fc-position:3:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-phone-panel.webp" alt="رقم الهاتف (للاتصال المباشر) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رقم الهاتف (للاتصال المباشر) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط مخصص إضافي
@@ -59,7 +59,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> زر إضافي لأي رابط تريده: فرع، خريطة، صفحة…</p>
 
 <div class="setting-example"><p class="option-label">رابط مخصص إضافي</p><div class="preview-grid">
-<figure data-source-ref="settings/16-cml-fc-position:4:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-custom-url-panel.webp" alt="رابط مخصص إضافي — رابط مخصص إضافي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط مخصص إضافي — رابط مخصص إضافي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/16-cml-fc-position:4:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-custom-url-panel.webp" alt="رابط مخصص إضافي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط مخصص إضافي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## أيقونة الرابط المخصص (sicon-...)
@@ -69,7 +69,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اسم أيقونة سلة للزر المخصص، مثل sicon-location.</p>
 
 <div class="setting-example"><p class="option-label">أيقونة الرابط المخصص (sicon-...)</p><div class="preview-grid">
-<figure data-source-ref="settings/16-cml-fc-position:5:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-custom-icon-panel.webp" alt="أيقونة الرابط المخصص (sicon-...) — أيقونة الرابط المخصص (sicon-...) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أيقونة الرابط المخصص (sicon-...) — أيقونة الرابط المخصص (sicon-...) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/16-cml-fc-position:5:0:panel"><img src="/carmella-docs/images/settings-16-cml-fc-position-cml-fc-custom-icon-panel.webp" alt="أيقونة الرابط المخصص (sicon-...) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أيقونة الرابط المخصص (sicon-...) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

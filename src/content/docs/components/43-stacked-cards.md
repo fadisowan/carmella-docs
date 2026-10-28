@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:0:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-title-panel.webp?v=228435a67d4b" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:0:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-title-panel.webp?v=228435a67d4b" alt="عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف القسم
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> وصف قصير تحت عنوان القسم.</p>
 
 <div class="setting-example"><p class="option-label">وصف القسم</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:1:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-description-panel.webp?v=4b5e28642cad" alt="وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:1:0:panel"><img src="/carmella-docs/images/43-stacked-cards-section-description-panel.webp?v=4b5e28642cad" alt="وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## البطاقات
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">البطاقات</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:2:0:panel"><img src="/carmella-docs/images/43-stacked-cards-items-panel.webp?v=3afcc12a9e6f" alt="البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:2:0:panel"><img src="/carmella-docs/images/43-stacked-cards-items-panel.webp?v=3afcc12a9e6f" alt="البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -107,7 +107,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--stacked-cards</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/43-stacked-cards:4:0:panel"><img src="/carmella-docs/images/43-stacked-cards-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/43-stacked-cards:4:0:panel"><img src="/carmella-docs/images/43-stacked-cards-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

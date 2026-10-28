@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/25-latest-products:0:0:panel"><img src="/carmella-docs/images/25-latest-products-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/25-latest-products:0:0:panel"><img src="/carmella-docs/images/25-latest-products-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي تحت العنوان (اختياري)
@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي تحت العنوان (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/25-latest-products:1:0:panel"><img src="/carmella-docs/images/25-latest-products-sub-title-panel.webp" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/25-latest-products:1:0:panel"><img src="/carmella-docs/images/25-latest-products-sub-title-panel.webp" alt="وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط زر «عرض الكل» (اختياري)
@@ -39,7 +39,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> وجهة زر «عرض الكل» أعلى القسم؛ اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">رابط زر «عرض الكل» (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/25-latest-products:2:0:panel"><img src="/carmella-docs/images/25-latest-products-display-all-url-panel.webp" alt="رابط زر «عرض الكل» (اختياري) — رابط زر «عرض الكل» (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر «عرض الكل» (اختياري) — رابط زر «عرض الكل» (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/25-latest-products:2:0:panel"><img src="/carmella-docs/images/25-latest-products-display-all-url-panel.webp" alt="رابط زر «عرض الكل» (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر «عرض الكل» (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وضع العرض
@@ -65,7 +65,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> أقصى عدد من العناصر يُعرض في القسم.</p>
 
 <div class="setting-example"><p class="option-label">عدد المنتجات (وضع الأحدث)</p><div class="preview-grid">
-<figure data-source-ref="components/25-latest-products:4:0:panel"><img src="/carmella-docs/images/25-latest-products-limit-panel.webp" alt="عدد المنتجات (وضع الأحدث) — عدد المنتجات (وضع الأحدث) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات (وضع الأحدث) — عدد المنتجات (وضع الأحدث) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/25-latest-products:4:0:panel"><img src="/carmella-docs/images/25-latest-products-limit-panel.webp" alt="عدد المنتجات (وضع الأحدث) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات (وضع الأحدث) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## أسلوب بطاقة المنتج عند التأشير
@@ -175,7 +175,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--latest-products</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/25-latest-products:9:0:panel"><img src="/carmella-docs/images/25-latest-products-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/25-latest-products:9:0:panel"><img src="/carmella-docs/images/25-latest-products-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

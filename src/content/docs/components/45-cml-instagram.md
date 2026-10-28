@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/45-cml-instagram:0:0:panel"><img src="/carmella-docs/images/45-cml-instagram-section-title-panel.webp" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/45-cml-instagram:0:0:panel"><img src="/carmella-docs/images/45-cml-instagram-section-title-panel.webp" alt="عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف القسم
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> وصف قصير تحت عنوان القسم.</p>
 
 <div class="setting-example"><p class="option-label">وصف القسم</p><div class="preview-grid">
-<figure data-source-ref="components/45-cml-instagram:1:0:panel"><img src="/carmella-docs/images/45-cml-instagram-section-description-panel.webp?v=0436d253ec62" alt="وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/45-cml-instagram:1:0:panel"><img src="/carmella-docs/images/45-cml-instagram-section-description-panel.webp?v=0436d253ec62" alt="وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## معرّف إنستغرام (@)
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اسم حساب إنستغرام الذي يظهر ويفتحه الزر.</p>
 
 <div class="setting-example"><p class="option-label">معرّف إنستغرام (@)</p><div class="preview-grid">
-<figure data-source-ref="components/45-cml-instagram:2:0:panel"><img src="/carmella-docs/images/45-cml-instagram-handle-panel.webp?v=f7093653a6c6" alt="معرّف إنستغرام (@) — معرّف إنستغرام (@) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>معرّف إنستغرام (@) — معرّف إنستغرام (@) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/45-cml-instagram:2:0:panel"><img src="/carmella-docs/images/45-cml-instagram-handle-panel.webp?v=f7093653a6c6" alt="معرّف إنستغرام (@) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>معرّف إنستغرام (@) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط إنستغرام (اختياري)
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً ليُبنى تلقائياً من المعرّف.</p>
 
 <div class="setting-example"><p class="option-label">رابط إنستغرام (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/45-cml-instagram:3:0:panel"><img src="/carmella-docs/images/45-cml-instagram-handle-url-panel.webp?v=14b29f25a941" alt="رابط إنستغرام (اختياري) — رابط إنستغرام (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط إنستغرام (اختياري) — رابط إنستغرام (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/45-cml-instagram:3:0:panel"><img src="/carmella-docs/images/45-cml-instagram-handle-url-panel.webp?v=14b29f25a941" alt="رابط إنستغرام (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط إنستغرام (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصور
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">الصور</p><div class="preview-grid">
-<figure data-source-ref="components/45-cml-instagram:4:0:panel"><img src="/carmella-docs/images/45-cml-instagram-items-panel.webp?v=10b1a195c936" alt="الصور — الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصور — الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/45-cml-instagram:4:0:panel"><img src="/carmella-docs/images/45-cml-instagram-items-panel.webp?v=10b1a195c936" alt="الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -138,7 +138,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-instagram</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/45-cml-instagram:7:0:panel"><img src="/carmella-docs/images/45-cml-instagram-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/45-cml-instagram:7:0:panel"><img src="/carmella-docs/images/45-cml-instagram-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

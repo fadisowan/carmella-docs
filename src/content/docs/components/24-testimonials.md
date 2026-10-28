@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يظهر فوق التقييمات عند تعبئته.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/24-testimonials:0:0:panel"><img src="/carmella-docs/images/24-testimonials-section-title-panel.webp" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/24-testimonials:0:0:panel"><img src="/carmella-docs/images/24-testimonials-section-title-panel.webp" alt="عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط عرض الكل
@@ -55,7 +55,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> أقصى عدد من العناصر يُعرض في القسم.</p>
 
 <div class="setting-example"><p class="option-label">عدد التقييمات</p><div class="preview-grid">
-<figure data-source-ref="components/24-testimonials:3:0:panel"><img src="/carmella-docs/images/24-testimonials-limit-panel.webp" alt="عدد التقييمات — عدد التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد التقييمات — عدد التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/24-testimonials:3:0:panel"><img src="/carmella-docs/images/24-testimonials-limit-panel.webp" alt="عدد التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## إخفاء معلومات العميل
@@ -75,7 +75,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--testimonials</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/24-testimonials:5:0:panel"><img src="/carmella-docs/images/24-testimonials-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/24-testimonials:5:0:panel"><img src="/carmella-docs/images/24-testimonials-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

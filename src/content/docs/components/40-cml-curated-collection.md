@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.</p>
 
 <div class="setting-example"><p class="option-label">عنوان صغير فوق العنوان الرئيسي</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:0:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-eyebrow-panel.webp" alt="عنوان صغير فوق العنوان الرئيسي — عنوان صغير فوق العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان صغير فوق العنوان الرئيسي — عنوان صغير فوق العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:0:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-eyebrow-panel.webp" alt="عنوان صغير فوق العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان صغير فوق العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان الرئيسي
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان الرئيسي</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:1:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-title-panel.webp" alt="العنوان الرئيسي — العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان الرئيسي — العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:1:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-title-panel.webp" alt="العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص فرعي
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">نص فرعي</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:2:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-subtitle-panel.webp" alt="نص فرعي — نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص فرعي — نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:2:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-subtitle-panel.webp" alt="نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصورة التحريرية (الجانب)
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> مقاس مقترح 600×750 (4:5)</p>
 
 <div class="setting-example"><p class="option-label">الصورة التحريرية (الجانب)</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:3:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-image-panel.webp" alt="الصورة التحريرية (الجانب) — الصورة التحريرية (الجانب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة التحريرية (الجانب) — الصورة التحريرية (الجانب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:3:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-image-panel.webp" alt="الصورة التحريرية (الجانب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة التحريرية (الجانب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص زر الإجراء
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">نص زر الإجراء</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:4:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-cta-text-panel.webp" alt="نص زر الإجراء — نص زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر الإجراء — نص زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:4:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-cta-text-panel.webp" alt="نص زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط زر الإجراء
@@ -72,7 +72,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً.</p>
 
 <div class="setting-example"><p class="option-label">رابط زر الإجراء</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:5:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-cta-url-panel.webp" alt="رابط زر الإجراء — رابط زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر الإجراء — رابط زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:5:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-cta-url-panel.webp" alt="رابط زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر الإجراء — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مصدر المنتجات
@@ -117,7 +117,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = حسب التصنيف</p>
 
 <div class="setting-example"><p class="option-label">اختر التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:7:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-source-categories-panel.webp" alt="اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:7:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-source-categories-panel.webp" alt="اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر العلامات التجارية
@@ -129,7 +129,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = حسب العلامة التجارية</p>
 
 <div class="setting-example"><p class="option-label">اختر العلامات التجارية</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:8:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-source-brands-panel.webp" alt="اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:8:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-source-brands-panel.webp" alt="اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر المنتجات (3 منتجات مقترحة)
@@ -141,7 +141,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = منتجات مختارة</p>
 
 <div class="setting-example"><p class="option-label">اختر المنتجات (3 منتجات مقترحة)</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:9:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-source-products-panel.webp" alt="اختر المنتجات (3 منتجات مقترحة) — اختر المنتجات (3 منتجات مقترحة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات (3 منتجات مقترحة) — اختر المنتجات (3 منتجات مقترحة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:9:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-source-products-panel.webp" alt="اختر المنتجات (3 منتجات مقترحة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات (3 منتجات مقترحة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عكس جانبي الصورة والمحتوى
@@ -161,7 +161,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-curated-collection</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/40-cml-curated-collection:11:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/40-cml-curated-collection:11:0:panel"><img src="/carmella-docs/images/40-cml-curated-collection-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

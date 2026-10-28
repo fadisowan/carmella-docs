@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/35-circular-categories:0:0:panel"><img src="/carmella-docs/images/35-circular-categories-title-panel.webp?v=5e829957f439" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/35-circular-categories:0:0:panel"><img src="/carmella-docs/images/35-circular-categories-title-panel.webp?v=5e829957f439" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/35-circular-categories:1:0:panel"><img src="/carmella-docs/images/35-circular-categories-sub-title-panel.webp?v=8cf57416ccea" alt="وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/35-circular-categories:1:0:panel"><img src="/carmella-docs/images/35-circular-categories-sub-title-panel.webp?v=8cf57416ccea" alt="وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## التصنيفات (مصدر تلقائي للعدد)
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اختر تصنيفات ليتم عرضها مع عدد المنتجات تلقائياً. عند تركها فارغة تُستخدم العناصر اليدوية.</p>
 
 <div class="setting-example"><p class="option-label">التصنيفات (مصدر تلقائي للعدد)</p><div class="preview-grid">
-<figure data-source-ref="components/35-circular-categories:2:0:panel"><img src="/carmella-docs/images/35-circular-categories-categories-panel.webp?v=de8ba6969794" alt="التصنيفات (مصدر تلقائي للعدد) — التصنيفات (مصدر تلقائي للعدد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التصنيفات (مصدر تلقائي للعدد) — التصنيفات (مصدر تلقائي للعدد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/35-circular-categories:2:0:panel"><img src="/carmella-docs/images/35-circular-categories-categories-panel.webp?v=de8ba6969794" alt="التصنيفات (مصدر تلقائي للعدد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التصنيفات (مصدر تلقائي للعدد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العناصر
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">العناصر</p><div class="preview-grid">
-<figure data-source-ref="components/35-circular-categories:3:0:panel"><img src="/carmella-docs/images/35-circular-categories-items-panel.webp?v=780d073998d0" alt="العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/35-circular-categories:3:0:panel"><img src="/carmella-docs/images/35-circular-categories-items-panel.webp?v=780d073998d0" alt="العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العناصر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -209,7 +209,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--circular-categories</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/35-circular-categories:9:0:panel"><img src="/carmella-docs/images/35-circular-categories-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/35-circular-categories:9:0:panel"><img src="/carmella-docs/images/35-circular-categories-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

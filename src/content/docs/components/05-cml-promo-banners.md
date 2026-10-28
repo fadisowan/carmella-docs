@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> من بانر واحد إلى ستة.</p>
 
 <div class="setting-example"><p class="option-label">البانرات</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:0:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-banners-panel.webp?v=217842e4618f" alt="البانرات — البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البانرات — البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:0:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-banners-panel.webp?v=217842e4618f" alt="البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البانرات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -131,7 +131,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-promo-banners</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/05-cml-promo-banners:4:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/05-cml-promo-banners:4:0:panel"><img src="/carmella-docs/images/05-cml-promo-banners-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

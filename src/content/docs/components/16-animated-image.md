@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:0:0:panel"><img src="/carmella-docs/images/16-animated-image-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:0:0:panel"><img src="/carmella-docs/images/16-animated-image-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الوصف
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.</p>
 
 <div class="setting-example"><p class="option-label">الوصف</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:1:0:panel"><img src="/carmella-docs/images/16-animated-image-description-panel.webp" alt="الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:1:0:panel"><img src="/carmella-docs/images/16-animated-image-description-panel.webp" alt="الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصورة
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصورة المعروضة في هذا العنصر.</p>
 
 <div class="setting-example"><p class="option-label">الصورة</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:2:0:panel"><img src="/carmella-docs/images/16-animated-image-image-panel.webp" alt="الصورة — الصورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة — الصورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:2:0:panel"><img src="/carmella-docs/images/16-animated-image-image-panel.webp" alt="الصورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص الزر
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على الزر.</p>
 
 <div class="setting-example"><p class="option-label">نص الزر</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:3:0:panel"><img src="/carmella-docs/images/16-animated-image-button-text-panel.webp" alt="نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:3:0:panel"><img src="/carmella-docs/images/16-animated-image-button-text-panel.webp" alt="نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط الزر
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اختر منتجاً أو تصنيفاً أو صفحة تعريفية... أو الصق رابطاً خارجياً.</p>
 
 <div class="setting-example"><p class="option-label">رابط الزر</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:4:0:panel"><img src="/carmella-docs/images/16-animated-image-button-url-panel.webp" alt="رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:4:0:panel"><img src="/carmella-docs/images/16-animated-image-button-url-panel.webp" alt="رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نوع الحركة
@@ -178,7 +178,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> لون خلفية القسم.</p>
 
 <div class="setting-example"><p class="option-label">لون الخلفية</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:10:0:panel"><img src="/carmella-docs/images/16-animated-image-background-color-panel.webp" alt="لون الخلفية — لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الخلفية — لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:10:0:panel"><img src="/carmella-docs/images/16-animated-image-background-color-panel.webp" alt="لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون النص
@@ -188,7 +188,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> لون النص فوق الخلفية أو الصورة.</p>
 
 <div class="setting-example"><p class="option-label">لون النص</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:11:0:panel"><img src="/carmella-docs/images/16-animated-image-text-color-panel.webp" alt="لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:11:0:panel"><img src="/carmella-docs/images/16-animated-image-text-color-panel.webp" alt="لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مسافة علوية مخصّصة بالبكسل
@@ -200,7 +200,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «المسافة أعلى القسم» = حسب الثيم</p>
 
 <div class="setting-example"><p class="option-label">مسافة علوية مخصّصة بالبكسل</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:12:0:panel"><img src="/carmella-docs/images/16-animated-image-top-spacing-panel.webp" alt="مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:12:0:panel"><img src="/carmella-docs/images/16-animated-image-top-spacing-panel.webp" alt="مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مسافة سفلية مخصّصة بالبكسل
@@ -212,7 +212,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «المسافة أسفل القسم» = حسب الثيم</p>
 
 <div class="setting-example"><p class="option-label">مسافة سفلية مخصّصة بالبكسل</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:13:0:panel"><img src="/carmella-docs/images/16-animated-image-bottom-spacing-panel.webp" alt="مسافة سفلية مخصّصة بالبكسل — مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة سفلية مخصّصة بالبكسل — مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:13:0:panel"><img src="/carmella-docs/images/16-animated-image-bottom-spacing-panel.webp" alt="مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص
@@ -222,7 +222,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--animated-image</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/16-animated-image:14:0:panel"><img src="/carmella-docs/images/16-animated-image-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/16-animated-image:14:0:panel"><img src="/carmella-docs/images/16-animated-image-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

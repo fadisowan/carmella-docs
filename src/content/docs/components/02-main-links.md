@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:0:0:panel"><img src="/carmella-docs/images/02-main-links-title-panel.webp?v=a1c95d18e481" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:0:0:panel"><img src="/carmella-docs/images/02-main-links-title-panel.webp?v=a1c95d18e481" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عرض روابط التصنيفات
@@ -41,7 +41,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «عرض روابط التصنيفات» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">حدد التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:2:0:panel"><img src="/carmella-docs/images/02-main-links-categories-panel.webp?v=cf3d3739bd20" alt="حدد التصنيفات — حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حدد التصنيفات — حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:2:0:panel"><img src="/carmella-docs/images/02-main-links-categories-panel.webp?v=cf3d3739bd20" alt="حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>حدد التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الروابط
@@ -53,7 +53,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «عرض روابط التصنيفات» = مطفأ</p>
 
 <div class="setting-example"><p class="option-label">الروابط</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:3:0:panel"><img src="/carmella-docs/images/02-main-links-links-panel.webp?v=251b3f597058" alt="الروابط — الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الروابط — الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:3:0:panel"><img src="/carmella-docs/images/02-main-links-links-panel.webp?v=251b3f597058" alt="الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الروابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -181,7 +181,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--main-links</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/02-main-links:10:0:panel"><img src="/carmella-docs/images/02-main-links-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/02-main-links:10:0:panel"><img src="/carmella-docs/images/02-main-links-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

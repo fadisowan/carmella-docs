@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/06-brands:0:0:panel"><img src="/carmella-docs/images/06-brands-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/06-brands:0:0:panel"><img src="/carmella-docs/images/06-brands-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الماركات التجارية
@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العلامات التجارية المعروضة، كل منها بشعارها ويفتح صفحتها.</p>
 
 <div class="setting-example"><p class="option-label">الماركات التجارية</p><div class="preview-grid">
-<figure data-source-ref="components/06-brands:1:0:panel"><img src="/carmella-docs/images/06-brands-brands-panel.webp" alt="الماركات التجارية — الماركات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الماركات التجارية — الماركات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/06-brands:1:0:panel"><img src="/carmella-docs/images/06-brands-brands-panel.webp" alt="الماركات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الماركات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## محاذاة العنوان والنص الفرعي
@@ -121,7 +121,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--brands</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/06-brands:7:0:panel"><img src="/carmella-docs/images/06-brands-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/06-brands:7:0:panel"><img src="/carmella-docs/images/06-brands-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

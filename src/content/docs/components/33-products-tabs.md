@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/33-products-tabs:0:0:panel"><img src="/carmella-docs/images/33-products-tabs-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/33-products-tabs:0:0:panel"><img src="/carmella-docs/images/33-products-tabs-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/33-products-tabs:1:0:panel"><img src="/carmella-docs/images/33-products-tabs-sub-title-panel.webp" alt="وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/33-products-tabs:1:0:panel"><img src="/carmella-docs/images/33-products-tabs-sub-title-panel.webp" alt="وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط عرض الكل
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> وجهة زر «عرض الكل» أعلى القسم؛ اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">رابط عرض الكل</p><div class="preview-grid">
-<figure data-source-ref="components/33-products-tabs:2:0:panel"><img src="/carmella-docs/images/33-products-tabs-display-all-url-panel.webp" alt="رابط عرض الكل — رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط عرض الكل — رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/33-products-tabs:2:0:panel"><img src="/carmella-docs/images/33-products-tabs-display-all-url-panel.webp" alt="رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط عرض الكل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## التصنيفات (كل تصنيف يصبح تبويباً)
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> التصنيفات التي تظهر في القسم، كل تصنيف بصورته واسمه ويفتح صفحته عند الضغط.</p>
 
 <div class="setting-example"><p class="option-label">التصنيفات (كل تصنيف يصبح تبويباً)</p><div class="preview-grid">
-<figure data-source-ref="components/33-products-tabs:3:0:panel"><img src="/carmella-docs/images/33-products-tabs-categories-panel.webp" alt="التصنيفات (كل تصنيف يصبح تبويباً) — التصنيفات (كل تصنيف يصبح تبويباً) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التصنيفات (كل تصنيف يصبح تبويباً) — التصنيفات (كل تصنيف يصبح تبويباً) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/33-products-tabs:3:0:panel"><img src="/carmella-docs/images/33-products-tabs-categories-panel.webp" alt="التصنيفات (كل تصنيف يصبح تبويباً) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التصنيفات (كل تصنيف يصبح تبويباً) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عدد المنتجات لكل تبويب
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> أقصى عدد من العناصر يُعرض في القسم.</p>
 
 <div class="setting-example"><p class="option-label">عدد المنتجات لكل تبويب</p><div class="preview-grid">
-<figure data-source-ref="components/33-products-tabs:4:0:panel"><img src="/carmella-docs/images/33-products-tabs-limit-panel.webp" alt="عدد المنتجات لكل تبويب — عدد المنتجات لكل تبويب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات لكل تبويب — عدد المنتجات لكل تبويب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/33-products-tabs:4:0:panel"><img src="/carmella-docs/images/33-products-tabs-limit-panel.webp" alt="عدد المنتجات لكل تبويب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات لكل تبويب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## محاذاة العنوان والنص الفرعي
@@ -203,7 +203,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--products-tabs</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/33-products-tabs:10:0:panel"><img src="/carmella-docs/images/33-products-tabs-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/33-products-tabs:10:0:panel"><img src="/carmella-docs/images/33-products-tabs-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

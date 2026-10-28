@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:0:0:panel"><img src="/carmella-docs/images/14-category-showcase-title-panel.webp?v=69b85b06c274" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:0:0:panel"><img src="/carmella-docs/images/14-category-showcase-title-panel.webp?v=69b85b06c274" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي تحت العنوان (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي تحت العنوان (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:1:0:panel"><img src="/carmella-docs/images/14-category-showcase-subtitle-panel.webp?v=527150d4d1b5" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:1:0:panel"><img src="/carmella-docs/images/14-category-showcase-subtitle-panel.webp?v=527150d4d1b5" alt="وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## بطاقات التصنيفات
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">بطاقات التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:2:0:panel"><img src="/carmella-docs/images/14-category-showcase-items-panel.webp?v=6e84fa02594c" alt="بطاقات التصنيفات — بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>بطاقات التصنيفات — بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:2:0:panel"><img src="/carmella-docs/images/14-category-showcase-items-panel.webp?v=6e84fa02594c" alt="بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>بطاقات التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -116,7 +116,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--category-showcase</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/14-category-showcase:5:0:panel"><img src="/carmella-docs/images/14-category-showcase-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/14-category-showcase:5:0:panel"><img src="/carmella-docs/images/14-category-showcase-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

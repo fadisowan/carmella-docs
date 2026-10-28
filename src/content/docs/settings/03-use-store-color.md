@@ -61,7 +61,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «لون الأزرار والأسعار» = لون أختاره (من الحقل التالي)</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الأزرار الذي تختاره</p><div class="preview-grid">
-<figure data-source-ref="settings/03-use-store-color:2:0:panel"><img src="/carmella-docs/images/settings-03-use-store-color-accent-custom-panel.webp" alt="↳ لون الأزرار الذي تختاره — ↳ لون الأزرار الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الأزرار الذي تختاره — ↳ لون الأزرار الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/03-use-store-color:2:0:panel"><img src="/carmella-docs/images/settings-03-use-store-color-accent-custom-panel.webp" alt="↳ لون الأزرار الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الأزرار الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تلوين أزرار سلة ونوافذها بنفس اللون

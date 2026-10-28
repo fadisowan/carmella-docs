@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:0:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:0:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان الفرعي
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">العنوان الفرعي</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:1:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-subtitle-panel.webp" alt="العنوان الفرعي — العنوان الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان الفرعي — العنوان الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:1:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-subtitle-panel.webp" alt="العنوان الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## إظهار رابط عرض جميع المنتجات
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على زر عرض جميع المنتجات.</p>
 
 <div class="setting-example"><p class="option-label">نص زر عرض جميع المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:3:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-all-text-panel.webp" alt="نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:3:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-all-text-panel.webp" alt="نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط زر عرض جميع المنتجات
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصفحة التي يفتحها زر عرض جميع المنتجات.</p>
 
 <div class="setting-example"><p class="option-label">رابط زر عرض جميع المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:4:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-all-url-panel.webp" alt="رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:4:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-all-url-panel.webp" alt="رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مصدر المنتجات
@@ -107,7 +107,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = تصنيف محدد</p>
 
 <div class="setting-example"><p class="option-label">اختر التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:6:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-categories-panel.webp" alt="اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:6:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-categories-panel.webp" alt="اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر العلامات التجارية
@@ -119,7 +119,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = علامة تجارية</p>
 
 <div class="setting-example"><p class="option-label">اختر العلامات التجارية</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:7:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-brands-panel.webp" alt="اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:7:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-brands-panel.webp" alt="اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر المنتجات
@@ -131,7 +131,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = منتجات محددة</p>
 
 <div class="setting-example"><p class="option-label">اختر المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:8:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-products-panel.webp" alt="اختر المنتجات — اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات — اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:8:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-source-products-panel.webp" alt="اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عدد المنتجات
@@ -141,7 +141,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> من 6 إلى 8.</p>
 
 <div class="setting-example"><p class="option-label">عدد المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:9:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-limit-panel.webp" alt="عدد المنتجات — عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات — عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:9:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-limit-panel.webp" alt="عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## إظهار العنوان
@@ -283,7 +283,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغًا للّون الافتراضي.</p>
 
 <div class="setting-example"><p class="option-label">لون خلفية القسم</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:21:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-background-color-panel.webp" alt="لون خلفية القسم — لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون خلفية القسم — لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:21:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-background-color-panel.webp" alt="لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون خلفية القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون نص العنوان
@@ -293,7 +293,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغًا للّون الافتراضي.</p>
 
 <div class="setting-example"><p class="option-label">لون نص العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:22:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-text-color-panel.webp" alt="لون نص العنوان — لون نص العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون نص العنوان — لون نص العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:22:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-text-color-panel.webp" alt="لون نص العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون نص العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص
@@ -303,7 +303,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-editorial-masonry</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/49-cml-editorial-masonry:23:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/49-cml-editorial-masonry:23:0:panel"><img src="/carmella-docs/images/49-cml-editorial-masonry-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

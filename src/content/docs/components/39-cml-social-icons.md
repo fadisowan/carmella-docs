@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:0:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-title-panel.webp" alt="عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:0:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-title-panel.webp" alt="عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص فرعي
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">نص فرعي</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:1:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-subtitle-panel.webp" alt="نص فرعي — نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص فرعي — نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:1:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-subtitle-panel.webp" alt="نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص فرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## Instagram
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">Instagram</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:2:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-instagram-panel.webp" alt="Instagram — Instagram — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Instagram — Instagram — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:2:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-instagram-panel.webp" alt="Instagram — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Instagram — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## TikTok
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">TikTok</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:3:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-tiktok-panel.webp" alt="TikTok — TikTok — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>TikTok — TikTok — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:3:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-tiktok-panel.webp" alt="TikTok — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>TikTok — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## Snapchat
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">Snapchat</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:4:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-snapchat-panel.webp" alt="Snapchat — Snapchat — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Snapchat — Snapchat — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:4:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-snapchat-panel.webp" alt="Snapchat — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Snapchat — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## X (Twitter)
@@ -72,7 +72,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">X (Twitter)</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:5:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-twitter-x-panel.webp" alt="X (Twitter) — X (Twitter) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>X (Twitter) — X (Twitter) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:5:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-twitter-x-panel.webp" alt="X (Twitter) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>X (Twitter) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## YouTube
@@ -82,7 +82,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">YouTube</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:6:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-youtube-panel.webp" alt="YouTube — YouTube — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>YouTube — YouTube — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:6:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-youtube-panel.webp" alt="YouTube — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>YouTube — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## Facebook
@@ -92,7 +92,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">Facebook</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:7:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-facebook-panel.webp" alt="Facebook — Facebook — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Facebook — Facebook — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:7:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-facebook-panel.webp" alt="Facebook — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Facebook — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## WhatsApp
@@ -102,7 +102,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">WhatsApp</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:8:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-whatsapp-panel.webp" alt="WhatsApp — WhatsApp — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>WhatsApp — WhatsApp — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:8:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-whatsapp-panel.webp" alt="WhatsApp — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>WhatsApp — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## Telegram
@@ -112,7 +112,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">Telegram</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:9:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-telegram-panel.webp" alt="Telegram — Telegram — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Telegram — Telegram — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:9:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-telegram-panel.webp" alt="Telegram — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Telegram — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## Pinterest
@@ -122,7 +122,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">Pinterest</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:10:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-pinterest-panel.webp" alt="Pinterest — Pinterest — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Pinterest — Pinterest — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:10:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-pinterest-panel.webp" alt="Pinterest — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>Pinterest — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## LinkedIn
@@ -132,7 +132,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركه فارغاً لإخفاء الأيقونة</p>
 
 <div class="setting-example"><p class="option-label">LinkedIn</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:11:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-linkedin-panel.webp" alt="LinkedIn — LinkedIn — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>LinkedIn — LinkedIn — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:11:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-linkedin-panel.webp" alt="LinkedIn — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>LinkedIn — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## محاذاة العنوان والنص الفرعي
@@ -163,7 +163,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-social-icons</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/39-cml-social-icons:13:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/39-cml-social-icons:13:0:panel"><img src="/carmella-docs/images/39-cml-social-icons-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

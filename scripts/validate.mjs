@@ -8,9 +8,11 @@ const hash=f=>createHash('sha256').update(fs.readFileSync(f)).digest('hex');
 const list=dir=>fs.readdirSync(dir,{recursive:true}).filter(f=>fs.statSync(path.join(dir,f)).isFile()).map(f=>f.replaceAll('\\','/')).sort();
 assert.deepEqual(list('source-docs'),Object.keys(release.sourceHashes).sort(),'Source inventory');
 for(const [f,h]of Object.entries(release.sourceHashes))assert.equal(hash('source-docs/'+f),h,'Original source modified: '+f);
+assert.equal(new Set(nav.map(x=>x.slug)).size,nav.length,'Duplicate documentation routes');
+assert.equal(new Set(nav.map(x=>x.title)).size,nav.length,'Duplicate documentation page titles');
 assert.equal(nav.filter(x=>x.kind==='section').length,49);assert.equal(nav.filter(x=>x.kind==='settings').length,17);
 let fields=0,items=0,pairs=0;const expected=new Map();
-for(const u of nav){const m=JSON.parse(fs.readFileSync('source-docs/'+u.path+'/manifest.json'));for(const k of ['desktop','mobile'])if(m[k])expected.set(u.slug+':'+k,path.basename(m[k]));const visit=(list,parent='')=>list.forEach((f,i)=>{parent?items++:fields++;const key=parent?parent+'.'+i:String(i);for(const [j,p]of(f.pairs||[]).entries()){pairs++;for(const k of ['panel','result'])if(p[k])expected.set(`${u.slug}:${key}:${j}:${k}`,path.basename(p[k]));}visit(f.item_fields||[],key);});visit(m.fields);}
+for(const u of nav){const m=JSON.parse(fs.readFileSync('source-docs/'+u.path+'/manifest.json'));assert.equal(new Set(m.fields.map(f=>JSON.stringify(f))).size,m.fields.length,'Duplicate fields in '+u.slug);for(const k of ['desktop','mobile'])if(m[k])expected.set(u.slug+':'+k,path.basename(m[k]));const visit=(list,parent='')=>list.forEach((f,i)=>{parent?items++:fields++;const key=parent?parent+'.'+i:String(i);for(const [j,p]of(f.pairs||[]).entries()){pairs++;for(const k of ['panel','result'])if(p[k])expected.set(`${u.slug}:${key}:${j}:${k}`,path.basename(p[k]));}visit(f.item_fields||[],key);});visit(m.fields);}
 assert.equal(fields,562);assert.equal(items,139);assert.equal(pairs,907);
 assert.deepEqual([...expected].sort(),release.assignments.map(x=>[x.ref,x.file]).sort(),'Image mapping differs from original manifest');
 for(const {ref,file}of release.assignments){const slug=ref.split(':')[0],html=fs.readFileSync('dist/'+slug+'/index.html','utf8');const start=html.indexOf(`data-source-ref="${ref}"`);assert.ok(start>=0,'Missing option image '+ref);const figure=html.slice(start,html.indexOf('</figure>',start));assert.ok(figure.includes(`/carmella-docs/images/${file}`),'Wrong option image '+ref);}

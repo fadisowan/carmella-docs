@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اختر القائمة التي تظهر في شريط التنقل العلوي (افتراضياً: القائمة المعيّنة لموضع الهيدر من إدارة القوائم).</p>
 
 <div class="setting-example"><p class="option-label">قائمة الهيدر الرئيسية</p><div class="preview-grid">
-<figure data-source-ref="settings/09-header-style:1:0:panel"><img src="/carmella-docs/images/settings-09-header-style-header-menu-id-panel.webp" alt="قائمة الهيدر الرئيسية — قائمة الهيدر الرئيسية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>قائمة الهيدر الرئيسية — قائمة الهيدر الرئيسية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/09-header-style:1:0:panel"><img src="/carmella-docs/images/settings-09-header-style-header-menu-id-panel.webp" alt="قائمة الهيدر الرئيسية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>قائمة الهيدر الرئيسية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تثبيت القائمة الرئيسية أعلى الصفحة عند التمرير لأسفل
@@ -69,7 +69,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يظهر في أعلى الهيدر. اتركه فارغاً لإخفاء الشريط. للرسائل المتعددة المتناوبة افصل بينها بعلامة &#124; (مثال: شحن مجاني &#124; إرجاع خلال ١٤ يوماً).</p>
 
 <div class="setting-example"><p class="option-label">نص الشريط العلوي (Announcement)</p><div class="preview-grid">
-<figure data-source-ref="settings/09-header-style:5:0:panel"><img src="/carmella-docs/images/settings-09-header-style-announcement-text-panel.webp" alt="نص الشريط العلوي (Announcement) — نص الشريط العلوي (Announcement) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الشريط العلوي (Announcement) — نص الشريط العلوي (Announcement) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/09-header-style:5:0:panel"><img src="/carmella-docs/images/settings-09-header-style-announcement-text-panel.webp" alt="نص الشريط العلوي (Announcement) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الشريط العلوي (Announcement) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

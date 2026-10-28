@@ -31,7 +31,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الشريط العلوي (الإعلان)» = لون أختاره</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الشريط العلوي</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:1:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-announce-bg-panel.webp" alt="↳ لون الشريط العلوي — ↳ لون الشريط العلوي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الشريط العلوي — ↳ لون الشريط العلوي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:1:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-announce-bg-panel.webp" alt="↳ لون الشريط العلوي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الشريط العلوي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## خلفية الهيدر
@@ -59,7 +59,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الهيدر» = لون أختاره</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الهيدر</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:3:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-bg-panel.webp" alt="↳ لون الهيدر — ↳ لون الهيدر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الهيدر — ↳ لون الهيدر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:3:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-bg-panel.webp" alt="↳ لون الهيدر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الهيدر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ لون النص والأيقونات
@@ -89,10 +89,12 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الهيدر» = لون أختاره و «↳ لون النص والأيقونات» = لون أختاره</p>
 
 <div class="setting-example"><p class="option-label">↳ لون النص والأيقونات الذي تختاره</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:5:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-ink-panel.webp" alt="↳ لون النص والأيقونات الذي تختاره — ↳ لون النص والأيقونات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والأيقونات الذي تختاره — ↳ لون النص والأيقونات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:5:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-ink-panel.webp" alt="↳ لون النص والأيقونات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والأيقونات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
-## ↳ ألوان مختلفة للوضع الداكن
+<span id="-ألوان-مختلفة-للوضع-الداكن"></span>
+
+## ↳ ألوان مختلفة للوضع الداكن — الهيدر
 
 <p class="field-meta"><span><strong>النوع:</strong> مفتاح</span><span><strong>الافتراضي:</strong> مطفأ</span></p>
 
@@ -113,7 +115,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الهيدر» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الهيدر (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:7:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-bg-dark-panel.webp" alt="↳ لون الهيدر (الداكن) — ↳ لون الهيدر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الهيدر (الداكن) — ↳ لون الهيدر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:7:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-bg-dark-panel.webp" alt="↳ لون الهيدر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الهيدر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ لون النص والأيقونات (الداكن)
@@ -125,7 +127,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الهيدر» = لون أختاره و «↳ لون النص والأيقونات» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ لون النص والأيقونات (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:8:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-ink-dark-panel.webp" alt="↳ لون النص والأيقونات (الداكن) — ↳ لون النص والأيقونات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والأيقونات (الداكن) — ↳ لون النص والأيقونات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:8:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-header-ink-dark-panel.webp" alt="↳ لون النص والأيقونات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والأيقونات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## خلفية الفوتر
@@ -153,7 +155,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الفوتر» = لون أختاره</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الفوتر</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:10:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-bg-panel.webp" alt="↳ لون الفوتر — ↳ لون الفوتر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الفوتر — ↳ لون الفوتر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:10:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-bg-panel.webp" alt="↳ لون الفوتر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الفوتر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ لون النص والروابط
@@ -183,10 +185,12 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الفوتر» = لون أختاره و «↳ لون النص والروابط» = لون أختاره</p>
 
 <div class="setting-example"><p class="option-label">↳ لون النص والروابط الذي تختاره</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:12:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-ink-panel.webp" alt="↳ لون النص والروابط الذي تختاره — ↳ لون النص والروابط الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والروابط الذي تختاره — ↳ لون النص والروابط الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:12:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-ink-panel.webp" alt="↳ لون النص والروابط الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والروابط الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
-## ↳ ألوان مختلفة للوضع الداكن
+<span id="-ألوان-مختلفة-للوضع-الداكن-1"></span>
+
+## ↳ ألوان مختلفة للوضع الداكن — الفوتر
 
 <p class="field-meta"><span><strong>النوع:</strong> مفتاح</span><span><strong>الافتراضي:</strong> مطفأ</span></p>
 
@@ -207,7 +211,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الفوتر» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الفوتر (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:14:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-bg-dark-panel.webp" alt="↳ لون الفوتر (الداكن) — ↳ لون الفوتر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الفوتر (الداكن) — ↳ لون الفوتر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:14:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-bg-dark-panel.webp" alt="↳ لون الفوتر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الفوتر (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ لون النص والروابط (الداكن)
@@ -219,7 +223,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «خلفية الفوتر» = لون أختاره و «↳ لون النص والروابط» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ لون النص والروابط (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/08-cml-announce-tone:15:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-ink-dark-panel.webp" alt="↳ لون النص والروابط (الداكن) — ↳ لون النص والروابط (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والروابط (الداكن) — ↳ لون النص والروابط (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/08-cml-announce-tone:15:0:panel"><img src="/carmella-docs/images/settings-08-cml-announce-tone-cml-footer-ink-dark-panel.webp" alt="↳ لون النص والروابط (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النص والروابط (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

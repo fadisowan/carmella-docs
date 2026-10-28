@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/10-before-after:0:0:panel"><img src="/carmella-docs/images/10-before-after-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/10-before-after:0:0:panel"><img src="/carmella-docs/images/10-before-after-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي تحت العنوان (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي تحت العنوان (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/10-before-after:1:0:panel"><img src="/carmella-docs/images/10-before-after-subtitle-panel.webp" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/10-before-after:1:0:panel"><img src="/carmella-docs/images/10-before-after-subtitle-panel.webp" alt="وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصورة (قبل)
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> صورة الحالة «قبل» في المقارنة.</p>
 
 <div class="setting-example"><p class="option-label">الصورة (قبل)</p><div class="preview-grid">
-<figure data-source-ref="components/10-before-after:2:0:panel"><img src="/carmella-docs/images/10-before-after-before-image-panel.webp" alt="الصورة (قبل) — الصورة (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة (قبل) — الصورة (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/10-before-after:2:0:panel"><img src="/carmella-docs/images/10-before-after-before-image-panel.webp" alt="الصورة (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصورة (بعد)
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> صورة الحالة «بعد» في المقارنة.</p>
 
 <div class="setting-example"><p class="option-label">الصورة (بعد)</p><div class="preview-grid">
-<figure data-source-ref="components/10-before-after:3:0:panel"><img src="/carmella-docs/images/10-before-after-after-image-panel.webp" alt="الصورة (بعد) — الصورة (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة (بعد) — الصورة (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/10-before-after:3:0:panel"><img src="/carmella-docs/images/10-before-after-after-image-panel.webp" alt="الصورة (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تسمية (قبل)
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الكلمة التي تظهر على صورة «قبل».</p>
 
 <div class="setting-example"><p class="option-label">تسمية (قبل)</p><div class="preview-grid">
-<figure data-source-ref="components/10-before-after:4:0:panel"><img src="/carmella-docs/images/10-before-after-before-label-panel.webp" alt="تسمية (قبل) — تسمية (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تسمية (قبل) — تسمية (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/10-before-after:4:0:panel"><img src="/carmella-docs/images/10-before-after-before-label-panel.webp" alt="تسمية (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تسمية (قبل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تسمية (بعد)
@@ -72,7 +72,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الكلمة التي تظهر على صورة «بعد».</p>
 
 <div class="setting-example"><p class="option-label">تسمية (بعد)</p><div class="preview-grid">
-<figure data-source-ref="components/10-before-after:5:0:panel"><img src="/carmella-docs/images/10-before-after-after-label-panel.webp" alt="تسمية (بعد) — تسمية (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تسمية (بعد) — تسمية (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/10-before-after:5:0:panel"><img src="/carmella-docs/images/10-before-after-after-label-panel.webp" alt="تسمية (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تسمية (بعد) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## محاذاة العنوان والنص الفرعي
@@ -126,7 +126,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--before-after</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/10-before-after:8:0:panel"><img src="/carmella-docs/images/10-before-after-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/10-before-after:8:0:panel"><img src="/carmella-docs/images/10-before-after-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

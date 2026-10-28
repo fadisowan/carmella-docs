@@ -25,7 +25,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ خلفية الصفحة (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/06-cml-dark-palette:1:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-bg-panel.webp" alt="↳ خلفية الصفحة (الداكن) — ↳ خلفية الصفحة (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ خلفية الصفحة (الداكن) — ↳ خلفية الصفحة (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/06-cml-dark-palette:1:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-bg-panel.webp" alt="↳ خلفية الصفحة (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ خلفية الصفحة (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ خلفية البطاقات (الداكن)
@@ -37,7 +37,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ خلفية البطاقات (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/06-cml-dark-palette:2:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-surface-panel.webp" alt="↳ خلفية البطاقات (الداكن) — ↳ خلفية البطاقات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ خلفية البطاقات (الداكن) — ↳ خلفية البطاقات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/06-cml-dark-palette:2:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-surface-panel.webp" alt="↳ خلفية البطاقات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ خلفية البطاقات (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ لون النصوص (الداكن)
@@ -49,7 +49,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ لون النصوص (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/06-cml-dark-palette:3:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-text-panel.webp" alt="↳ لون النصوص (الداكن) — ↳ لون النصوص (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النصوص (الداكن) — ↳ لون النصوص (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/06-cml-dark-palette:3:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-text-panel.webp" alt="↳ لون النصوص (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون النصوص (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ↳ لون العناوين (الداكن)
@@ -61,7 +61,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «ألوان مختلفة للوضع الداكن» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">↳ لون العناوين (الداكن)</p><div class="preview-grid">
-<figure data-source-ref="settings/06-cml-dark-palette:4:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-heading-panel.webp" alt="↳ لون العناوين (الداكن) — ↳ لون العناوين (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون العناوين (الداكن) — ↳ لون العناوين (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/06-cml-dark-palette:4:0:panel"><img src="/carmella-docs/images/settings-06-cml-dark-palette-cml-dark-heading-panel.webp" alt="↳ لون العناوين (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون العناوين (الداكن) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

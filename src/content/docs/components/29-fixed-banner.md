@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> المقاس الموصى به: 1200×300</p>
 
 <div class="setting-example"><p class="option-label">صورة البنر (ديسكتوب)</p><div class="preview-grid">
-<figure data-source-ref="components/29-fixed-banner:0:0:panel"><img src="/carmella-docs/images/29-fixed-banner-image-panel.webp" alt="صورة البنر (ديسكتوب) — صورة البنر (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة البنر (ديسكتوب) — صورة البنر (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/29-fixed-banner:0:0:panel"><img src="/carmella-docs/images/29-fixed-banner-image-panel.webp" alt="صورة البنر (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة البنر (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة البنر (موبايل)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> صورة بديلة تظهر على الجوال بدل صورة الكمبيوتر، بأبعاد طولية تناسب الشاشة الصغيرة.</p>
 
 <div class="setting-example"><p class="option-label">صورة البنر (موبايل)</p><div class="preview-grid">
-<figure data-source-ref="components/29-fixed-banner:1:0:panel"><img src="/carmella-docs/images/29-fixed-banner-small-image-panel.webp" alt="صورة البنر (موبايل) — صورة البنر (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة البنر (موبايل) — صورة البنر (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/29-fixed-banner:1:0:panel"><img src="/carmella-docs/images/29-fixed-banner-small-image-panel.webp" alt="صورة البنر (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة البنر (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الرابط
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصفحة التي يفتحها الضغط على الزر أو العنصر.</p>
 
 <div class="setting-example"><p class="option-label">الرابط</p><div class="preview-grid">
-<figure data-source-ref="components/29-fixed-banner:2:0:panel"><img src="/carmella-docs/images/29-fixed-banner-url-panel.webp" alt="الرابط — الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الرابط — الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/29-fixed-banner:2:0:panel"><img src="/carmella-docs/images/29-fixed-banner-url-panel.webp" alt="الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## فتح الرابط في تبويب جديد
@@ -72,7 +72,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--fixed-banner</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/29-fixed-banner:5:0:panel"><img src="/carmella-docs/images/29-fixed-banner-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/29-fixed-banner:5:0:panel"><img src="/carmella-docs/images/29-fixed-banner-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

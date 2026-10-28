@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.</p>
 
 <div class="setting-example"><p class="option-label">الشرائح</p><div class="preview-grid">
-<figure data-source-ref="components/38-cml-banner-slider:0:0:panel"><img src="/carmella-docs/images/38-cml-banner-slider-slides-panel.webp?v=6d36bd7444f5" alt="الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/38-cml-banner-slider:0:0:panel"><img src="/carmella-docs/images/38-cml-banner-slider-slides-panel.webp?v=6d36bd7444f5" alt="الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الشرائح — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -207,7 +207,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-banner-slider</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/38-cml-banner-slider:6:0:panel"><img src="/carmella-docs/images/38-cml-banner-slider-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/38-cml-banner-slider:6:0:panel"><img src="/carmella-docs/images/38-cml-banner-slider-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

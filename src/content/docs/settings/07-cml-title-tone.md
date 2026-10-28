@@ -63,7 +63,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «لون الخصومات» = لون أختاره</p>
 
 <div class="setting-example"><p class="option-label">↳ لون الخصومات الذي تختاره</p><div class="preview-grid">
-<figure data-source-ref="settings/07-cml-title-tone:3:0:panel"><img src="/carmella-docs/images/settings-07-cml-title-tone-cml-sale-color-panel.webp" alt="↳ لون الخصومات الذي تختاره — ↳ لون الخصومات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الخصومات الذي تختاره — ↳ لون الخصومات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/07-cml-title-tone:3:0:panel"><img src="/carmella-docs/images/settings-07-cml-title-tone-cml-sale-color-panel.webp" alt="↳ لون الخصومات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>↳ لون الخصومات الذي تختاره — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

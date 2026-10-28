@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اختر منتجًا واحدًا ليُعرض بالتفصيل في هذا القسم.</p>
 
 <div class="setting-example"><p class="option-label">المنتج</p><div class="preview-grid">
-<figure data-source-ref="components/46-cml-product-spotlight:0:0:panel"><img src="/carmella-docs/images/46-cml-product-spotlight-product-panel.webp" alt="المنتج — المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتج — المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/46-cml-product-spotlight:0:0:panel"><img src="/carmella-docs/images/46-cml-product-spotlight-product-panel.webp" alt="المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مزايا المنتج
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> حتى ثلاث مزايا قصيرة تظهر فوق زر الشراء.</p>
 
 <div class="setting-example"><p class="option-label">مزايا المنتج</p><div class="preview-grid">
-<figure data-source-ref="components/46-cml-product-spotlight:1:0:panel"><img src="/carmella-docs/images/46-cml-product-spotlight-features-panel.webp" alt="مزايا المنتج — مزايا المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مزايا المنتج — مزايا المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/46-cml-product-spotlight:1:0:panel"><img src="/carmella-docs/images/46-cml-product-spotlight-features-panel.webp" alt="مزايا المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مزايا المنتج — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -103,7 +103,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-product-spotlight</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/46-cml-product-spotlight:6:0:panel"><img src="/carmella-docs/images/46-cml-product-spotlight-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/46-cml-product-spotlight:6:0:panel"><img src="/carmella-docs/images/46-cml-product-spotlight-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

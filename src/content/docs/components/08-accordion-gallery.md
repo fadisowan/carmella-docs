@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:0:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-panel.webp?v=98e9c5a7d8f0" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:0:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-title-panel.webp?v=98e9c5a7d8f0" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف فرعي تحت العنوان (اختياري)
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير يظهر أسفل العنوان الرئيسي.</p>
 
 <div class="setting-example"><p class="option-label">وصف فرعي تحت العنوان (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:1:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-subtitle-panel.webp?v=6b4253c410eb" alt="وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:1:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-subtitle-panel.webp?v=6b4253c410eb" alt="وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف فرعي تحت العنوان (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## البطاقات
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">البطاقات</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:2:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-items-panel.webp?v=70e6aaa21fac" alt="البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:2:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-items-panel.webp?v=70e6aaa21fac" alt="البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -165,7 +165,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> ارتفاع البطاقات بالبكسل على الكمبيوتر.</p>
 
 <div class="setting-example"><p class="option-label">ارتفاع البطاقات — سطح المكتب (بكسل)</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:6:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-height-desktop-panel.webp" alt="ارتفاع البطاقات — سطح المكتب (بكسل) — ارتفاع البطاقات — سطح المكتب (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ارتفاع البطاقات — سطح المكتب (بكسل) — ارتفاع البطاقات — سطح المكتب (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:6:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-height-desktop-panel.webp" alt="ارتفاع البطاقات — سطح المكتب (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ارتفاع البطاقات — سطح المكتب (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ارتفاع البطاقات — الجهاز اللوحي (بكسل)
@@ -175,7 +175,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> ارتفاع البطاقات بالبكسل على الجهاز اللوحي.</p>
 
 <div class="setting-example"><p class="option-label">ارتفاع البطاقات — الجهاز اللوحي (بكسل)</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:7:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-height-tablet-panel.webp" alt="ارتفاع البطاقات — الجهاز اللوحي (بكسل) — ارتفاع البطاقات — الجهاز اللوحي (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ارتفاع البطاقات — الجهاز اللوحي (بكسل) — ارتفاع البطاقات — الجهاز اللوحي (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:7:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-height-tablet-panel.webp" alt="ارتفاع البطاقات — الجهاز اللوحي (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ارتفاع البطاقات — الجهاز اللوحي (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## ارتفاع البطاقات — الجوال (بكسل)
@@ -185,7 +185,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> ارتفاع البطاقات بالبكسل على الجوال.</p>
 
 <div class="setting-example"><p class="option-label">ارتفاع البطاقات — الجوال (بكسل)</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:8:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-height-mobile-panel.webp" alt="ارتفاع البطاقات — الجوال (بكسل) — ارتفاع البطاقات — الجوال (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ارتفاع البطاقات — الجوال (بكسل) — ارتفاع البطاقات — الجوال (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:8:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-height-mobile-panel.webp" alt="ارتفاع البطاقات — الجوال (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>ارتفاع البطاقات — الجوال (بكسل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص
@@ -195,7 +195,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--accordion-gallery</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/08-accordion-gallery:9:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/08-accordion-gallery:9:0:panel"><img src="/carmella-docs/images/08-accordion-gallery-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

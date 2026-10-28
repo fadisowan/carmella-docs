@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان مختصر (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:0:0:panel"><img src="/carmella-docs/images/30-cml-promo-title-panel.webp" alt="عنوان مختصر (اختياري) — عنوان مختصر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان مختصر (اختياري) — عنوان مختصر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:0:0:panel"><img src="/carmella-docs/images/30-cml-promo-title-panel.webp" alt="عنوان مختصر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان مختصر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف العرض
@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر وصفي إضافي يظهر أسفل العنوان.</p>
 
 <div class="setting-example"><p class="option-label">وصف العرض</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:1:0:panel"><img src="/carmella-docs/images/30-cml-promo-description-panel.webp" alt="وصف العرض — وصف العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف العرض — وصف العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:1:0:panel"><img src="/carmella-docs/images/30-cml-promo-description-panel.webp" alt="وصف العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة العرض (ديسكتوب)
@@ -39,7 +39,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> المقاس الموصى به: 1200×500 — تظهر كصورة البانر/النافذة</p>
 
 <div class="setting-example"><p class="option-label">صورة العرض (ديسكتوب)</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:2:0:panel"><img src="/carmella-docs/images/30-cml-promo-image-panel.webp" alt="صورة العرض (ديسكتوب) — صورة العرض (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة العرض (ديسكتوب) — صورة العرض (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:2:0:panel"><img src="/carmella-docs/images/30-cml-promo-image-panel.webp" alt="صورة العرض (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة العرض (ديسكتوب) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة العرض (موبايل)
@@ -49,7 +49,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> صورة بديلة تظهر على الجوال بدل صورة الكمبيوتر، بأبعاد طولية تناسب الشاشة الصغيرة.</p>
 
 <div class="setting-example"><p class="option-label">صورة العرض (موبايل)</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:3:0:panel"><img src="/carmella-docs/images/30-cml-promo-small-image-panel.webp" alt="صورة العرض (موبايل) — صورة العرض (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة العرض (موبايل) — صورة العرض (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:3:0:panel"><img src="/carmella-docs/images/30-cml-promo-small-image-panel.webp" alt="صورة العرض (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة العرض (موبايل) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص الخصم
@@ -59,7 +59,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> مثال: خصم 30% أو وفّر 50 ر.س</p>
 
 <div class="setting-example"><p class="option-label">نص الخصم</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:4:0:panel"><img src="/carmella-docs/images/30-cml-promo-discount-panel.webp" alt="نص الخصم — نص الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الخصم — نص الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:4:0:panel"><img src="/carmella-docs/images/30-cml-promo-discount-panel.webp" alt="نص الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص الزر (اختياري)
@@ -69,7 +69,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">نص الزر (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:5:0:panel"><img src="/carmella-docs/images/30-cml-promo-cta-text-panel.webp" alt="نص الزر (اختياري) — نص الزر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر (اختياري) — نص الزر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:5:0:panel"><img src="/carmella-docs/images/30-cml-promo-cta-text-panel.webp" alt="نص الزر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الرابط
@@ -79,7 +79,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصفحة التي يفتحها الضغط على الزر أو العنصر.</p>
 
 <div class="setting-example"><p class="option-label">الرابط</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:6:0:panel"><img src="/carmella-docs/images/30-cml-promo-url-panel.webp" alt="الرابط — الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الرابط — الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:6:0:panel"><img src="/carmella-docs/images/30-cml-promo-url-panel.webp" alt="الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الرابط — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كود الخصم
@@ -89,7 +89,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يظهر داخل إطار مميّز مع زر نسخ.</p>
 
 <div class="setting-example"><p class="option-label">كود الخصم</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:7:0:panel"><img src="/carmella-docs/images/30-cml-promo-promo-code-panel.webp" alt="كود الخصم — كود الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كود الخصم — كود الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:7:0:panel"><img src="/carmella-docs/images/30-cml-promo-promo-code-panel.webp" alt="كود الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كود الخصم — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تفعيل العدّاد التنازلي
@@ -111,7 +111,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «تفعيل العدّاد التنازلي» = مفعّل</p>
 
 <div class="setting-example"><p class="option-label">تاريخ انتهاء العرض</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:9:0:panel"><img src="/carmella-docs/images/30-cml-promo-countdown-to-panel.webp" alt="تاريخ انتهاء العرض — تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تاريخ انتهاء العرض — تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:9:0:panel"><img src="/carmella-docs/images/30-cml-promo-countdown-to-panel.webp" alt="تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## طريقة العرض
@@ -171,7 +171,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «طريقة العرض» = نافذة منبثقة (افتراضي)</p>
 
 <div class="setting-example"><p class="option-label">تأخير ظهور النافذة (ثانية)</p><div class="preview-grid">
-<figure data-source-ref="components/30-cml-promo:13:0:panel"><img src="/carmella-docs/images/30-cml-promo-popup-delay-panel.webp" alt="تأخير ظهور النافذة (ثانية) — تأخير ظهور النافذة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تأخير ظهور النافذة (ثانية) — تأخير ظهور النافذة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/30-cml-promo:13:0:panel"><img src="/carmella-docs/images/30-cml-promo-popup-delay-panel.webp" alt="تأخير ظهور النافذة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تأخير ظهور النافذة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كم مرة تظهر

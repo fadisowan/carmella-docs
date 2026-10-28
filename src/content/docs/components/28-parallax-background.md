@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/28-parallax-background:0:0:panel"><img src="/carmella-docs/images/28-parallax-background-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:0:0:panel"><img src="/carmella-docs/images/28-parallax-background-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## النص الفرعي
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر وصفي قصير تحت العنوان. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">النص الفرعي</p><div class="preview-grid">
-<figure data-source-ref="components/28-parallax-background:1:0:panel"><img src="/carmella-docs/images/28-parallax-background-sub-title-panel.webp" alt="النص الفرعي — النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النص الفرعي — النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:1:0:panel"><img src="/carmella-docs/images/28-parallax-background-sub-title-panel.webp" alt="النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة الخلفية
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصورة المعروضة في هذا العنصر.</p>
 
 <div class="setting-example"><p class="option-label">صورة الخلفية</p><div class="preview-grid">
-<figure data-source-ref="components/28-parallax-background:2:0:panel"><img src="/carmella-docs/images/28-parallax-background-image-panel.webp" alt="صورة الخلفية — صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الخلفية — صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:2:0:panel"><img src="/carmella-docs/images/28-parallax-background-image-panel.webp" alt="صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص الزر
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على الزر.</p>
 
 <div class="setting-example"><p class="option-label">نص الزر</p><div class="preview-grid">
-<figure data-source-ref="components/28-parallax-background:3:0:panel"><img src="/carmella-docs/images/28-parallax-background-link-text-panel.webp" alt="نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:3:0:panel"><img src="/carmella-docs/images/28-parallax-background-link-text-panel.webp" alt="نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط الزر
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصفحة التي يفتحها الضغط على الزر أو العنصر.</p>
 
 <div class="setting-example"><p class="option-label">رابط الزر</p><div class="preview-grid">
-<figure data-source-ref="components/28-parallax-background:4:0:panel"><img src="/carmella-docs/images/28-parallax-background-url-panel.webp" alt="رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:4:0:panel"><img src="/carmella-docs/images/28-parallax-background-url-panel.webp" alt="رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## محاذاة العنوان والنص الفرعي
@@ -103,7 +103,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--parallax-background</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/28-parallax-background:7:0:panel"><img src="/carmella-docs/images/28-parallax-background-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/28-parallax-background:7:0:panel"><img src="/carmella-docs/images/28-parallax-background-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

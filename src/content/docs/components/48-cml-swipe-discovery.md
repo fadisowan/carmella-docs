@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر صغير فوق العنوان. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">عنوان تمهيدي صغير</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:0:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-eyebrow-panel.webp?v=6700f1fea39e" alt="عنوان تمهيدي صغير — عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان تمهيدي صغير — عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:0:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-eyebrow-panel.webp?v=6700f1fea39e" alt="عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان تمهيدي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> كل سطر يظهر في سطر مستقل.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:1:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-title-panel.webp?v=82bb1aaf7695" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:1:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-title-panel.webp?v=82bb1aaf7695" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## وصف قصير
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">وصف قصير</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:2:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-description-panel.webp?v=3aebcddb4373" alt="وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف قصير — وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:2:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-description-panel.webp?v=3aebcddb4373" alt="وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>وصف قصير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص زر عرض جميع المنتجات
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على زر عرض جميع المنتجات.</p>
 
 <div class="setting-example"><p class="option-label">نص زر عرض جميع المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:3:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-text-panel.webp?v=bd780ffe019e" alt="نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر عرض جميع المنتجات — نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:3:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-text-panel.webp?v=bd780ffe019e" alt="نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط زر عرض جميع المنتجات
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصفحة التي يفتحها زر عرض جميع المنتجات.</p>
 
 <div class="setting-example"><p class="option-label">رابط زر عرض جميع المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:4:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-url-panel.webp?v=5b2d4f5de335" alt="رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر عرض جميع المنتجات — رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:4:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-all-url-panel.webp?v=5b2d4f5de335" alt="رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط زر عرض جميع المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مصدر المنتجات
@@ -107,7 +107,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = تصنيف محدد</p>
 
 <div class="setting-example"><p class="option-label">اختر التصنيفات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:6:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-categories-panel.webp" alt="اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:6:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-categories-panel.webp" alt="اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر التصنيفات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر العلامات التجارية
@@ -119,7 +119,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = علامة تجارية</p>
 
 <div class="setting-example"><p class="option-label">اختر العلامات التجارية</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:7:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-brands-panel.webp" alt="اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:7:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-brands-panel.webp" alt="اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر العلامات التجارية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## اختر المنتجات
@@ -131,7 +131,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر المنتجات» = منتجات محددة</p>
 
 <div class="setting-example"><p class="option-label">اختر المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:8:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-products-panel.webp" alt="اختر المنتجات — اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات — اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:8:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-source-products-panel.webp" alt="اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>اختر المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## عدد المنتجات
@@ -141,7 +141,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> من 4 إلى 12.</p>
 
 <div class="setting-example"><p class="option-label">عدد المنتجات</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:9:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-limit-panel.webp" alt="عدد المنتجات — عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات — عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:9:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-limit-panel.webp" alt="عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عدد المنتجات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## إظهار السعر
@@ -265,7 +265,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-swipe-discovery</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/48-cml-swipe-discovery:20:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/48-cml-swipe-discovery:20:0:panel"><img src="/carmella-docs/images/48-cml-swipe-discovery-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

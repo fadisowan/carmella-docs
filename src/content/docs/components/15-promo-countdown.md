@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.</p>
 
 <div class="setting-example"><p class="option-label">نص علوي صغير</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:0:0:panel"><img src="/carmella-docs/images/15-promo-countdown-eyebrow-panel.webp" alt="نص علوي صغير — نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص علوي صغير — نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:0:0:panel"><img src="/carmella-docs/images/15-promo-countdown-eyebrow-panel.webp" alt="نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص علوي صغير — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:1:0:panel"><img src="/carmella-docs/images/15-promo-countdown-title-panel.webp" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:1:0:panel"><img src="/carmella-docs/images/15-promo-countdown-title-panel.webp" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الوصف
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.</p>
 
 <div class="setting-example"><p class="option-label">الوصف</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:2:0:panel"><img src="/carmella-docs/images/15-promo-countdown-description-panel.webp" alt="الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:2:0:panel"><img src="/carmella-docs/images/15-promo-countdown-description-panel.webp" alt="الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصورة الجانبية
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> * المقاس المناسب 900×900 بكسل. اتركها فارغة لعرض البانر بلون التمييز فقط.</p>
 
 <div class="setting-example"><p class="option-label">الصورة الجانبية</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:3:0:panel"><img src="/carmella-docs/images/15-promo-countdown-image-panel.webp" alt="الصورة الجانبية — الصورة الجانبية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة الجانبية — الصورة الجانبية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:3:0:panel"><img src="/carmella-docs/images/15-promo-countdown-image-panel.webp" alt="الصورة الجانبية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة الجانبية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة الجوال (اختيارية)
@@ -62,7 +62,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> * تظهر بدل الصورة الجانبية على الشاشات الأصغر من 768 بكسل. المقاس المناسب 800×600. اتركها فارغة لاستخدام الصورة الجانبية على كل المقاسات.</p>
 
 <div class="setting-example"><p class="option-label">صورة الجوال (اختيارية)</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:4:0:panel"><img src="/carmella-docs/images/15-promo-countdown-mobile-image-panel.webp" alt="صورة الجوال (اختيارية) — صورة الجوال (اختيارية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الجوال (اختيارية) — صورة الجوال (اختيارية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:4:0:panel"><img src="/carmella-docs/images/15-promo-countdown-mobile-image-panel.webp" alt="صورة الجوال (اختيارية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الجوال (اختيارية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تاريخ انتهاء العرض
@@ -72,7 +72,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> تاريخ انتهاء العرض بالصيغة YYYY-MM-DD. تاريخ فقط بلا وقت؛ ينتهي العدّاد في آخر ذلك اليوم. اتركه فارغاً لإخفاء العدّاد.</p>
 
 <div class="setting-example"><p class="option-label">تاريخ انتهاء العرض</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:5:0:panel"><img src="/carmella-docs/images/15-promo-countdown-end-date-panel.webp" alt="تاريخ انتهاء العرض — تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تاريخ انتهاء العرض — تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:5:0:panel"><img src="/carmella-docs/images/15-promo-countdown-end-date-panel.webp" alt="تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تاريخ انتهاء العرض — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص الزر
@@ -82,7 +82,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">نص الزر</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:6:0:panel"><img src="/carmella-docs/images/15-promo-countdown-cta-text-panel.webp" alt="نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:6:0:panel"><img src="/carmella-docs/images/15-promo-countdown-cta-text-panel.webp" alt="نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط الزر
@@ -92,7 +92,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً.</p>
 
 <div class="setting-example"><p class="option-label">رابط الزر</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:7:0:panel"><img src="/carmella-docs/images/15-promo-countdown-cta-url-panel.webp" alt="رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:7:0:panel"><img src="/carmella-docs/images/15-promo-countdown-cta-url-panel.webp" alt="رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## شكل الزر
@@ -120,7 +120,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--promo-countdown</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/15-promo-countdown:9:0:panel"><img src="/carmella-docs/images/15-promo-countdown-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/15-promo-countdown:9:0:panel"><img src="/carmella-docs/images/15-promo-countdown-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

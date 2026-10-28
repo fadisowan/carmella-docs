@@ -43,7 +43,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> لون خلفية كل الصفحات. إن لم تحدد البطاقات والنصوص تُشتق منه تلقائيًا.</p>
 
 <div class="setting-example"><p class="option-label">خلفية الصفحة</p><div class="preview-grid">
-<figure data-source-ref="settings/05-cml-palette-enabled:2:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-bg-panel.webp" alt="خلفية الصفحة — خلفية الصفحة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية الصفحة — خلفية الصفحة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/05-cml-palette-enabled:2:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-bg-panel.webp" alt="خلفية الصفحة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية الصفحة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## خلفية البطاقات
@@ -53,7 +53,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> بطاقات المنتجات والنوافذ والقوائم المنسدلة. إن تركتها، أو كانت فاتحة والخلفية داكنة أو العكس، تُشتق من خلفية الصفحة.</p>
 
 <div class="setting-example"><p class="option-label">خلفية البطاقات</p><div class="preview-grid">
-<figure data-source-ref="settings/05-cml-palette-enabled:3:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-surface-panel.webp" alt="خلفية البطاقات — خلفية البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية البطاقات — خلفية البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/05-cml-palette-enabled:3:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-surface-panel.webp" alt="خلفية البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>خلفية البطاقات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون النصوص
@@ -63,7 +63,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الفقرات والأوصاف، ومنه النصوص الخافتة والحدود. يُستبدل تلقائيًا إن صار غير مقروء.</p>
 
 <div class="setting-example"><p class="option-label">لون النصوص</p><div class="preview-grid">
-<figure data-source-ref="settings/05-cml-palette-enabled:4:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-text-panel.webp" alt="لون النصوص — لون النصوص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النصوص — لون النصوص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/05-cml-palette-enabled:4:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-text-panel.webp" alt="لون النصوص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النصوص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون العناوين
@@ -73,7 +73,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> أسماء المنتجات وعناوين الصفحات. لعناوين أقسام الرئيسية خيار مستقل في (ج).</p>
 
 <div class="setting-example"><p class="option-label">لون العناوين</p><div class="preview-grid">
-<figure data-source-ref="settings/05-cml-palette-enabled:5:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-heading-panel.webp" alt="لون العناوين — لون العناوين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون العناوين — لون العناوين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="settings/05-cml-palette-enabled:5:0:panel"><img src="/carmella-docs/images/settings-05-cml-palette-enabled-cml-color-heading-panel.webp" alt="لون العناوين — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون العناوين — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

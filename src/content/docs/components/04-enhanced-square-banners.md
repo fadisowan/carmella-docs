@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يظهر فوق الشبكة عند تعبئته.</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/04-enhanced-square-banners:0:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-section-title-panel.webp?v=011eb9be547d" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:0:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-section-title-panel.webp?v=011eb9be547d" alt="عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## قائمة الصور
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصور التي يعرضها القسم، لكل صورة رابطها.</p>
 
 <div class="setting-example"><p class="option-label">قائمة الصور</p><div class="preview-grid">
-<figure data-source-ref="components/04-enhanced-square-banners:1:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-banners-panel.webp?v=44514c14a708" alt="قائمة الصور — قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>قائمة الصور — قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:1:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-banners-panel.webp?v=44514c14a708" alt="قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>قائمة الصور — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -88,7 +88,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--enhanced-square-banners</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/04-enhanced-square-banners:4:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/04-enhanced-square-banners:4:0:panel"><img src="/carmella-docs/images/04-enhanced-square-banners-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

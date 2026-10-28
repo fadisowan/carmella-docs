@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.</p>
 
 <div class="setting-example"><p class="option-label">عنوان صغير فوق العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:0:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-eyebrow-panel.webp" alt="عنوان صغير فوق العنوان — عنوان صغير فوق العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان صغير فوق العنوان — عنوان صغير فوق العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:0:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-eyebrow-panel.webp" alt="عنوان صغير فوق العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان صغير فوق العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## العنوان الرئيسي
@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان الرئيسي</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:1:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-title-panel.webp" alt="العنوان الرئيسي — العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان الرئيسي — العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:1:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-title-panel.webp" alt="العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان الرئيسي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## النص الفرعي
@@ -39,7 +39,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.</p>
 
 <div class="setting-example"><p class="option-label">النص الفرعي</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:2:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-subtitle-panel.webp" alt="النص الفرعي — النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النص الفرعي — النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:2:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-subtitle-panel.webp" alt="النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النص الفرعي — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## صورة الخلفية
@@ -49,7 +49,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اتركها فارغة لاستخدام اللون فقط</p>
 
 <div class="setting-example"><p class="option-label">صورة الخلفية</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:3:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-bg-image-panel.webp" alt="صورة الخلفية — صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الخلفية — صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:3:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-bg-image-panel.webp" alt="صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>صورة الخلفية — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص الزر
@@ -59,7 +59,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.</p>
 
 <div class="setting-example"><p class="option-label">نص الزر</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:4:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-cta-text-panel.webp" alt="نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:4:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-cta-text-panel.webp" alt="نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط الزر
@@ -69,7 +69,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً.</p>
 
 <div class="setting-example"><p class="option-label">رابط الزر</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:5:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-cta-url-panel.webp" alt="رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:5:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-cta-url-panel.webp" alt="رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط الزر — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون الخلفية (بديل الصورة)
@@ -79,7 +79,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> لون خلفية يُستخدم حين لا توجد صورة.</p>
 
 <div class="setting-example"><p class="option-label">لون الخلفية (بديل الصورة)</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:6:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-bg-color-panel.webp" alt="لون الخلفية (بديل الصورة) — لون الخلفية (بديل الصورة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الخلفية (بديل الصورة) — لون الخلفية (بديل الصورة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:6:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-bg-color-panel.webp" alt="لون الخلفية (بديل الصورة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون الخلفية (بديل الصورة) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص داكن (للخلفيات الفاتحة)
@@ -115,7 +115,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--cml-cta-banner</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/41-cml-cta-banner:9:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/41-cml-cta-banner:9:0:panel"><img src="/carmella-docs/images/41-cml-cta-banner-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

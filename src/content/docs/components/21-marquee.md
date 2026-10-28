@@ -94,7 +94,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «وضع السرعة» = مخصص بالثواني</p>
 
 <div class="setting-example"><p class="option-label">مدة دورة كاملة (ثانية)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:4:0:panel"><img src="/carmella-docs/images/21-marquee-speed-seconds-panel.webp?v=4ce169f8bea6" alt="مدة دورة كاملة (ثانية) — مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة دورة كاملة (ثانية) — مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:4:0:panel"><img src="/carmella-docs/images/21-marquee-speed-seconds-panel.webp?v=4ce169f8bea6" alt="مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مدة دورة كاملة (ثانية) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## إيقاف مؤقت عند التأشير
@@ -137,7 +137,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = نصوص يدوية</p>
 
 <div class="setting-example"><p class="option-label">النصوص اليدوية (شريط أ)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:7:0:panel"><img src="/carmella-docs/images/21-marquee-items-panel.webp?v=e938ea28b260" alt="النصوص اليدوية (شريط أ) — النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النصوص اليدوية (شريط أ) — النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:7:0:panel"><img src="/carmella-docs/images/21-marquee-items-panel.webp?v=e938ea28b260" alt="النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>النصوص اليدوية (شريط أ) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -175,7 +175,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = تصنيفات المتجر</p>
 
 <div class="setting-example"><p class="option-label">تصنيفات الشريط أ</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:8:0:panel"><img src="/carmella-docs/images/21-marquee-categories-panel.webp?v=22d7c8a25b06" alt="تصنيفات الشريط أ — تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط أ — تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:8:0:panel"><img src="/carmella-docs/images/21-marquee-categories-panel.webp?v=22d7c8a25b06" alt="تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط أ — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نص شريحة التخفيضات
@@ -187,7 +187,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = رابط التخفيضات</p>
 
 <div class="setting-example"><p class="option-label">نص شريحة التخفيضات</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:9:0:panel"><img src="/carmella-docs/images/21-marquee-offers-label-panel.webp?v=6cf137442263" alt="نص شريحة التخفيضات — نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص شريحة التخفيضات — نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:9:0:panel"><img src="/carmella-docs/images/21-marquee-offers-label-panel.webp?v=6cf137442263" alt="نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نص شريحة التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## رابط التخفيضات
@@ -199,7 +199,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «مصدر الشريط (أ / الرئيسي)» = رابط التخفيضات</p>
 
 <div class="setting-example"><p class="option-label">رابط التخفيضات</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:10:0:panel"><img src="/carmella-docs/images/21-marquee-offers-url-panel.webp?v=835ce43bbc6a" alt="رابط التخفيضات — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط التخفيضات — رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:10:0:panel"><img src="/carmella-docs/images/21-marquee-offers-url-panel.webp?v=835ce43bbc6a" alt="رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>رابط التخفيضات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نصوص الشريط ب (متقاطع)
@@ -211,7 +211,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «الشكل» = crossed</p>
 
 <div class="setting-example"><p class="option-label">نصوص الشريط ب (متقاطع)</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:11:0:panel"><img src="/carmella-docs/images/21-marquee-items-strip-b-panel.webp?v=6bf76e11feb5" alt="نصوص الشريط ب (متقاطع) — نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نصوص الشريط ب (متقاطع) — نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:11:0:panel"><img src="/carmella-docs/images/21-marquee-items-strip-b-panel.webp?v=6bf76e11feb5" alt="نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>نصوص الشريط ب (متقاطع) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -272,7 +272,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «الشكل» = crossed و «مصدر الشريط ب (متقاطع)» = تصنيفات المتجر</p>
 
 <div class="setting-example"><p class="option-label">تصنيفات الشريط ب</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:13:0:panel"><img src="/carmella-docs/images/21-marquee-categories-strip-b-panel.webp?v=b6055fc39f5d" alt="تصنيفات الشريط ب — تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط ب — تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:13:0:panel"><img src="/carmella-docs/images/21-marquee-categories-strip-b-panel.webp?v=b6055fc39f5d" alt="تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>تصنيفات الشريط ب — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## نمط النص
@@ -393,7 +393,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «أيقونة الفاصل بين النصوص» = أيقونة مخصصة</p>
 
 <div class="setting-example"><p class="option-label">أيقونة فاصل مخصصة</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:18:0:panel"><img src="/carmella-docs/images/21-marquee-separator-icon-panel.webp" alt="أيقونة فاصل مخصصة — أيقونة فاصل مخصصة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أيقونة فاصل مخصصة — أيقونة فاصل مخصصة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:18:0:panel"><img src="/carmella-docs/images/21-marquee-separator-icon-panel.webp" alt="أيقونة فاصل مخصصة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>أيقونة فاصل مخصصة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## لون النص
@@ -403,7 +403,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> لون النص فوق الخلفية أو الصورة.</p>
 
 <div class="setting-example"><p class="option-label">لون النص</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:19:0:panel"><img src="/carmella-docs/images/21-marquee-text-color-panel.webp" alt="لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:19:0:panel"><img src="/carmella-docs/images/21-marquee-text-color-panel.webp" alt="لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>لون النص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## تباعد العناصر
@@ -436,7 +436,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «المسافة أعلى القسم» = حسب الثيم</p>
 
 <div class="setting-example"><p class="option-label">مسافة علوية مخصّصة بالبكسل</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:21:0:panel"><img src="/carmella-docs/images/21-marquee-top-spacing-panel.webp" alt="مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:21:0:panel"><img src="/carmella-docs/images/21-marquee-top-spacing-panel.webp" alt="مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة علوية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## مسافة سفلية مخصّصة بالبكسل
@@ -448,7 +448,7 @@ editUrl: false
 <p><strong>شرط الظهور:</strong> «المسافة أسفل القسم» = حسب الثيم</p>
 
 <div class="setting-example"><p class="option-label">مسافة سفلية مخصّصة بالبكسل</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:22:0:panel"><img src="/carmella-docs/images/21-marquee-bottom-spacing-panel.webp" alt="مسافة سفلية مخصّصة بالبكسل — مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة سفلية مخصّصة بالبكسل — مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:22:0:panel"><img src="/carmella-docs/images/21-marquee-bottom-spacing-panel.webp" alt="مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>مسافة سفلية مخصّصة بالبكسل — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## كلاس CSS مخصص
@@ -458,7 +458,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--marquee</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/21-marquee:23:0:panel"><img src="/carmella-docs/images/21-marquee-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/21-marquee:23:0:panel"><img src="/carmella-docs/images/21-marquee-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

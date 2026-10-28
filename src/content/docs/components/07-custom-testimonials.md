@@ -19,7 +19,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> يستبدل العنوان الافتراضي «آراء العملاء».</p>
 
 <div class="setting-example"><p class="option-label">عنوان القسم (اختياري)</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:0:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-section-title-panel.webp?v=33bb48e20fcb" alt="عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:0:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-section-title-panel.webp?v=33bb48e20fcb" alt="عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>عنوان القسم (اختياري) — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## التقييمات
@@ -29,7 +29,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">التقييمات</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:1:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-items-panel.webp?v=85d967236694" alt="التقييمات — التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التقييمات — التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:1:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-items-panel.webp?v=85d967236694" alt="التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>التقييمات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -111,7 +111,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--custom-testimonials</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/07-custom-testimonials:6:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/07-custom-testimonials:6:0:panel"><img src="/carmella-docs/images/07-custom-testimonials-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 

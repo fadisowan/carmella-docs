@@ -22,7 +22,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.</p>
 
 <div class="setting-example"><p class="option-label">العنوان</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:0:0:panel"><img src="/carmella-docs/images/19-sticky-story-title-panel.webp?v=a1197306fb06" alt="العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:0:0:panel"><img src="/carmella-docs/images/19-sticky-story-title-panel.webp?v=a1197306fb06" alt="العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>العنوان — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الوصف
@@ -32,7 +32,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.</p>
 
 <div class="setting-example"><p class="option-label">الوصف</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:1:0:panel"><img src="/carmella-docs/images/19-sticky-story-description-panel.webp?v=de85102bf518" alt="الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:1:0:panel"><img src="/carmella-docs/images/19-sticky-story-description-panel.webp?v=de85102bf518" alt="الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الوصف — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الصورة الثابتة
@@ -42,7 +42,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> الصورة المعروضة في هذا العنصر.</p>
 
 <div class="setting-example"><p class="option-label">الصورة الثابتة</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:2:0:panel"><img src="/carmella-docs/images/19-sticky-story-image-panel.webp?v=d7109f3adc01" alt="الصورة الثابتة — الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة الثابتة — الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:2:0:panel"><img src="/carmella-docs/images/19-sticky-story-image-panel.webp?v=d7109f3adc01" alt="الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الصورة الثابتة — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ## الخطوات
@@ -52,7 +52,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.</p>
 
 <div class="setting-example"><p class="option-label">الخطوات</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:3:0:panel"><img src="/carmella-docs/images/19-sticky-story-items-panel.webp?v=1b93cbee6f26" alt="الخطوات — الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الخطوات — الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:3:0:panel"><img src="/carmella-docs/images/19-sticky-story-items-panel.webp?v=1b93cbee6f26" alt="الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>الخطوات — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 ### حقول كل عنصر
@@ -105,7 +105,7 @@ editUrl: false
 <p><strong>الوظيفة:</strong> للمصممين. كلاس القسم الثابت: cml-s--sticky-story</p>
 
 <div class="setting-example"><p class="option-label">كلاس CSS مخصص</p><div class="preview-grid">
-<figure data-source-ref="components/19-sticky-story:5:0:panel"><img src="/carmella-docs/images/19-sticky-story-cml-class-panel.webp" alt="كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
+<figure data-source-ref="components/19-sticky-story:5:0:panel"><img src="/carmella-docs/images/19-sticky-story-cml-class-panel.webp" alt="كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)" loading="lazy" decoding="async"/><figcaption>كلاس CSS مخصص — لوحة الإعدادات (تمثيل مطابق للمحرّر)</figcaption></figure>
 </div></div>
 
 
