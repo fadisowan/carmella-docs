@@ -1,0 +1,267 @@
+{
+  "kind": "section",
+  "title": "كارميلا · أيقونات التواصل الاجتماعي",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/39-cml-social-icons-desktop.webp",
+  "mobile": "../../images/39-cml-social-icons-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص فرعي",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-subtitle-panel.webp",
+          "result": "",
+          "option": "نص فرعي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "Instagram",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-instagram-panel.webp",
+          "result": "",
+          "option": "Instagram",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "TikTok",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-tiktok-panel.webp",
+          "result": "",
+          "option": "TikTok",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "Snapchat",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-snapchat-panel.webp",
+          "result": "",
+          "option": "Snapchat",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "X (Twitter)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-twitter-x-panel.webp",
+          "result": "",
+          "option": "X (Twitter)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "YouTube",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-youtube-panel.webp",
+          "result": "",
+          "option": "YouTube",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "Facebook",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-facebook-panel.webp",
+          "result": "",
+          "option": "Facebook",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "WhatsApp",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-whatsapp-panel.webp",
+          "result": "",
+          "option": "WhatsApp",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "Telegram",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-telegram-panel.webp",
+          "result": "",
+          "option": "Telegram",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "Pinterest",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-pinterest-panel.webp",
+          "result": "",
+          "option": "Pinterest",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "LinkedIn",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الأيقونة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-linkedin-panel.webp",
+          "result": "",
+          "option": "LinkedIn",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-align-right-panel.webp",
+          "result": "../../images/39-cml-social-icons-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/39-cml-social-icons-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/39-cml-social-icons-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-social-icons",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/39-cml-social-icons-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

@@ -1,0 +1,145 @@
+{
+  "kind": "section",
+  "title": "بطاقات متراكبة",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/43-stacked-cards-desktop.webp",
+  "mobile": "../../images/43-stacked-cards-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم",
+      "type": "نص",
+      "default": "رحلة القطعة",
+      "what": "عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/43-stacked-cards-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف القسم",
+      "type": "نص طويل",
+      "default": "من الفكرة إلى إطلالتك، خطوة بخطوة.",
+      "what": "وصف قصير تحت عنوان القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/43-stacked-cards-section-description-panel.webp",
+          "result": "",
+          "option": "وصف القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "البطاقات",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/43-stacked-cards-items-panel.webp",
+          "result": "",
+          "option": "البطاقات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الصورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة المعروضة في هذا العنصر."
+        },
+        {
+          "label": "التسمية",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص الظاهر على العنصر."
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "الوصف",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة."
+        },
+        {
+          "label": "نص الزر",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المكتوب على الزر."
+        },
+        {
+          "label": "رابط الزر",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة… أو الصق رابطاً خارجياً."
+        }
+      ]
+    },
+    {
+      "label": "أسلوب التكديس",
+      "type": "قائمة منسدلة",
+      "default": "وسط",
+      "what": "طريقة تكدّس البطاقات فوق بعضها أثناء التمرير.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/43-stacked-cards-stack-style-centered-panel.webp",
+          "result": "../../images/43-stacked-cards-stack-style-centered-result.webp",
+          "option": "وسط",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/43-stacked-cards-stack-style-side-panel.webp",
+          "result": "",
+          "option": "جانبي",
+          "note": ""
+        }
+      ],
+      "options": [
+        "وسط",
+        "جانبي"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--stacked-cards",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/43-stacked-cards-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Carmelea (معاينة الثيم)"
+}

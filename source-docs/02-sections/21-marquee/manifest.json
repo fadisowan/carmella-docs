@@ -1,0 +1,677 @@
+{
+  "kind": "section",
+  "title": "كارميلا | شريط نصوص متحرك",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/21-marquee-desktop.webp",
+  "mobile": "../../images/21-marquee-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "الشكل",
+      "type": "قائمة منسدلة",
+      "default": "مستقيم",
+      "what": "الشكل العام للقسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-style-straight-panel.webp",
+          "result": "../../images/21-marquee-style-straight-result.webp",
+          "option": "مستقيم",
+          "note": "القيمة الافتراضية."
+        }
+      ],
+      "options": [
+        "مستقيم"
+      ]
+    },
+    {
+      "label": "اتجاه الحركة",
+      "type": "قائمة منسدلة",
+      "default": "مع اتجاه القراءة",
+      "what": "اتجاه الحركة: مع اتجاه القراءة أو عكسه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-direction-rtl-panel.webp",
+          "result": "../../images/21-marquee-direction-rtl-result.webp",
+          "option": "مع اتجاه القراءة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-direction-ltr-panel.webp",
+          "result": "",
+          "option": "عكس اتجاه القراءة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "مع اتجاه القراءة",
+        "عكس اتجاه القراءة"
+      ]
+    },
+    {
+      "label": "وضع السرعة",
+      "type": "قائمة منسدلة",
+      "default": "جاهز (بطيء/عادي/سريع)",
+      "what": "هل تبقى السرعة ثابتة أم تتغير مع سرعة التمرير.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-speed-mode-preset-panel.webp",
+          "result": "../../images/21-marquee-speed-mode-preset-result.webp",
+          "option": "جاهز (بطيء/عادي/سريع)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-speed-mode-custom-panel.webp",
+          "result": "",
+          "option": "مخصص بالثواني",
+          "note": ""
+        }
+      ],
+      "options": [
+        "جاهز (بطيء/عادي/سريع)",
+        "مخصص بالثواني"
+      ]
+    },
+    {
+      "label": "السرعة الجاهزة",
+      "type": "قائمة منسدلة",
+      "default": "عادي",
+      "what": "سرعة الحركة: الأبطأ أهدأ للقراءة، والأسرع أكثر حيوية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«وضع السرعة» = جاهز (بطيء/عادي/سريع)",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-speed-slow-panel.webp",
+          "result": "",
+          "option": "بطيء",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-speed-normal-panel.webp",
+          "result": "../../images/21-marquee-speed-normal-result.webp",
+          "option": "عادي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-speed-fast-panel.webp",
+          "result": "",
+          "option": "سريع",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بطيء",
+        "عادي",
+        "سريع"
+      ]
+    },
+    {
+      "label": "مدة دورة كاملة (ثانية)",
+      "type": "رقم",
+      "default": "30",
+      "what": "كلما زاد الرقم أصبح الشريط أبطأ",
+      "when": "",
+      "empty": "",
+      "shows_when": "«وضع السرعة» = مخصص بالثواني",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-speed-seconds-panel.webp",
+          "result": "",
+          "option": "مدة دورة كاملة (ثانية)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إيقاف مؤقت عند التأشير",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يوقف الحركة حين يضع الزائر المؤشر عليها ليقرأ.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-pause-on-hover-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مصدر الشريط (أ / الرئيسي)",
+      "type": "قائمة منسدلة",
+      "default": "نصوص يدوية",
+      "what": "من أين تأتي نصوص الشريط الرئيسي: نصوص تكتبها، أو التصنيفات، أو التخفيضات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-strip-a-source-manual-panel.webp",
+          "result": "../../images/21-marquee-strip-a-source-manual-result.webp",
+          "option": "نصوص يدوية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-strip-a-source-categories-panel.webp",
+          "result": "",
+          "option": "تصنيفات المتجر",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-strip-a-source-offers-panel.webp",
+          "result": "",
+          "option": "رابط التخفيضات",
+          "note": ""
+        }
+      ],
+      "options": [
+        "نصوص يدوية",
+        "تصنيفات المتجر",
+        "رابط التخفيضات"
+      ]
+    },
+    {
+      "label": "النصوص اليدوية (شريط أ)",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر الشريط (أ / الرئيسي)» = نصوص يدوية",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-items-panel.webp",
+          "result": "",
+          "option": "النصوص اليدوية (شريط أ)",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "النص",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المعروض في العنصر."
+        },
+        {
+          "label": "أيقونة بجانب النص",
+          "type": "أيقونة",
+          "default": "فارغ",
+          "what": "اختر من مكتبة أيقونات سلة (sicon-*)"
+        },
+        {
+          "label": "رابط (اختياري)",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً."
+        },
+        {
+          "label": "تمييز بلون ذهبي",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يلوّن هذا النص باللون المميز (الذهبي) ليبرز بين النصوص."
+        }
+      ]
+    },
+    {
+      "label": "تصنيفات الشريط أ",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "التصنيفات التي تظهر في القسم، كل تصنيف بصورته واسمه ويفتح صفحته عند الضغط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر الشريط (أ / الرئيسي)» = تصنيفات المتجر",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-categories-panel.webp",
+          "result": "",
+          "option": "تصنيفات الشريط أ",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص شريحة التخفيضات",
+      "type": "نص",
+      "default": "عروض التخفيضات",
+      "what": "النص المكتوب على شريحة التخفيضات في الشريط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر الشريط (أ / الرئيسي)» = رابط التخفيضات",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-offers-label-panel.webp",
+          "result": "",
+          "option": "نص شريحة التخفيضات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط التخفيضات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "الصفحة التي تفتحها شريحة التخفيضات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر الشريط (أ / الرئيسي)» = رابط التخفيضات",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-offers-url-panel.webp",
+          "result": "",
+          "option": "رابط التخفيضات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نصوص الشريط ب (متقاطع)",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "نصوص الشريط الثاني المتقاطع.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«الشكل» = crossed",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-items-strip-b-panel.webp",
+          "result": "",
+          "option": "نصوص الشريط ب (متقاطع)",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "النص",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المعروض في العنصر."
+        },
+        {
+          "label": "أيقونة",
+          "type": "أيقونة",
+          "default": "فارغ",
+          "what": "الأيقونة التي تظهر بجانب العنصر."
+        },
+        {
+          "label": "رابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً."
+        },
+        {
+          "label": "تمييز ذهبي",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يلوّن هذا النص باللون المميز (الذهبي) ليبرز بين النصوص."
+        }
+      ]
+    },
+    {
+      "label": "مصدر الشريط ب (متقاطع)",
+      "type": "قائمة منسدلة",
+      "default": "نصوص يدوية",
+      "what": "من أين تأتي نصوص الشريط الثاني المتقاطع.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«الشكل» = crossed",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-strip-b-source-manual-panel.webp",
+          "result": "../../images/21-marquee-strip-b-source-manual-result.webp",
+          "option": "نصوص يدوية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-strip-b-source-categories-panel.webp",
+          "result": "",
+          "option": "تصنيفات المتجر",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-strip-b-source-offers-panel.webp",
+          "result": "",
+          "option": "رابط التخفيضات",
+          "note": ""
+        }
+      ],
+      "options": [
+        "نصوص يدوية",
+        "تصنيفات المتجر",
+        "رابط التخفيضات"
+      ]
+    },
+    {
+      "label": "تصنيفات الشريط ب",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "التصنيفات التي تظهر في الشريط الثاني.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«الشكل» = crossed و «مصدر الشريط ب (متقاطع)» = تصنيفات المتجر",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-categories-strip-b-panel.webp",
+          "result": "",
+          "option": "تصنيفات الشريط ب",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نمط النص",
+      "type": "قائمة منسدلة",
+      "default": "أنيق (حالة طبيعية)",
+      "what": "نمط كتابة النص: ممتلئ أو مفرّغ بخط خارجي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-text-style-classic-panel.webp",
+          "result": "",
+          "option": "كلاسيكي (أحرف كبيرة)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-text-style-elegant-panel.webp",
+          "result": "../../images/21-marquee-text-style-elegant-result.webp",
+          "option": "أنيق (حالة طبيعية)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-text-style-display-panel.webp",
+          "result": "",
+          "option": "عرض (واسع وبارز)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "كلاسيكي (أحرف كبيرة)",
+        "أنيق (حالة طبيعية)",
+        "عرض (واسع وبارز)"
+      ]
+    },
+    {
+      "label": "حجم الخط",
+      "type": "قائمة منسدلة",
+      "default": "متوسط",
+      "what": "حجم خط النص المتحرك.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-font-size-small-panel.webp",
+          "result": "",
+          "option": "صغير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-font-size-medium-panel.webp",
+          "result": "../../images/21-marquee-font-size-medium-result.webp",
+          "option": "متوسط",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-font-size-large-panel.webp",
+          "result": "",
+          "option": "كبير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-font-size-huge-panel.webp",
+          "result": "",
+          "option": "ضخم",
+          "note": ""
+        }
+      ],
+      "options": [
+        "صغير",
+        "متوسط",
+        "كبير",
+        "ضخم"
+      ]
+    },
+    {
+      "label": "إظهار أيقونات النصوص",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر أيقونة صغيرة بجانب كل نص.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-show-item-icons-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أيقونة الفاصل بين النصوص",
+      "type": "قائمة منسدلة",
+      "default": "نجمة",
+      "what": "الأيقونة التي تفصل بين النصوص المتتالية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-separator-star-panel.webp",
+          "result": "../../images/21-marquee-separator-star-result.webp",
+          "option": "نجمة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-separator-diamond-panel.webp",
+          "result": "",
+          "option": "ألماسة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-sparkles-panel.webp",
+          "result": "",
+          "option": "بريق",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-heart-panel.webp",
+          "result": "",
+          "option": "قلب",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-bolt-panel.webp",
+          "result": "",
+          "option": "صاعقة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-gift-panel.webp",
+          "result": "",
+          "option": "هدية",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-truck-panel.webp",
+          "result": "",
+          "option": "شحن",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-dot-panel.webp",
+          "result": "",
+          "option": "دائرة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-dash-panel.webp",
+          "result": "",
+          "option": "شرطة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-custom-panel.webp",
+          "result": "",
+          "option": "أيقونة مخصصة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-separator-none-panel.webp",
+          "result": "",
+          "option": "بدون فاصل",
+          "note": ""
+        }
+      ],
+      "options": [
+        "نجمة",
+        "ألماسة",
+        "بريق",
+        "قلب",
+        "صاعقة",
+        "هدية",
+        "شحن",
+        "دائرة",
+        "شرطة",
+        "أيقونة مخصصة",
+        "بدون فاصل"
+      ]
+    },
+    {
+      "label": "أيقونة فاصل مخصصة",
+      "type": "أيقونة",
+      "default": "فارغ",
+      "what": "تُستخدم عند اختيار «أيقونة مخصصة»",
+      "when": "",
+      "empty": "",
+      "shows_when": "«أيقونة الفاصل بين النصوص» = أيقونة مخصصة",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-separator-icon-panel.webp",
+          "result": "",
+          "option": "أيقونة فاصل مخصصة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون النص",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "لون النص فوق الخلفية أو الصورة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-text-color-panel.webp",
+          "result": "",
+          "option": "لون النص",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تباعد العناصر",
+      "type": "قائمة منسدلة",
+      "default": "عادي",
+      "what": "المسافة بين العناصر: متقاربة أو متباعدة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-density-compact-panel.webp",
+          "result": "",
+          "option": "مضغوط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/21-marquee-density-normal-panel.webp",
+          "result": "../../images/21-marquee-density-normal-result.webp",
+          "option": "عادي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/21-marquee-density-relaxed-panel.webp",
+          "result": "",
+          "option": "واسع",
+          "note": ""
+        }
+      ],
+      "options": [
+        "مضغوط",
+        "عادي",
+        "واسع"
+      ]
+    },
+    {
+      "label": "مسافة علوية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أعلى القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أعلى القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-top-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة علوية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مسافة سفلية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أسفل القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أسفل القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-bottom-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة سفلية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--marquee",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/21-marquee-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Carmelea (معاينة الثيم)"
+}

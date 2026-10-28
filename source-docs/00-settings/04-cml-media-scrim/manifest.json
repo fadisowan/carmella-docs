@@ -1,0 +1,42 @@
+{
+  "kind": "settings",
+  "title": "النص فوق صور وفيديو السلايدر",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "تعتيم الصورة خلف النص",
+      "type": "قائمة منسدلة",
+      "default": "متوازن (افتراضي)",
+      "what": "يوضّح العنوان والوصف فوق صور وفيديو السلايدر. «قوي» للصور الفاتحة جدًا، و«خفيف» للداكنة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-04-cml-media-scrim-cml-media-scrim-soft-panel.webp",
+          "result": "",
+          "option": "خفيف",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-04-cml-media-scrim-cml-media-scrim-balanced-panel.webp",
+          "result": "",
+          "option": "متوازن (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-04-cml-media-scrim-cml-media-scrim-strong-panel.webp",
+          "result": "",
+          "option": "قوي",
+          "note": ""
+        }
+      ],
+      "options": [
+        "خفيف",
+        "متوازن (افتراضي)",
+        "قوي"
+      ]
+    }
+  ]
+}

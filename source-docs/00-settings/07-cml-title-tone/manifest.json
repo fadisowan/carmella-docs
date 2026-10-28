@@ -1,0 +1,106 @@
+{
+  "kind": "settings",
+  "title": "ج · عناوين الأقسام والأسعار والخصومات",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "لون عناوين أقسام الرئيسية",
+      "type": "قائمة منسدلة",
+      "default": "لون الأزرار (افتراضي)",
+      "what": "العنوان الكبير فوق كل قسم مثل «وصل حديثًا». «هادئ» يجعله بلون أسماء المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-07-cml-title-tone-cml-title-tone-accent-panel.webp",
+          "result": "",
+          "option": "لون الأزرار (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-07-cml-title-tone-cml-title-tone-heading-panel.webp",
+          "result": "",
+          "option": "لون العناوين (هادئ)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "لون الأزرار (افتراضي)",
+        "لون العناوين (هادئ)"
+      ]
+    },
+    {
+      "label": "لون أسعار المنتجات",
+      "type": "قائمة منسدلة",
+      "default": "لون الأزرار (افتراضي)",
+      "what": "السعر في صفحة المنتج والبطاقات والسلة والبحث والمفضلة. سعر الخصم له خيار مستقل تحته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-07-cml-title-tone-cml-price-tone-accent-panel.webp",
+          "result": "",
+          "option": "لون الأزرار (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-07-cml-title-tone-cml-price-tone-heading-panel.webp",
+          "result": "",
+          "option": "لون العناوين (هادئ)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "لون الأزرار (افتراضي)",
+        "لون العناوين (هادئ)"
+      ]
+    },
+    {
+      "label": "لون الخصومات",
+      "type": "قائمة منسدلة",
+      "default": "حسب اللوحة (افتراضي)",
+      "what": "سعر الخصم وشارة العرض على صورة المنتج وسطر الخصم في السلة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-07-cml-title-tone-cml-sale-tone-theme-panel.webp",
+          "result": "",
+          "option": "حسب اللوحة (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-07-cml-title-tone-cml-sale-tone-custom-panel.webp",
+          "result": "",
+          "option": "لون أختاره",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب اللوحة (افتراضي)",
+        "لون أختاره"
+      ]
+    },
+    {
+      "label": "↳ لون الخصومات الذي تختاره",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "يعمل مع «لون أختاره» في الحقل السابق. يُفتَّح أو يُغمَّق تلقائيًا ليبقى مقروءًا، فإن لم يكفِ ذلك يأخذ لون النص.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«لون الخصومات» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-07-cml-title-tone-cml-sale-color-panel.webp",
+          "result": "",
+          "option": "↳ لون الخصومات الذي تختاره",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

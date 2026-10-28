@@ -1,0 +1,121 @@
+{
+  "kind": "settings",
+  "title": "لون الأزرار من اللوحة أو لون تختاره",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "استخدام لون متجرك من إعدادات سلة",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يلوّن الأزرار والأسعار وعناوين الأقسام بلون متجرك بدل لون اللوحة، ويُهمل الحقل التالي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-03-use-store-color-use-store-color-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون الأزرار والأسعار",
+      "type": "قائمة منسدلة",
+      "default": "حسب اللوحة (الذهبي في الكلاسيكية)",
+      "what": "للأزرار والأسعار وعناوين الأقسام والروابط المميزة. «حسب اللوحة» يأخذ لون اللوحة المختارة أعلاه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-preset-gold-panel.webp",
+          "result": "",
+          "option": "حسب اللوحة (الذهبي في الكلاسيكية)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-preset-rose-panel.webp",
+          "result": "",
+          "option": "ذهبي وردي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-preset-emerald-panel.webp",
+          "result": "",
+          "option": "زمردي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-preset-sapphire-panel.webp",
+          "result": "",
+          "option": "أزرق ياقوتي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-preset-plum-panel.webp",
+          "result": "",
+          "option": "بنفسجي ملكي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-preset-platinum-panel.webp",
+          "result": "",
+          "option": "بلاتيني",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-preset-custom-panel.webp",
+          "result": "",
+          "option": "لون أختاره (من الحقل التالي)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب اللوحة (الذهبي في الكلاسيكية)",
+        "ذهبي وردي",
+        "زمردي",
+        "أزرق ياقوتي",
+        "بنفسجي ملكي",
+        "بلاتيني",
+        "لون أختاره (من الحقل التالي)"
+      ]
+    },
+    {
+      "label": "↳ لون الأزرار الذي تختاره",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "يعمل مع «لون أختاره» في الحقل السابق. يُفتَّح أو يُغمَّق تلقائيًا ليبقى واضحًا، فإن لم يكفِ ذلك يأخذ لون النص.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«لون الأزرار والأسعار» = لون أختاره (من الحقل التالي)",
+      "pairs": [
+        {
+          "panel": "../../images/settings-03-use-store-color-accent-custom-panel.webp",
+          "result": "",
+          "option": "↳ لون الأزرار الذي تختاره",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تلوين أزرار سلة ونوافذها بنفس اللون",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "زر الإضافة للسلة والخيارات والتقييمات والنوافذ. عند الإطفاء تبقى بلون متجرك من إعدادات سلة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-03-use-store-color-salla-components-follow-accent-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

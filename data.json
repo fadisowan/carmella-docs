@@ -1,0 +1,685 @@
+[
+  {
+    "kind": "settings",
+    "title": "المظهر العام والخطوط",
+    "path": "00-settings/01-theme-mode",
+    "fields": 3,
+    "slug": "settings/01-theme-mode"
+  },
+  {
+    "kind": "settings",
+    "title": "لوحات الألوان الجاهزة",
+    "path": "00-settings/02-cml-palette",
+    "fields": 1,
+    "slug": "settings/02-cml-palette"
+  },
+  {
+    "kind": "settings",
+    "title": "لون الأزرار ولون المتجر",
+    "path": "00-settings/03-use-store-color",
+    "fields": 4,
+    "slug": "settings/03-use-store-color"
+  },
+  {
+    "kind": "settings",
+    "title": "وضوح النص فوق الوسائط",
+    "path": "00-settings/04-cml-media-scrim",
+    "fields": 1,
+    "slug": "settings/04-cml-media-scrim"
+  },
+  {
+    "kind": "settings",
+    "title": "ألوان الصفحة المخصصة",
+    "path": "00-settings/05-cml-palette-enabled",
+    "fields": 6,
+    "slug": "settings/05-cml-palette-enabled"
+  },
+  {
+    "kind": "settings",
+    "title": "ألوان الوضع الداكن",
+    "path": "00-settings/06-cml-dark-palette",
+    "fields": 5,
+    "slug": "settings/06-cml-dark-palette"
+  },
+  {
+    "kind": "settings",
+    "title": "ألوان العناوين والأسعار",
+    "path": "00-settings/07-cml-title-tone",
+    "fields": 4,
+    "slug": "settings/07-cml-title-tone"
+  },
+  {
+    "kind": "settings",
+    "title": "ألوان الشريط والهيدر والفوتر",
+    "path": "00-settings/08-cml-announce-tone",
+    "fields": 16,
+    "slug": "settings/08-cml-announce-tone"
+  },
+  {
+    "kind": "settings",
+    "title": "الهيدر والتنقل",
+    "path": "00-settings/09-header-style",
+    "fields": 6,
+    "slug": "settings/09-header-style"
+  },
+  {
+    "kind": "settings",
+    "title": "بطاقة المنتج وشبكات العرض",
+    "path": "00-settings/10-product-image-ratio",
+    "fields": 14,
+    "slug": "settings/10-product-image-ratio"
+  },
+  {
+    "kind": "settings",
+    "title": "صفحة المنتج",
+    "path": "00-settings/11-product-show-breadcrumbs",
+    "fields": 5,
+    "slug": "settings/11-product-show-breadcrumbs"
+  },
+  {
+    "kind": "settings",
+    "title": "صفحات التصنيفات والسلة",
+    "path": "00-settings/12-product-index-show-breadcrumbs",
+    "fields": 2,
+    "slug": "settings/12-product-index-show-breadcrumbs"
+  },
+  {
+    "kind": "settings",
+    "title": "خيارات السلة والإضافة",
+    "path": "00-settings/13-cart-click-side",
+    "fields": 4,
+    "slug": "settings/13-cart-click-side"
+  },
+  {
+    "kind": "settings",
+    "title": "شكل الفوتر",
+    "path": "00-settings/14-footer-style",
+    "fields": 3,
+    "slug": "settings/14-footer-style"
+  },
+  {
+    "kind": "settings",
+    "title": "شريط مميزات الفوتر",
+    "path": "00-settings/15-footer-feature1-icon",
+    "fields": 12,
+    "slug": "settings/15-footer-feature1-icon"
+  },
+  {
+    "kind": "settings",
+    "title": "التواصل العائم",
+    "path": "00-settings/16-cml-fc-position",
+    "fields": 6,
+    "slug": "settings/16-cml-fc-position"
+  },
+  {
+    "kind": "settings",
+    "title": "الحركة والتحميل",
+    "path": "00-settings/17-motion-level",
+    "fields": 3,
+    "slug": "settings/17-motion-level"
+  },
+  {
+    "kind": "shared",
+    "title": "الخيارات المشتركة",
+    "path": "01-shared",
+    "fields": 5,
+    "slug": "shared"
+  },
+  {
+    "kind": "section",
+    "title": "صور متحركة (محسنة)",
+    "path": "02-sections/01-enhanced-slider",
+    "fields": 9,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 5,
+    "slug": "components/01-enhanced-slider"
+  },
+  {
+    "kind": "section",
+    "title": "روابط سريعة",
+    "path": "02-sections/02-main-links",
+    "fields": 11,
+    "images": [],
+    "results": 0,
+    "slug": "components/02-main-links"
+  },
+  {
+    "kind": "section",
+    "title": "منتجات متحركة مع خلفية",
+    "path": "02-sections/03-slider-products-with-header",
+    "fields": 7,
+    "images": [],
+    "results": 0,
+    "slug": "components/03-slider-products-with-header"
+  },
+  {
+    "kind": "section",
+    "title": "صور مربعة (محسنة)",
+    "path": "02-sections/04-enhanced-square-banners",
+    "fields": 5,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 0,
+    "slug": "components/04-enhanced-square-banners"
+  },
+  {
+    "kind": "section",
+    "title": "بانرات ترويجية (شبكة)",
+    "path": "02-sections/05-cml-promo-banners",
+    "fields": 5,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 3,
+    "slug": "components/05-cml-promo-banners"
+  },
+  {
+    "kind": "section",
+    "title": "الماركات التجارية",
+    "path": "02-sections/06-brands",
+    "fields": 8,
+    "images": [],
+    "results": 0,
+    "slug": "components/06-brands"
+  },
+  {
+    "kind": "section",
+    "title": "آراء عملاء مخصصة",
+    "path": "02-sections/07-custom-testimonials",
+    "fields": 7,
+    "images": [],
+    "results": 0,
+    "slug": "components/07-custom-testimonials"
+  },
+  {
+    "kind": "section",
+    "title": "معرض أكورديون تفاعلي",
+    "path": "02-sections/08-accordion-gallery",
+    "fields": 10,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 3,
+    "slug": "components/08-accordion-gallery"
+  },
+  {
+    "kind": "section",
+    "title": "تسوّق من الصورة (نقاط)",
+    "path": "02-sections/09-hotspot-shop-look",
+    "fields": 9,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 0,
+    "slug": "components/09-hotspot-shop-look"
+  },
+  {
+    "kind": "section",
+    "title": "قبل / بعد",
+    "path": "02-sections/10-before-after",
+    "fields": 9,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 4,
+    "slug": "components/10-before-after"
+  },
+  {
+    "kind": "section",
+    "title": "معرض الإطلالات",
+    "path": "02-sections/11-lookbook",
+    "fields": 5,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/11-lookbook"
+  },
+  {
+    "kind": "section",
+    "title": "شعارات العملاء مخصص",
+    "path": "02-sections/12-press-logos",
+    "fields": 8,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 6,
+    "slug": "components/12-press-logos"
+  },
+  {
+    "kind": "section",
+    "title": "شاهدت مؤخراً",
+    "path": "02-sections/13-recently-viewed",
+    "fields": 4,
+    "images": [],
+    "results": 0,
+    "slug": "components/13-recently-viewed"
+  },
+  {
+    "kind": "section",
+    "title": "واجهة التصنيفات",
+    "path": "02-sections/14-category-showcase",
+    "fields": 6,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 2,
+    "slug": "components/14-category-showcase"
+  },
+  {
+    "kind": "section",
+    "title": "عرض + عدّاد تنازلي",
+    "path": "02-sections/15-promo-countdown",
+    "fields": 10,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 2,
+    "slug": "components/15-promo-countdown"
+  },
+  {
+    "kind": "section",
+    "title": "صورة متحركة",
+    "path": "02-sections/16-animated-image",
+    "fields": 15,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 4,
+    "slug": "components/16-animated-image"
+  },
+  {
+    "kind": "section",
+    "title": "معرض كشف الصور",
+    "path": "02-sections/17-hover-reveal-gallery",
+    "fields": 7,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 4,
+    "slug": "components/17-hover-reveal-gallery"
+  },
+  {
+    "kind": "section",
+    "title": "ظهور النص",
+    "path": "02-sections/18-text-reveal",
+    "fields": 12,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 5,
+    "slug": "components/18-text-reveal"
+  },
+  {
+    "kind": "section",
+    "title": "قصة ثابتة مع السكرول",
+    "path": "02-sections/19-sticky-story",
+    "fields": 6,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/19-sticky-story"
+  },
+  {
+    "kind": "section",
+    "title": "قصص فيديو",
+    "path": "02-sections/20-video-story",
+    "fields": 7,
+    "images": [
+      "desktop"
+    ],
+    "results": 6,
+    "slug": "components/20-video-story"
+  },
+  {
+    "kind": "section",
+    "title": "شريط نصوص متحرك",
+    "path": "02-sections/21-marquee",
+    "fields": 24,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 10,
+    "slug": "components/21-marquee"
+  },
+  {
+    "kind": "section",
+    "title": "فيديو يوتيوب",
+    "path": "02-sections/22-youtube",
+    "fields": 6,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 0,
+    "slug": "components/22-youtube"
+  },
+  {
+    "kind": "section",
+    "title": "مميزات المتجر",
+    "path": "02-sections/23-store-features",
+    "fields": 6,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/23-store-features"
+  },
+  {
+    "kind": "section",
+    "title": "آراء العملاء",
+    "path": "02-sections/24-testimonials",
+    "fields": 6,
+    "images": [],
+    "results": 0,
+    "slug": "components/24-testimonials"
+  },
+  {
+    "kind": "section",
+    "title": "أحدث المنتجات",
+    "path": "02-sections/25-latest-products",
+    "fields": 10,
+    "images": [],
+    "results": 0,
+    "slug": "components/25-latest-products"
+  },
+  {
+    "kind": "section",
+    "title": "معرض صور",
+    "path": "02-sections/26-photos-slider",
+    "fields": 6,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 0,
+    "slug": "components/26-photos-slider"
+  },
+  {
+    "kind": "section",
+    "title": "صور مربعة",
+    "path": "02-sections/27-square-photos",
+    "fields": 6,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 2,
+    "slug": "components/27-square-photos"
+  },
+  {
+    "kind": "section",
+    "title": "بنر باراللاكس",
+    "path": "02-sections/28-parallax-background",
+    "fields": 8,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/28-parallax-background"
+  },
+  {
+    "kind": "section",
+    "title": "بنر ثابت",
+    "path": "02-sections/29-fixed-banner",
+    "fields": 6,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 0,
+    "slug": "components/29-fixed-banner"
+  },
+  {
+    "kind": "section",
+    "title": "بانر إعلاني / خصم",
+    "path": "02-sections/30-cml-promo",
+    "fields": 16,
+    "images": [],
+    "results": 0,
+    "slug": "components/30-cml-promo"
+  },
+  {
+    "kind": "section",
+    "title": "منتجات مميزة - نمط 1",
+    "path": "02-sections/31-featured-products-style1",
+    "fields": 14,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 12,
+    "slug": "components/31-featured-products-style1"
+  },
+  {
+    "kind": "section",
+    "title": "منتجات مميزة - نمط 2",
+    "path": "02-sections/32-featured-products-style2",
+    "fields": 16,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 12,
+    "slug": "components/32-featured-products-style2"
+  },
+  {
+    "kind": "section",
+    "title": "تبويبات علوية",
+    "path": "02-sections/33-products-tabs",
+    "fields": 11,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 11,
+    "slug": "components/33-products-tabs"
+  },
+  {
+    "kind": "section",
+    "title": "الأسئلة الشائعة",
+    "path": "02-sections/34-faq",
+    "fields": 5,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/34-faq"
+  },
+  {
+    "kind": "section",
+    "title": "فئات دائرية",
+    "path": "02-sections/35-circular-categories",
+    "fields": 10,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 15,
+    "slug": "components/35-circular-categories"
+  },
+  {
+    "kind": "section",
+    "title": "فيديو متحرك (محسّن)",
+    "path": "02-sections/36-enhanced-video-slider",
+    "fields": 8,
+    "images": [],
+    "results": 0,
+    "slug": "components/36-enhanced-video-slider"
+  },
+  {
+    "kind": "section",
+    "title": "نبذة عنّا",
+    "path": "02-sections/37-cml-about",
+    "fields": 8,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 0,
+    "slug": "components/37-cml-about"
+  },
+  {
+    "kind": "section",
+    "title": "بانر سلايدر",
+    "path": "02-sections/38-cml-banner-slider",
+    "fields": 7,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 5,
+    "slug": "components/38-cml-banner-slider"
+  },
+  {
+    "kind": "section",
+    "title": "أيقونات التواصل الاجتماعي",
+    "path": "02-sections/39-cml-social-icons",
+    "fields": 14,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/39-cml-social-icons"
+  },
+  {
+    "kind": "section",
+    "title": "مجموعة مختارة مع صورة",
+    "path": "02-sections/40-cml-curated-collection",
+    "fields": 12,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/40-cml-curated-collection"
+  },
+  {
+    "kind": "section",
+    "title": "بانر CTA",
+    "path": "02-sections/41-cml-cta-banner",
+    "fields": 10,
+    "images": [],
+    "results": 0,
+    "slug": "components/41-cml-cta-banner"
+  },
+  {
+    "kind": "section",
+    "title": "منتجات بتبويبات جانبية",
+    "path": "02-sections/42-cml-aside-tabs",
+    "fields": 11,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 10,
+    "slug": "components/42-cml-aside-tabs"
+  },
+  {
+    "kind": "section",
+    "title": "بطاقات متراكبة",
+    "path": "02-sections/43-stacked-cards",
+    "fields": 5,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/43-stacked-cards"
+  },
+  {
+    "kind": "section",
+    "title": "عرض أفقي متحرك",
+    "path": "02-sections/44-horizontal-showcase",
+    "fields": 9,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 3,
+    "slug": "components/44-horizontal-showcase"
+  },
+  {
+    "kind": "section",
+    "title": "معرض إنستغرام",
+    "path": "02-sections/45-cml-instagram",
+    "fields": 8,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 2,
+    "slug": "components/45-cml-instagram"
+  },
+  {
+    "kind": "section",
+    "title": "منتج بالتفصيل",
+    "path": "02-sections/46-cml-product-spotlight",
+    "fields": 7,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/46-cml-product-spotlight"
+  },
+  {
+    "kind": "section",
+    "title": "أرقام تحكي القصة",
+    "path": "02-sections/47-cml-brand-numbers",
+    "fields": 8,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 1,
+    "slug": "components/47-cml-brand-numbers"
+  },
+  {
+    "kind": "section",
+    "title": "اكتشف بالسحب",
+    "path": "02-sections/48-cml-swipe-discovery",
+    "fields": 21,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 3,
+    "slug": "components/48-cml-swipe-discovery"
+  },
+  {
+    "kind": "section",
+    "title": "شبكة المنتجات التحريرية",
+    "path": "02-sections/49-cml-editorial-masonry",
+    "fields": 24,
+    "images": [
+      "desktop",
+      "mobile"
+    ],
+    "results": 3,
+    "slug": "components/49-cml-editorial-masonry"
+  }
+]

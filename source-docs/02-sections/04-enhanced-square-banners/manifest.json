@@ -1,0 +1,123 @@
+{
+  "kind": "section",
+  "title": "صور مربعة (محسنة)",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/04-enhanced-square-banners-desktop.webp",
+  "mobile": "../../images/04-enhanced-square-banners-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم (اختياري)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يظهر فوق الشبكة عند تعبئته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/04-enhanced-square-banners-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "قائمة الصور",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "الصور التي يعرضها القسم، لكل صورة رابطها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/04-enhanced-square-banners-banners-panel.webp",
+          "result": "",
+          "option": "قائمة الصور",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "صورة البنر",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "* المقاس المناسب للصورة هو 640×427 بكسل"
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "الصفحة التي يفتحها الضغط على الزر أو العنصر."
+        },
+        {
+          "label": "عنوان رئيسي",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "نص يتم إضافته على الصورة بنمط خط كبير"
+        },
+        {
+          "label": "نص توضيحي",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "نص يتم إضافته على الصورة بخط أصغر من العنوان الرئيسي"
+        }
+      ]
+    },
+    {
+      "label": "تعطيل البلاطة الكبيرة",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "شبكة متساوية دائمًا حتى مع أربع صور فأكثر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/04-enhanced-square-banners-disable-feature-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إخفاء النصوص فوق الصور",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "عرض الصور وحدها بلا عناوين أو أوصاف.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/04-enhanced-square-banners-hide-text-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--enhanced-square-banners",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/04-enhanced-square-banners-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

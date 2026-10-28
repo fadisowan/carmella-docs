@@ -1,0 +1,103 @@
+{
+  "kind": "settings",
+  "title": "٥ · صفحة المنتج المسار والصور والوسوم وزر الجوال",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "إظهار مسار التنقل في صفحة المنتج",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "مسار «الرئيسية › القسم › المنتج» أعلى صفحة المنتج.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-11-product-show-breadcrumbs-product-show-breadcrumbs-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "طريقة عرض الصور في سليدر صور المنتج",
+      "type": "قائمة منسدلة",
+      "default": "اظهار الصورة كاملةً في المنتصف (Contain)",
+      "what": "احتواء الصورة كاملة داخل الإطار، أو ملؤه مع قصّ الأطراف.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-11-product-show-breadcrumbs-slider-background-size-cover-panel.webp",
+          "result": "",
+          "option": "تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-11-product-show-breadcrumbs-slider-background-size-contain-panel.webp",
+          "result": "",
+          "option": "اظهار الصورة كاملةً في المنتصف (Contain)",
+          "note": "القيمة الافتراضية."
+        }
+      ],
+      "options": [
+        "تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)",
+        "اظهار الصورة كاملةً في المنتصف (Contain)"
+      ]
+    },
+    {
+      "label": "تكبير الصور في سليدر صور المنتج",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "هذه الخاصية تمكنك من تكبير الصورة لتسهل رؤية المزيد من التفاصيل بها",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-11-product-show-breadcrumbs-imagezoom-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تثبيت زر الإضافة والكمية أسفل شاشة الجوال",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "على الجوال: شريط سفلي ثابت فيه الكمية وزر الإضافة أثناء التمرير.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-11-product-show-breadcrumbs-sticky-add-to-cart-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار الوسوم",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "وسوم المنتج كروابط أسفل وصفه في صفحته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-11-product-show-breadcrumbs-show-tags-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

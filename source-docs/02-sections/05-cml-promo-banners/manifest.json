@@ -1,0 +1,178 @@
+{
+  "kind": "section",
+  "title": "بانرات ترويجية (شبكة)",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/05-cml-promo-banners-desktop.webp",
+  "mobile": "../../images/05-cml-promo-banners-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "البانرات",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "من بانر واحد إلى ستة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/05-cml-promo-banners-banners-panel.webp",
+          "result": "",
+          "option": "البانرات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الصورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة المعروضة في هذا العنصر."
+        },
+        {
+          "label": "أيقونة (اختياري)",
+          "type": "أيقونة",
+          "default": "فارغ",
+          "what": "من مكتبة أيقونات سلة. اتركها فارغة لإخفائها."
+        },
+        {
+          "label": "نص علوي صغير",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "مثل: خصم 35% — أو الأكثر مبيعًا."
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "وصف قصير",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "يُقصّ إلى سطرين لتبقى البطاقات متساوية."
+        },
+        {
+          "label": "نص الزر",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "اتركه فارغًا لإخفاء الزر."
+        },
+        {
+          "label": "وجهة الزر",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجًا أو تصنيفًا أو صفحة، أو ضع رابطًا مخصصًا."
+        }
+      ]
+    },
+    {
+      "label": "عدد الأعمدة",
+      "type": "قائمة منسدلة",
+      "default": "ثلاثة أعمدة",
+      "what": "ينزل تلقائيًا إلى عمودين على الأجهزة اللوحية وعمود واحد على الجوال.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/05-cml-promo-banners-columns-3-panel.webp",
+          "result": "../../images/05-cml-promo-banners-columns-3-result.webp",
+          "option": "ثلاثة أعمدة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/05-cml-promo-banners-columns-2-panel.webp",
+          "result": "",
+          "option": "عمودان",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ثلاثة أعمدة",
+        "عمودان"
+      ]
+    },
+    {
+      "label": "أسلوب الصورة",
+      "type": "قائمة منسدلة",
+      "default": "خلفية كاملة",
+      "what": "بجانب النص، أو خلفية كاملة للبطاقة مع تعتيم يضمن وضوح النص.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/05-cml-promo-banners-media-style-side-panel.webp",
+          "result": "",
+          "option": "بجانب النص",
+          "note": ""
+        },
+        {
+          "panel": "../../images/05-cml-promo-banners-media-style-background-panel.webp",
+          "result": "../../images/05-cml-promo-banners-media-style-background-result.webp",
+          "option": "خلفية كاملة",
+          "note": "القيمة الافتراضية."
+        }
+      ],
+      "options": [
+        "بجانب النص",
+        "خلفية كاملة"
+      ]
+    },
+    {
+      "label": "لون النص",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي (حسب الثيم)",
+      "what": "اتركه تلقائيًا ليتبع ألوان الثيم. اختر فاتحًا أو داكنًا إذا كانت صورك تحتاج ذلك.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/05-cml-promo-banners-text-tone-auto-panel.webp",
+          "result": "../../images/05-cml-promo-banners-text-tone-auto-result.webp",
+          "option": "تلقائي (حسب الثيم)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/05-cml-promo-banners-text-tone-light-panel.webp",
+          "result": "",
+          "option": "فاتح",
+          "note": ""
+        },
+        {
+          "panel": "../../images/05-cml-promo-banners-text-tone-dark-panel.webp",
+          "result": "",
+          "option": "داكن",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي (حسب الثيم)",
+        "فاتح",
+        "داكن"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-promo-banners",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/05-cml-promo-banners-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

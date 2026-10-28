@@ -1,0 +1,140 @@
+{
+  "kind": "section",
+  "title": "كارميلا · الأسئلة الشائعة",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/34-faq-desktop.webp",
+  "mobile": "../../images/34-faq-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "الأسئلة الشائعة",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/34-faq-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي (اختياري)",
+      "type": "نص",
+      "default": "",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/34-faq-sub-title-panel.webp",
+          "result": "",
+          "option": "وصف فرعي (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "items",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/34-faq-items-panel.webp",
+          "result": "",
+          "option": "items",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "السؤال",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "نص السؤال الظاهر في القائمة."
+        },
+        {
+          "label": "الإجابة",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "الإجابة التي تنفتح تحت السؤال عند الضغط عليه."
+        },
+        {
+          "label": "نص زر تحت الإجابة (اختياري)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المكتوب على الزر."
+        },
+        {
+          "label": "رابط الزر",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "الصفحة التي يفتحها الزر."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/34-faq-align-right-panel.webp",
+          "result": "../../images/34-faq-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/34-faq-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/34-faq-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--faq",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/34-faq-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

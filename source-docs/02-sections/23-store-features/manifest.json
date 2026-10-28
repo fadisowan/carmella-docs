@@ -1,0 +1,158 @@
+{
+  "kind": "section",
+  "title": "كارميلا · مميزات المتجر",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/23-store-features-desktop.webp",
+  "mobile": "../../images/23-store-features-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم (اختياري)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يظهر فوق شبكة المميزات عند تعبئته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/23-store-features-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "items",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/23-store-features-items-panel.webp",
+          "result": "",
+          "option": "items",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الأيقونة",
+          "type": "أيقونة",
+          "default": "sicon-store2",
+          "what": "الأيقونة التي تظهر بجانب العنصر."
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "النص التوضيحي",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المعروض في العنصر."
+        }
+      ]
+    },
+    {
+      "label": "عدد الأعمدة",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي (افتراضي)",
+      "what": "تلقائي = عمودان للجوال وثلاثة لسطح المكتب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/23-store-features-columns-auto-panel.webp",
+          "result": "../../images/23-store-features-columns-auto-result.webp",
+          "option": "تلقائي (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/23-store-features-columns-2-panel.webp",
+          "result": "",
+          "option": "عمودان",
+          "note": ""
+        },
+        {
+          "panel": "../../images/23-store-features-columns-3-panel.webp",
+          "result": "",
+          "option": "ثلاثة أعمدة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/23-store-features-columns-4-panel.webp",
+          "result": "",
+          "option": "أربعة أعمدة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي (افتراضي)",
+        "عمودان",
+        "ثلاثة أعمدة",
+        "أربعة أعمدة"
+      ]
+    },
+    {
+      "label": "إخفاء النص الفرعي",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يعرض الأيقونة وعنوان الميزة فقط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/23-store-features-hide-text-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "بطاقات بخلفية",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "كل ميزة داخل بطاقة بحدود وزوايا مدوّرة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/23-store-features-boxed-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--store-features",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/23-store-features-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

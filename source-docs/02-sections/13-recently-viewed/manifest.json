@@ -1,0 +1,97 @@
+{
+  "kind": "section",
+  "title": "شاهدت مؤخراً",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "شاهدت مؤخراً",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/13-recently-viewed-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي تحت العنوان (اختياري)",
+      "type": "نص",
+      "default": "عُد لإكمال تسوّقك",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/13-recently-viewed-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف فرعي تحت العنوان (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/13-recently-viewed-align-right-panel.webp",
+          "result": "",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/13-recently-viewed-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/13-recently-viewed-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--recently-viewed",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/13-recently-viewed-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

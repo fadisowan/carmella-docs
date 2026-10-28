@@ -1,0 +1,622 @@
+{
+  "theme": "Carmela",
+  "version": "1.14.0",
+  "units": [
+    {
+      "kind": "settings",
+      "title": "١ · المظهر العام الوضع الافتراضي وزر التبديل وأسلوب الخطوط",
+      "path": "00-settings/01-theme-mode",
+      "fields": 3
+    },
+    {
+      "kind": "settings",
+      "title": "في الوضع الفاتح: الخلفية · الأزرار · الفوتر ● ● ● الكلاسيكية ● ● ● رملي دافئ ● ●",
+      "path": "00-settings/02-cml-palette",
+      "fields": 1
+    },
+    {
+      "kind": "settings",
+      "title": "لون الأزرار من اللوحة أو لون تختاره",
+      "path": "00-settings/03-use-store-color",
+      "fields": 4
+    },
+    {
+      "kind": "settings",
+      "title": "النص فوق صور وفيديو السلايدر",
+      "path": "00-settings/04-cml-media-scrim",
+      "fields": 1
+    },
+    {
+      "kind": "settings",
+      "title": "أ · ألوان الصفحة (اختياري) الخلفية والبطاقات والنصوص",
+      "path": "00-settings/05-cml-palette-enabled",
+      "fields": 6
+    },
+    {
+      "kind": "settings",
+      "title": "ب · الوضع الداكن ألوان خاصة به (اختياري)",
+      "path": "00-settings/06-cml-dark-palette",
+      "fields": 5
+    },
+    {
+      "kind": "settings",
+      "title": "ج · عناوين الأقسام والأسعار والخصومات",
+      "path": "00-settings/07-cml-title-tone",
+      "fields": 4
+    },
+    {
+      "kind": "settings",
+      "title": "د · الشريط العلوي والهيدر والفوتر",
+      "path": "00-settings/08-cml-announce-tone",
+      "fields": 16
+    },
+    {
+      "kind": "settings",
+      "title": "٣ · الهيدر والإعلان شكله وقائمته وتثبيته وشريطه العلوي",
+      "path": "00-settings/09-header-style",
+      "fields": 6
+    },
+    {
+      "kind": "settings",
+      "title": "٤ · بطاقة المنتج صورتها وتفاعلاتها في الشبكات",
+      "path": "00-settings/10-product-image-ratio",
+      "fields": 14
+    },
+    {
+      "kind": "settings",
+      "title": "٥ · صفحة المنتج المسار والصور والوسوم وزر الجوال",
+      "path": "00-settings/11-product-show-breadcrumbs",
+      "fields": 5
+    },
+    {
+      "kind": "settings",
+      "title": "٦ · التصنيفات والسلة مسار القوائم وزر عرض الكل والسلة",
+      "path": "00-settings/12-product-index-show-breadcrumbs",
+      "fields": 2
+    },
+    {
+      "kind": "settings",
+      "title": "السلة أيقونة الهيدر وما يحدث بعد الإضافة",
+      "path": "00-settings/13-cart-click-side",
+      "fields": 4
+    },
+    {
+      "kind": "settings",
+      "title": "٧ · الفوتر شكله وفواصله وشريط المميزات",
+      "path": "00-settings/14-footer-style",
+      "fields": 3
+    },
+    {
+      "kind": "settings",
+      "title": "تخصيص عناصر شريط المميزات أربع مزايا: أيقونة وعنوان ووصف لكلٍّ",
+      "path": "00-settings/15-footer-feature1-icon",
+      "fields": 12
+    },
+    {
+      "kind": "settings",
+      "title": "٨ · تواصل عائم أزرار المراسلة السريعة فوق المتجر",
+      "path": "00-settings/16-cml-fc-position",
+      "fields": 6
+    },
+    {
+      "kind": "settings",
+      "title": "٩ · الحركة والتحميل مستوى الحركة وشاشة الافتتاح وزر الصعود",
+      "path": "00-settings/17-motion-level",
+      "fields": 3
+    },
+    {
+      "kind": "shared",
+      "title": "الخيارات المشتركة",
+      "path": "01-shared",
+      "fields": 5
+    },
+    {
+      "kind": "section",
+      "title": "صور متحركة (محسنة)",
+      "path": "02-sections/01-enhanced-slider",
+      "fields": 9,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 5
+    },
+    {
+      "kind": "section",
+      "title": "روابط سريعة",
+      "path": "02-sections/02-main-links",
+      "fields": 11,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "منتجات متحركة مع خلفية",
+      "path": "02-sections/03-slider-products-with-header",
+      "fields": 7,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "صور مربعة (محسنة)",
+      "path": "02-sections/04-enhanced-square-banners",
+      "fields": 5,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "بانرات ترويجية (شبكة)",
+      "path": "02-sections/05-cml-promo-banners",
+      "fields": 5,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 3
+    },
+    {
+      "kind": "section",
+      "title": "الماركات التجارية",
+      "path": "02-sections/06-brands",
+      "fields": 8,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "آراء عملاء مخصصة",
+      "path": "02-sections/07-custom-testimonials",
+      "fields": 7,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "معرض أكورديون تفاعلي",
+      "path": "02-sections/08-accordion-gallery",
+      "fields": 10,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 3
+    },
+    {
+      "kind": "section",
+      "title": "تسوّق من الصورة (نقاط)",
+      "path": "02-sections/09-hotspot-shop-look",
+      "fields": 9,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "قبل / بعد",
+      "path": "02-sections/10-before-after",
+      "fields": 9,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 4
+    },
+    {
+      "kind": "section",
+      "title": "معرض الإطلالات",
+      "path": "02-sections/11-lookbook",
+      "fields": 5,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "شعارات العملاء مخصص",
+      "path": "02-sections/12-press-logos",
+      "fields": 8,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 6
+    },
+    {
+      "kind": "section",
+      "title": "شاهدت مؤخراً",
+      "path": "02-sections/13-recently-viewed",
+      "fields": 4,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "واجهة التصنيفات",
+      "path": "02-sections/14-category-showcase",
+      "fields": 6,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 2
+    },
+    {
+      "kind": "section",
+      "title": "عرض + عدّاد تنازلي",
+      "path": "02-sections/15-promo-countdown",
+      "fields": 10,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 2
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا | صورة متحركة",
+      "path": "02-sections/16-animated-image",
+      "fields": 15,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 4
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا | معرض كشف الصور",
+      "path": "02-sections/17-hover-reveal-gallery",
+      "fields": 7,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 4
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا | ظهور النص",
+      "path": "02-sections/18-text-reveal",
+      "fields": 12,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 5
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا | قصة ثابتة مع السكرول",
+      "path": "02-sections/19-sticky-story",
+      "fields": 6,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا | قصص فيديو",
+      "path": "02-sections/20-video-story",
+      "fields": 7,
+      "images": [
+        "desktop"
+      ],
+      "results": 6
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا | شريط نصوص متحرك",
+      "path": "02-sections/21-marquee",
+      "fields": 24,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 10
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · فيديو يوتيوب",
+      "path": "02-sections/22-youtube",
+      "fields": 6,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · مميزات المتجر",
+      "path": "02-sections/23-store-features",
+      "fields": 6,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · آراء العملاء",
+      "path": "02-sections/24-testimonials",
+      "fields": 6,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · أحدث المنتجات",
+      "path": "02-sections/25-latest-products",
+      "fields": 10,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · معرض صور",
+      "path": "02-sections/26-photos-slider",
+      "fields": 6,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · صور مربعة",
+      "path": "02-sections/27-square-photos",
+      "fields": 6,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 2
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · بنر باراللاكس",
+      "path": "02-sections/28-parallax-background",
+      "fields": 8,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · بنر ثابت",
+      "path": "02-sections/29-fixed-banner",
+      "fields": 6,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · بانر إعلاني / خصم",
+      "path": "02-sections/30-cml-promo",
+      "fields": 16,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · منتجات مميزة - نمط 1",
+      "path": "02-sections/31-featured-products-style1",
+      "fields": 14,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 12
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · منتجات مميزة - نمط 2",
+      "path": "02-sections/32-featured-products-style2",
+      "fields": 16,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 12
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · تبويبات علوية",
+      "path": "02-sections/33-products-tabs",
+      "fields": 11,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 11
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · الأسئلة الشائعة",
+      "path": "02-sections/34-faq",
+      "fields": 5,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · فئات دائرية",
+      "path": "02-sections/35-circular-categories",
+      "fields": 10,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 15
+    },
+    {
+      "kind": "section",
+      "title": "فيديو متحرك (محسّن)",
+      "path": "02-sections/36-enhanced-video-slider",
+      "fields": 8,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · نبذة عنّا",
+      "path": "02-sections/37-cml-about",
+      "fields": 8,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · بانر سلايدر",
+      "path": "02-sections/38-cml-banner-slider",
+      "fields": 7,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 5
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · أيقونات التواصل الاجتماعي",
+      "path": "02-sections/39-cml-social-icons",
+      "fields": 14,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · مجموعة مختارة مع صورة",
+      "path": "02-sections/40-cml-curated-collection",
+      "fields": 12,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · بانر CTA",
+      "path": "02-sections/41-cml-cta-banner",
+      "fields": 10,
+      "images": [],
+      "results": 0
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · منتجات بتبويبات جانبية",
+      "path": "02-sections/42-cml-aside-tabs",
+      "fields": 11,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 10
+    },
+    {
+      "kind": "section",
+      "title": "بطاقات متراكبة",
+      "path": "02-sections/43-stacked-cards",
+      "fields": 5,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "عرض أفقي متحرك",
+      "path": "02-sections/44-horizontal-showcase",
+      "fields": 9,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 3
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · معرض إنستغرام",
+      "path": "02-sections/45-cml-instagram",
+      "fields": 8,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 2
+    },
+    {
+      "kind": "section",
+      "title": "منتج بالتفصيل",
+      "path": "02-sections/46-cml-product-spotlight",
+      "fields": 7,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · أرقام تحكي القصة",
+      "path": "02-sections/47-cml-brand-numbers",
+      "fields": 8,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 1
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · اكتشف بالسحب",
+      "path": "02-sections/48-cml-swipe-discovery",
+      "fields": 21,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 3
+    },
+    {
+      "kind": "section",
+      "title": "كارميلا · شبكة المنتجات التحريرية",
+      "path": "02-sections/49-cml-editorial-masonry",
+      "fields": 24,
+      "images": [
+        "desktop",
+        "mobile"
+      ],
+      "results": 3
+    }
+  ]
+}

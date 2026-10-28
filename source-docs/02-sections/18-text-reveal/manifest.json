@@ -1,0 +1,287 @@
+{
+  "kind": "section",
+  "title": "كارميلا | ظهور النص",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/18-text-reveal-desktop.webp",
+  "mobile": "../../images/18-text-reveal-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "سطر تمهيدي صغير",
+      "type": "نص",
+      "default": "قصتنا",
+      "what": "كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-eyebrow-panel.webp",
+          "result": "",
+          "option": "سطر تمهيدي صغير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "النص",
+      "type": "نص طويل",
+      "default": "نختار كل قطعة بعناية، من الخامة إلى آخر تفصيل، لتجد ما يشبه أسلوبك ويرافقك كل يوم.",
+      "what": "النص المعروض في العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-text-panel.webp",
+          "result": "",
+          "option": "النص",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وحدة الظهور",
+      "type": "قائمة منسدلة",
+      "default": "كلمات",
+      "what": "وحدة ظهور النص: حرفًا حرفًا، أو كلمة كلمة، أو سطرًا سطرًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-split-type-words-panel.webp",
+          "result": "../../images/18-text-reveal-split-type-words-result.webp",
+          "option": "كلمات",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/18-text-reveal-split-type-lines-panel.webp",
+          "result": "",
+          "option": "أسطر",
+          "note": ""
+        }
+      ],
+      "options": [
+        "كلمات",
+        "أسطر"
+      ]
+    },
+    {
+      "label": "السرعة",
+      "type": "قائمة منسدلة",
+      "default": "عادي",
+      "what": "سرعة الحركة: الأبطأ أهدأ للقراءة، والأسرع أكثر حيوية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-speed-slow-panel.webp",
+          "result": "",
+          "option": "بطيء",
+          "note": ""
+        },
+        {
+          "panel": "../../images/18-text-reveal-speed-normal-panel.webp",
+          "result": "../../images/18-text-reveal-speed-normal-result.webp",
+          "option": "عادي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/18-text-reveal-speed-fast-panel.webp",
+          "result": "",
+          "option": "سريع",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بطيء",
+        "عادي",
+        "سريع"
+      ]
+    },
+    {
+      "label": "نمط التشغيل",
+      "type": "قائمة منسدلة",
+      "default": "متابع للتمرير",
+      "what": "متى يبدأ التأثير: مع التمرير أو مرة واحدة عند الظهور.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-trigger-mode-scrub-panel.webp",
+          "result": "../../images/18-text-reveal-trigger-mode-scrub-result.webp",
+          "option": "متابع للتمرير",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/18-text-reveal-trigger-mode-once-panel.webp",
+          "result": "",
+          "option": "مرة واحدة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "متابع للتمرير",
+        "مرة واحدة"
+      ]
+    },
+    {
+      "label": "المحاذاة",
+      "type": "قائمة منسدلة",
+      "default": "بداية",
+      "what": "«بداية» و«يمين» تعطيان المحاذاة نفسها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-align-start-panel.webp",
+          "result": "../../images/18-text-reveal-align-start-result.webp",
+          "option": "بداية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/18-text-reveal-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/18-text-reveal-align-right-panel.webp",
+          "result": "",
+          "option": "يمين",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بداية",
+        "وسط",
+        "يمين"
+      ]
+    },
+    {
+      "label": "حجم النص",
+      "type": "قائمة منسدلة",
+      "default": "كبير",
+      "what": "كبير هو الحجم الحالي للمكوّن.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-text-size-small-panel.webp",
+          "result": "",
+          "option": "صغير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/18-text-reveal-text-size-medium-panel.webp",
+          "result": "",
+          "option": "متوسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/18-text-reveal-text-size-large-panel.webp",
+          "result": "../../images/18-text-reveal-text-size-large-result.webp",
+          "option": "كبير",
+          "note": "القيمة الافتراضية."
+        }
+      ],
+      "options": [
+        "صغير",
+        "متوسط",
+        "كبير"
+      ]
+    },
+    {
+      "label": "لون الخلفية",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "لون خلفية القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-background-color-panel.webp",
+          "result": "",
+          "option": "لون الخلفية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون النص",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "لون النص فوق الخلفية أو الصورة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-text-color-panel.webp",
+          "result": "",
+          "option": "لون النص",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مسافة علوية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أعلى القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أعلى القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-top-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة علوية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مسافة سفلية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أسفل القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أسفل القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-bottom-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة سفلية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--text-reveal",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/18-text-reveal-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Carmelea (معاينة الثيم)"
+}

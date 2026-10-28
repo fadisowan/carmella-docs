@@ -1,0 +1,77 @@
+{
+  "kind": "settings",
+  "title": "في الوضع الفاتح: الخلفية · الأزرار · الفوتر ● ● ● الكلاسيكية ● ● ● رملي دافئ ● ●",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "لوحة الألوان",
+      "type": "قائمة منسدلة",
+      "default": "الكلاسيكية — الذهبي الفاخر",
+      "what": "ألوان متناسقة جاهزة للوضعين الفاتح والداكن. أي لون تختاره بنفسك في الأقسام التالية يعلو على اللوحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-classic-panel.webp",
+          "result": "",
+          "option": "الكلاسيكية — الذهبي الفاخر",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-sand-panel.webp",
+          "result": "",
+          "option": "رملي دافئ",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-navy-panel.webp",
+          "result": "",
+          "option": "كحلي أنيق",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-olive-panel.webp",
+          "result": "",
+          "option": "زيتوني طبيعي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-rose-panel.webp",
+          "result": "",
+          "option": "وردي ناعم",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-white-panel.webp",
+          "result": "",
+          "option": "أبيض بسيط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-black-panel.webp",
+          "result": "",
+          "option": "أسود ملكي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-02-cml-palette-cml-palette-burgundy-panel.webp",
+          "result": "",
+          "option": "عنابي فاخر",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الكلاسيكية — الذهبي الفاخر",
+        "رملي دافئ",
+        "كحلي أنيق",
+        "زيتوني طبيعي",
+        "وردي ناعم",
+        "أبيض بسيط",
+        "أسود ملكي",
+        "عنابي فاخر"
+      ]
+    }
+  ]
+}

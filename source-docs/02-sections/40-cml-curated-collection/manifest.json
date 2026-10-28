@@ -1,0 +1,254 @@
+{
+  "kind": "section",
+  "title": "كارميلا · مجموعة مختارة مع صورة",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/40-cml-curated-collection-desktop.webp",
+  "mobile": "../../images/40-cml-curated-collection-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان صغير فوق العنوان الرئيسي",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-eyebrow-panel.webp",
+          "result": "",
+          "option": "عنوان صغير فوق العنوان الرئيسي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان الرئيسي",
+      "type": "نص",
+      "default": "مجموعة مختارة",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-title-panel.webp",
+          "result": "",
+          "option": "العنوان الرئيسي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص فرعي",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-subtitle-panel.webp",
+          "result": "",
+          "option": "نص فرعي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصورة التحريرية (الجانب)",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "مقاس مقترح 600×750 (4:5)",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-image-panel.webp",
+          "result": "",
+          "option": "الصورة التحريرية (الجانب)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص زر الإجراء",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-cta-text-panel.webp",
+          "result": "",
+          "option": "نص زر الإجراء",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط زر الإجراء",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-cta-url-panel.webp",
+          "result": "",
+          "option": "رابط زر الإجراء",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مصدر المنتجات",
+      "type": "قائمة منسدلة",
+      "default": "الأحدث",
+      "what": "يحدد من أين تأتي منتجات القسم: أحدث المنتجات، أو تصنيفات محددة، أو علامات تجارية، أو منتجات تختارها يدويًا. الحقل المناسب يظهر بعد الاختيار.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-source-type-latest-panel.webp",
+          "result": "../../images/40-cml-curated-collection-source-type-latest-result.webp",
+          "option": "الأحدث",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/40-cml-curated-collection-source-type-sales-panel.webp",
+          "result": "",
+          "option": "تخفيضات",
+          "note": ""
+        },
+        {
+          "panel": "../../images/40-cml-curated-collection-source-type-offers-panel.webp",
+          "result": "",
+          "option": "عروض",
+          "note": ""
+        },
+        {
+          "panel": "../../images/40-cml-curated-collection-source-type-categories-panel.webp",
+          "result": "",
+          "option": "حسب التصنيف",
+          "note": ""
+        },
+        {
+          "panel": "../../images/40-cml-curated-collection-source-type-brands-panel.webp",
+          "result": "",
+          "option": "حسب العلامة التجارية",
+          "note": ""
+        },
+        {
+          "panel": "../../images/40-cml-curated-collection-source-type-selected-panel.webp",
+          "result": "",
+          "option": "منتجات مختارة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الأحدث",
+        "تخفيضات",
+        "عروض",
+        "حسب التصنيف",
+        "حسب العلامة التجارية",
+        "منتجات مختارة"
+      ]
+    },
+    {
+      "label": "اختر التصنيفات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "التصنيفات التي تُجلب منها المنتجات؛ يظهر حين يكون المصدر «تصنيفات».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = حسب التصنيف",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-source-categories-panel.webp",
+          "result": "",
+          "option": "اختر التصنيفات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "اختر العلامات التجارية",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "العلامات التجارية التي تُجلب منها المنتجات؛ يظهر حين يكون المصدر «علامات تجارية».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = حسب العلامة التجارية",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-source-brands-panel.webp",
+          "result": "",
+          "option": "اختر العلامات التجارية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "اختر المنتجات (3 منتجات مقترحة)",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "المنتجات التي تختارها بنفسك لتظهر في القسم بالترتيب الذي تحدده؛ يظهر حين يكون المصدر «منتجات محددة».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = منتجات مختارة",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-source-products-panel.webp",
+          "result": "",
+          "option": "اختر المنتجات (3 منتجات مقترحة)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عكس جانبي الصورة والمحتوى",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يبدّل مكان الصورة والنص يمينًا ويسارًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-reverse-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-curated-collection",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/40-cml-curated-collection-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

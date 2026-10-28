@@ -1,0 +1,295 @@
+{
+  "kind": "section",
+  "title": "كارميلا · أحدث المنتجات",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "وصل حديثاً",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي تحت العنوان (اختياري)",
+      "type": "نص",
+      "default": "أحدث ما أضفناه إلى المتجر",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-sub-title-panel.webp",
+          "result": "",
+          "option": "وصف فرعي تحت العنوان (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط زر «عرض الكل» (اختياري)",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "وجهة زر «عرض الكل» أعلى القسم؛ اتركه فارغًا لإخفاء الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-display-all-url-panel.webp",
+          "result": "",
+          "option": "رابط زر «عرض الكل» (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وضع العرض",
+      "type": "قائمة منسدلة",
+      "default": "أحدث المنتجات",
+      "what": "طريقة عرض المحتوى في القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-display-mode-latest-panel.webp",
+          "result": "",
+          "option": "أحدث المنتجات",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/25-latest-products-display-mode-all-panel.webp",
+          "result": "",
+          "option": "كل المنتجات",
+          "note": ""
+        }
+      ],
+      "options": [
+        "أحدث المنتجات",
+        "كل المنتجات"
+      ]
+    },
+    {
+      "label": "عدد المنتجات (وضع الأحدث)",
+      "type": "نص",
+      "default": "8",
+      "what": "أقصى عدد من العناصر يُعرض في القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-limit-panel.webp",
+          "result": "",
+          "option": "عدد المنتجات (وضع الأحدث)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أسلوب بطاقة المنتج عند التأشير",
+      "type": "قائمة منسدلة",
+      "default": "افتراضي",
+      "what": "يحدد مكان زر الإضافة: «افتراضي» زر ثابت أسفل البطاقة، و«شريط أدوات أفقي» أو «إضافة سريعة» يظهر الزر فوق الصورة عند التأشير بدل الزر الثابت.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-card-hover-default-panel.webp",
+          "result": "",
+          "option": "افتراضي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/25-latest-products-card-hover-reveal-bar-panel.webp",
+          "result": "",
+          "option": "شريط أدوات أفقي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-card-hover-quick-add-panel.webp",
+          "result": "",
+          "option": "إضافة سريعة (شريط ذهبي)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "افتراضي",
+        "شريط أدوات أفقي",
+        "إضافة سريعة (شريط ذهبي)"
+      ]
+    },
+    {
+      "label": "شكل البطاقات في هذا القسم",
+      "type": "قائمة منسدلة",
+      "default": "الافتراضي لهذا القسم",
+      "what": "الشكل يحدد مظهر البطاقة، و«أسلوب البطاقة عند التأشير» يحدد مكان زر الإضافة. يعملان معًا في كل التركيبات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-cml-card-style-section-panel.webp",
+          "result": "",
+          "option": "الافتراضي لهذا القسم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-card-style-base-panel.webp",
+          "result": "",
+          "option": "أساسي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-card-style-explicit-panel.webp",
+          "result": "",
+          "option": "صريح: التصنيف وزر واضح",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-card-style-reveal-panel.webp",
+          "result": "",
+          "option": "التفاصيل عند التمرير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-card-style-compact-panel.webp",
+          "result": "",
+          "option": "مدمج",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-card-style-ranked-panel.webp",
+          "result": "",
+          "option": "مع خط فاصل",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الافتراضي لهذا القسم",
+        "أساسي",
+        "صريح: التصنيف وزر واضح",
+        "التفاصيل عند التمرير",
+        "مدمج",
+        "مع خط فاصل"
+      ]
+    },
+    {
+      "label": "المنتجات في الصف (كمبيوتر)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "في الشبكة، وفي السلايدر عدد المنتجات الظاهرة معًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-cml-cols-d-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-cols-d-2-panel.webp",
+          "result": "",
+          "option": "2",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-cols-d-3-panel.webp",
+          "result": "",
+          "option": "3",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-cols-d-4-panel.webp",
+          "result": "",
+          "option": "4",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-cols-d-5-panel.webp",
+          "result": "",
+          "option": "5",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "label": "المنتجات في الصف (جوال)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "في الشبكة، وفي السلايدر عدد المنتجات الظاهرة معًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-cml-cols-m-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-cols-m-1-panel.webp",
+          "result": "",
+          "option": "1",
+          "note": ""
+        },
+        {
+          "panel": "../../images/25-latest-products-cml-cols-m-2-panel.webp",
+          "result": "",
+          "option": "2",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--latest-products",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/25-latest-products-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

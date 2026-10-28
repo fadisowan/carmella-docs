@@ -1,0 +1,127 @@
+{
+  "kind": "settings",
+  "title": "أ · ألوان الصفحة (اختياري) الخلفية والبطاقات والنصوص",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "تشغيل ألوان الصفحة اليدوية",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "أطفئه لتعود ألوان اللوحة مكان حقول (أ) وتبقى ألوانك محفوظة. ألوان الداكن في (ب) لها مفتاحها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-palette-enabled-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تُطبَّق ألوان الصفحة اليدوية على",
+      "type": "قائمة منسدلة",
+      "default": "الوضعين الداكن والفاتح",
+      "what": "«الوضعين»: لونك في الفاتح والداكن ويُصحَّح أي نص لا يُقرأ. أو اختر وضعًا ويبقى الآخر بألوان اللوحة. إن شغّلت (ب) تصير ألوانك هنا للفاتح فقط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-color-scope-both-panel.webp",
+          "result": "",
+          "option": "الوضعين الداكن والفاتح",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-color-scope-light-panel.webp",
+          "result": "",
+          "option": "الوضع الفاتح فقط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-color-scope-dark-panel.webp",
+          "result": "",
+          "option": "الوضع الداكن فقط",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الوضعين الداكن والفاتح",
+        "الوضع الفاتح فقط",
+        "الوضع الداكن فقط"
+      ]
+    },
+    {
+      "label": "خلفية الصفحة",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "لون خلفية كل الصفحات. إن لم تحدد البطاقات والنصوص تُشتق منه تلقائيًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-color-bg-panel.webp",
+          "result": "",
+          "option": "خلفية الصفحة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "خلفية البطاقات",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "بطاقات المنتجات والنوافذ والقوائم المنسدلة. إن تركتها، أو كانت فاتحة والخلفية داكنة أو العكس، تُشتق من خلفية الصفحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-color-surface-panel.webp",
+          "result": "",
+          "option": "خلفية البطاقات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون النصوص",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "الفقرات والأوصاف، ومنه النصوص الخافتة والحدود. يُستبدل تلقائيًا إن صار غير مقروء.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-color-text-panel.webp",
+          "result": "",
+          "option": "لون النصوص",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون العناوين",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "أسماء المنتجات وعناوين الصفحات. لعناوين أقسام الرئيسية خيار مستقل في (ج).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-05-cml-palette-enabled-cml-color-heading-panel.webp",
+          "result": "",
+          "option": "لون العناوين",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

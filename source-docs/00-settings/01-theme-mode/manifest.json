@@ -1,0 +1,100 @@
+{
+  "kind": "settings",
+  "title": "١ · المظهر العام الوضع الافتراضي وزر التبديل وأسلوب الخطوط",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "وضع العرض الافتراضي للثيم",
+      "type": "قائمة منسدلة",
+      "default": "داكن (Dark)",
+      "what": "الوضع الداكن هو الأساس. يمكن للزائر التبديل من زر التبديل في أعلى الصفحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-01-theme-mode-theme-mode-dark-panel.webp",
+          "result": "",
+          "option": "داكن (Dark)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-01-theme-mode-theme-mode-light-panel.webp",
+          "result": "",
+          "option": "فاتح (Light)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-01-theme-mode-theme-mode-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي حسب نظام الزائر (Auto)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "داكن (Dark)",
+        "فاتح (Light)",
+        "تلقائي حسب نظام الزائر (Auto)"
+      ]
+    },
+    {
+      "label": "إظهار زر تبديل الوضع الداكن/الفاتح في الهيدر",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "زر صغير في الهيدر يقلّب الزائر بين الداكن والفاتح، واختياره يُحفظ لجهازه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-01-theme-mode-show-theme-toggle-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أسلوب الخطوط (Typography)",
+      "type": "قائمة منسدلة",
+      "default": "خط المتجر (من إعدادات سلة)",
+      "what": "اختر أسلوب الخطوط. «خط المتجر» يستخدم الخط الذي اخترته في إعدادات سلة (وهو الأسرع — بدون تحميل خطوط خارجية).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-01-theme-mode-font-pairing-store-panel.webp",
+          "result": "",
+          "option": "خط المتجر (من إعدادات سلة)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-01-theme-mode-font-pairing-classic-panel.webp",
+          "result": "",
+          "option": "كلاسيكي فاخر (Amiri + Tajawal)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-01-theme-mode-font-pairing-modern-panel.webp",
+          "result": "",
+          "option": "عصري (Reem Kufi + Cairo)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-01-theme-mode-font-pairing-minimal-panel.webp",
+          "result": "",
+          "option": "بسيط (Tajawal)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "خط المتجر (من إعدادات سلة)",
+        "كلاسيكي فاخر (Amiri + Tajawal)",
+        "عصري (Reem Kufi + Cairo)",
+        "بسيط (Tajawal)"
+      ]
+    }
+  ]
+}

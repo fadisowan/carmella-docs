@@ -1,0 +1,292 @@
+{
+  "kind": "section",
+  "title": "كارميلا · بانر سلايدر",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/38-cml-banner-slider-desktop.webp",
+  "mobile": "../../images/38-cml-banner-slider-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "slides",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/38-cml-banner-slider-slides-panel.webp",
+          "result": "",
+          "option": "slides",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "صورة البانر",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "المقاس المقترح 1440×480 (نسبة 3:1)"
+        },
+        {
+          "label": "عنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "نص إضافي",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة."
+        },
+        {
+          "label": "نص زر الإجراء",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر."
+        },
+        {
+          "label": "رابط زر الإجراء",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً."
+        },
+        {
+          "label": "إزالة طبقة التعتيم",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يزيل الطبقة الداكنة فوق الصورة؛ مناسب للصور الفاتحة التي تحمل نصًا داكنًا أو بلا نص."
+        },
+        {
+          "label": "موضع النص",
+          "type": "قائمة منسدلة",
+          "default": "وسط",
+          "what": "مكان النص فوق الشريحة: يمين أو وسط أو يسار، وأعلى أو أسفل."
+        },
+        {
+          "label": "موضع الصورة",
+          "type": "قائمة منسدلة",
+          "default": "حسب الثيم",
+          "what": "الجزء من الصورة الذي يبقى ظاهرًا حين تُقص على الشاشات الضيقة."
+        },
+        {
+          "label": "شكل الزر",
+          "type": "قائمة منسدلة",
+          "default": "ممتلئ",
+          "what": "شكل زر الشريحة: ممتلئ أو بإطار."
+        },
+        {
+          "label": "جعل الشريحة كلها رابطاً",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يجعل الضغط في أي مكان على الشريحة يفتح الرابط، لا الزر وحده."
+        }
+      ]
+    },
+    {
+      "label": "ارتفاع البانر",
+      "type": "قائمة منسدلة",
+      "default": "متوسط (480px) — افتراضي",
+      "what": "ارتفاع البانر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/38-cml-banner-slider-height-sm-panel.webp",
+          "result": "",
+          "option": "صغير (320px)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-height-md-panel.webp",
+          "result": "../../images/38-cml-banner-slider-height-md-result.webp",
+          "option": "متوسط (480px) — افتراضي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-height-lg-panel.webp",
+          "result": "",
+          "option": "كبير (600px)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "صغير (320px)",
+        "متوسط (480px) — افتراضي",
+        "كبير (600px)"
+      ]
+    },
+    {
+      "label": "نوع تأثير النص",
+      "type": "قائمة منسدلة",
+      "default": "ظهور من الأسفل (افتراضي)",
+      "what": "طريقة ظهور النص عند وصول الزائر للقسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/38-cml-banner-slider-text-anim-fade-up-panel.webp",
+          "result": "../../images/38-cml-banner-slider-text-anim-fade-up-result.webp",
+          "option": "ظهور من الأسفل (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-text-anim-swiper-panel.webp",
+          "result": "",
+          "option": "متحرك أفقياً (Swiper)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-text-anim-clip-panel.webp",
+          "result": "",
+          "option": "كاشف مقطوع",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-text-anim-drift-panel.webp",
+          "result": "",
+          "option": "انزلاق جانبي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-text-anim-typewriter-panel.webp",
+          "result": "",
+          "option": "ظهور كلمة كلمة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ظهور من الأسفل (افتراضي)",
+        "متحرك أفقياً (Swiper)",
+        "كاشف مقطوع",
+        "انزلاق جانبي",
+        "ظهور كلمة كلمة"
+      ]
+    },
+    {
+      "label": "مدة كل شريحة",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم",
+      "what": "كم ثانية تبقى كل شريحة قبل الانتقال للتالية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-slide-seconds-theme-panel.webp",
+          "result": "../../images/38-cml-banner-slider-cml-slide-seconds-theme-result.webp",
+          "option": "حسب الثيم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-slide-seconds-4-panel.webp",
+          "result": "",
+          "option": "4 ثوانٍ",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-slide-seconds-6-panel.webp",
+          "result": "",
+          "option": "6 ثوانٍ",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-slide-seconds-8-panel.webp",
+          "result": "",
+          "option": "8 ثوانٍ",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-slide-seconds-12-panel.webp",
+          "result": "",
+          "option": "12 ثانية",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم",
+        "4 ثوانٍ",
+        "6 ثوانٍ",
+        "8 ثوانٍ",
+        "12 ثانية"
+      ]
+    },
+    {
+      "label": "الانتقال بين الشرائح",
+      "type": "قائمة منسدلة",
+      "default": "انزلاق",
+      "what": "شكل الانتقال بين الشرائح: انزلاق أو تلاشي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-transition-slide-panel.webp",
+          "result": "../../images/38-cml-banner-slider-cml-transition-slide-result.webp",
+          "option": "انزلاق",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-transition-fade-panel.webp",
+          "result": "",
+          "option": "تلاشي",
+          "note": ""
+        }
+      ],
+      "options": [
+        "انزلاق",
+        "تلاشي"
+      ]
+    },
+    {
+      "label": "حركة تقريب الصورة",
+      "type": "قائمة منسدلة",
+      "default": "متوقفة",
+      "what": "تقريب بطيء للصورة أثناء ظهور الشريحة يعطي إحساسًا بالحركة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-zoom-on-panel.webp",
+          "result": "",
+          "option": "مفعّلة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-zoom-off-panel.webp",
+          "result": "../../images/38-cml-banner-slider-cml-zoom-off-result.webp",
+          "option": "متوقفة",
+          "note": "القيمة الافتراضية."
+        }
+      ],
+      "options": [
+        "مفعّلة",
+        "متوقفة"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-banner-slider",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/38-cml-banner-slider-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

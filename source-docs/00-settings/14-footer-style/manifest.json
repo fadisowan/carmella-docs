@@ -1,0 +1,76 @@
+{
+  "kind": "settings",
+  "title": "٧ · الفوتر شكله وفواصله وشريط المميزات",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "شكل الفوتر (Footer)",
+      "type": "قائمة منسدلة",
+      "default": "ممتلئ (افتراضي)",
+      "what": "اختر مظهر أسفل الصفحة: ممتلئ (افتراضي) بلون فوتر اللوحة، ومع «الكلاسيكية» يتبع وضع العرض (فاتح في الفاتح وداكن في الداكن)؛ أو بدون خلفية (شفاف يندمج مع الصفحة)؛ أو فاتح.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-14-footer-style-footer-style-filled-dark-panel.webp",
+          "result": "",
+          "option": "ممتلئ (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-14-footer-style-footer-style-nobg-panel.webp",
+          "result": "",
+          "option": "بدون خلفية (شفاف)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-14-footer-style-footer-style-light-panel.webp",
+          "result": "",
+          "option": "فاتح",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ممتلئ (افتراضي)",
+        "بدون خلفية (شفاف)",
+        "فاتح"
+      ]
+    },
+    {
+      "label": "إظهار الفواصل بين الأعمدة",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "خطوط فاصلة رفيعة بين أعمدة الفوتر لمظهر أكثر تنظيماً.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-14-footer-style-footer-show-dividers-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار شريط المميزات في الفوتر",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "شريط مميزات (شحن سريع، إرجاع، دعم...) أعلى الفوتر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-14-footer-style-footer-show-features-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

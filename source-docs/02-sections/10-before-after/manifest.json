@@ -1,0 +1,199 @@
+{
+  "kind": "section",
+  "title": "قبل / بعد",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/10-before-after-desktop.webp",
+  "mobile": "../../images/10-before-after-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "قبل وبعد",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي تحت العنوان (اختياري)",
+      "type": "نص",
+      "default": "الفرق واضح",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف فرعي تحت العنوان (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصورة (قبل)",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "صورة الحالة «قبل» في المقارنة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-before-image-panel.webp",
+          "result": "",
+          "option": "الصورة (قبل)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصورة (بعد)",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/3gOhYSaIhaHxhH2IHWxJYDl9JHwxP6dGKiZFSq4K.jpg",
+      "what": "صورة الحالة «بعد» في المقارنة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-after-image-panel.webp",
+          "result": "",
+          "option": "الصورة (بعد)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تسمية (قبل)",
+      "type": "نص",
+      "default": "قبل",
+      "what": "الكلمة التي تظهر على صورة «قبل».",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-before-label-panel.webp",
+          "result": "",
+          "option": "تسمية (قبل)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تسمية (بعد)",
+      "type": "نص",
+      "default": "بعد",
+      "what": "الكلمة التي تظهر على صورة «بعد».",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-after-label-panel.webp",
+          "result": "",
+          "option": "تسمية (بعد)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-align-right-panel.webp",
+          "result": "../../images/10-before-after-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/10-before-after-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/10-before-after-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "لون الفاصل",
+      "type": "قائمة منسدلة",
+      "default": "ذهبي",
+      "what": "لون الخط الفاصل بين العناصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-cml-divider-gold-panel.webp",
+          "result": "../../images/10-before-after-cml-divider-gold-result.webp",
+          "option": "ذهبي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/10-before-after-cml-divider-white-panel.webp",
+          "result": "../../images/10-before-after-cml-divider-white-result.webp",
+          "option": "أبيض",
+          "note": ""
+        },
+        {
+          "panel": "../../images/10-before-after-cml-divider-dark-panel.webp",
+          "result": "../../images/10-before-after-cml-divider-dark-result.webp",
+          "option": "داكن",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ذهبي",
+        "أبيض",
+        "داكن"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--before-after",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/10-before-after-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

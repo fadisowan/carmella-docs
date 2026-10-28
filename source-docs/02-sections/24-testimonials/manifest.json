@@ -1,0 +1,124 @@
+{
+  "kind": "section",
+  "title": "كارميلا · آراء العملاء",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم (اختياري)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يظهر فوق التقييمات عند تعبئته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/24-testimonials-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط عرض الكل",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "إظهار رابط الانتقال لكل التقييمات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/24-testimonials-display-all-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نوع التقييمات",
+      "type": "قائمة منسدلة",
+      "default": "المتجر",
+      "what": "نوع التقييمات المعروضة: تقييمات المتجر أو تقييمات المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/24-testimonials-type-store-panel.webp",
+          "result": "",
+          "option": "المتجر",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/24-testimonials-type-product-panel.webp",
+          "result": "",
+          "option": "المنتجات",
+          "note": ""
+        }
+      ],
+      "options": [
+        "المتجر",
+        "المنتجات"
+      ]
+    },
+    {
+      "label": "عدد التقييمات",
+      "type": "نص",
+      "default": "10",
+      "what": "أقصى عدد من العناصر يُعرض في القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/24-testimonials-limit-panel.webp",
+          "result": "",
+          "option": "عدد التقييمات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إخفاء معلومات العميل",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يخفي اسم العميل وصورته ويبقي نص التقييم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/24-testimonials-hide-customer-info-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--testimonials",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/24-testimonials-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

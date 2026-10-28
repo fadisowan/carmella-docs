@@ -1,0 +1,192 @@
+{
+  "kind": "section",
+  "title": "عرض + عدّاد تنازلي",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/15-promo-countdown-desktop.webp",
+  "mobile": "../../images/15-promo-countdown-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "نص علوي صغير",
+      "type": "نص",
+      "default": "عرض خاص",
+      "what": "كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-eyebrow-panel.webp",
+          "result": "",
+          "option": "نص علوي صغير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "خصومات نهاية الموسم",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الوصف",
+      "type": "نص طويل",
+      "default": "اقتنِ قطعك المفضّلة قبل انتهاء العرض.",
+      "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-description-panel.webp",
+          "result": "",
+          "option": "الوصف",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصورة الجانبية",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "* المقاس المناسب 900×900 بكسل. اتركها فارغة لعرض البانر بلون التمييز فقط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-image-panel.webp",
+          "result": "",
+          "option": "الصورة الجانبية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة الجوال (اختيارية)",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "* تظهر بدل الصورة الجانبية على الشاشات الأصغر من 768 بكسل. المقاس المناسب 800×600. اتركها فارغة لاستخدام الصورة الجانبية على كل المقاسات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-mobile-image-panel.webp",
+          "result": "",
+          "option": "صورة الجوال (اختيارية)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تاريخ انتهاء العرض",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "تاريخ انتهاء العرض بالصيغة YYYY-MM-DD. تاريخ فقط بلا وقت؛ ينتهي العدّاد في آخر ذلك اليوم. اتركه فارغاً لإخفاء العدّاد.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-end-date-panel.webp",
+          "result": "",
+          "option": "تاريخ انتهاء العرض",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الزر",
+      "type": "نص",
+      "default": "تسوّق العرض",
+      "what": "النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-cta-text-panel.webp",
+          "result": "",
+          "option": "نص الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط الزر",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-cta-url-panel.webp",
+          "result": "",
+          "option": "رابط الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "شكل الزر",
+      "type": "قائمة منسدلة",
+      "default": "ممتلئ",
+      "what": "شكل الزر: ممتلئ أو بإطار أو رابط نصي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-cml-btn-style-filled-panel.webp",
+          "result": "../../images/15-promo-countdown-cml-btn-style-filled-result.webp",
+          "option": "ممتلئ",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/15-promo-countdown-cml-btn-style-outline-panel.webp",
+          "result": "../../images/15-promo-countdown-cml-btn-style-outline-result.webp",
+          "option": "مفرّغ",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ممتلئ",
+        "مفرّغ"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--promo-countdown",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/15-promo-countdown-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

@@ -1,0 +1,120 @@
+{
+  "kind": "settings",
+  "title": "٣ · الهيدر والإعلان شكله وقائمته وتثبيته وشريطه العلوي",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "شكل الهيدر (Header)",
+      "type": "قائمة منسدلة",
+      "default": "عائم فاخر (افتراضي)",
+      "what": "العائم الفاخر هو الأساس (شفاف فوق الواجهة). اختر \"خلفية صلبة\" لهيدر بخلفية غير شفافة ثابتة أعلى الصفحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-09-header-style-header-style-floating-panel.webp",
+          "result": "",
+          "option": "عائم فاخر (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-09-header-style-header-style-solid-panel.webp",
+          "result": "",
+          "option": "خلفية صلبة (غير شفاف)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "عائم فاخر (افتراضي)",
+        "خلفية صلبة (غير شفاف)"
+      ]
+    },
+    {
+      "label": "قائمة الهيدر الرئيسية",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر القائمة التي تظهر في شريط التنقل العلوي (افتراضياً: القائمة المعيّنة لموضع الهيدر من إدارة القوائم).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-09-header-style-header-menu-id-panel.webp",
+          "result": "",
+          "option": "قائمة الهيدر الرئيسية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تثبيت القائمة الرئيسية أعلى الصفحة عند التمرير لأسفل",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يُنصح بإلغاء تفعيلها في حالة وجود عناصر كثيرة في القائمة المنسدلة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-09-header-style-header-is-sticky-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار البحث في الهيدر على الجوال والتابلت",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر زر البحث بجانب السلة في الشاشات الصغيرة بدل القائمة الجانبية فقط. يبقى البحث في القائمة الجانبية أيضًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-09-header-style-header-search-mobile-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تفعيل قائمة المزيد في القائمة الرئيسية",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "عند تفعيلها، ستظهر الروابط الإضافية في قائمة منسدلة تسمى 'المزيد' عند عدم وجود مساحة كافية",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-09-header-style-enable-more-menu-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الشريط العلوي (Announcement)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يظهر في أعلى الهيدر. اتركه فارغاً لإخفاء الشريط. للرسائل المتعددة المتناوبة افصل بينها بعلامة | (مثال: شحن مجاني | إرجاع خلال ١٤ يوماً).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-09-header-style-announcement-text-panel.webp",
+          "result": "",
+          "option": "نص الشريط العلوي (Announcement)",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "kind": "section",
+  "title": "كارميلا · بانر CTA",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان صغير فوق العنوان",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-eyebrow-panel.webp",
+          "result": "",
+          "option": "عنوان صغير فوق العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان الرئيسي",
+      "type": "نص",
+      "default": "اكتشف الجديد",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-title-panel.webp",
+          "result": "",
+          "option": "العنوان الرئيسي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "النص الفرعي",
+      "type": "نص طويل",
+      "default": "فارغ",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-subtitle-panel.webp",
+          "result": "",
+          "option": "النص الفرعي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة الخلفية",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "اتركها فارغة لاستخدام اللون فقط",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-bg-image-panel.webp",
+          "result": "",
+          "option": "صورة الخلفية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الزر",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-cta-text-panel.webp",
+          "result": "",
+          "option": "نص الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط الزر",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-cta-url-panel.webp",
+          "result": "",
+          "option": "رابط الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون الخلفية (بديل الصورة)",
+      "type": "لون",
+      "default": "#14110b",
+      "what": "لون خلفية يُستخدم حين لا توجد صورة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-bg-color-panel.webp",
+          "result": "",
+          "option": "لون الخلفية (بديل الصورة)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص داكن (للخلفيات الفاتحة)",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يجعل النص داكنًا ليُقرأ فوق الخلفيات الفاتحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-dark-text-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "شكل الزر",
+      "type": "قائمة منسدلة",
+      "default": "ممتلئ",
+      "what": "شكل الزر: ممتلئ أو بإطار أو رابط نصي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-cml-btn-style-filled-panel.webp",
+          "result": "",
+          "option": "ممتلئ",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/41-cml-cta-banner-cml-btn-style-outline-panel.webp",
+          "result": "",
+          "option": "مفرّغ",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ممتلئ",
+        "مفرّغ"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-cta-banner",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/41-cml-cta-banner-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

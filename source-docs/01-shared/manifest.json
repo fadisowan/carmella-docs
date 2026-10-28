@@ -1,0 +1,206 @@
+{
+  "kind": "shared",
+  "title": "الخيارات المشتركة",
+  "intro": "خيارات تتكرر في أغلب الأقسام بالمعنى نفسه، فتُشرح هنا مرة واحدة. الصور مأخوذة من قسم «واجهة التصنيفات».",
+  "when": "",
+  "fields": [
+    {
+      "label": "المسافة أعلى القسم",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم",
+      "what": "يحدد الفراغ فوق القسم بعد القسم السابق: «بلا» يلصقه بما قبله، والأكبر يفصله بوضوح.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/shared-cml-space-top-theme-panel.webp",
+          "result": "../../images/shared-cml-space-top-theme-result.webp",
+          "option": "حسب الثيم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/shared-cml-space-top-none-panel.webp",
+          "result": "../../images/shared-cml-space-top-none-result.webp",
+          "option": "بلا مسافة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-space-top-sm-panel.webp",
+          "result": "../../images/shared-cml-space-top-sm-result.webp",
+          "option": "صغيرة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-space-top-md-panel.webp",
+          "result": "../../images/shared-cml-space-top-md-result.webp",
+          "option": "متوسطة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-space-top-lg-panel.webp",
+          "result": "../../images/shared-cml-space-top-lg-result.webp",
+          "option": "كبيرة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم",
+        "بلا مسافة",
+        "صغيرة",
+        "متوسطة",
+        "كبيرة"
+      ]
+    },
+    {
+      "label": "المسافة أسفل القسم",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم",
+      "what": "يحدد الفراغ تحت القسم قبل القسم التالي: «بلا» يلصقه بما بعده، والأكبر يعطيه مساحة تنفّس.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/shared-cml-space-bottom-theme-panel.webp",
+          "result": "../../images/shared-cml-space-bottom-theme-result.webp",
+          "option": "حسب الثيم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/shared-cml-space-bottom-none-panel.webp",
+          "result": "../../images/shared-cml-space-bottom-none-result.webp",
+          "option": "بلا مسافة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-space-bottom-sm-panel.webp",
+          "result": "../../images/shared-cml-space-bottom-sm-result.webp",
+          "option": "صغيرة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-space-bottom-md-panel.webp",
+          "result": "../../images/shared-cml-space-bottom-md-result.webp",
+          "option": "متوسطة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-space-bottom-lg-panel.webp",
+          "result": "../../images/shared-cml-space-bottom-lg-result.webp",
+          "option": "كبيرة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم",
+        "بلا مسافة",
+        "صغيرة",
+        "متوسطة",
+        "كبيرة"
+      ]
+    },
+    {
+      "label": "عرض القسم",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم",
+      "what": "يختار هل يمتد القسم بعرض الشاشة كاملًا أم يبقى داخل حاوية الصفحة بهوامش جانبية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/shared-cml-width-theme-panel.webp",
+          "result": "../../images/shared-cml-width-theme-result.webp",
+          "option": "حسب الثيم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/shared-cml-width-full-panel.webp",
+          "result": "../../images/shared-cml-width-full-result.webp",
+          "option": "بعرض الشاشة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم",
+        "بعرض الشاشة"
+      ]
+    },
+    {
+      "label": "خلفية القسم",
+      "type": "قائمة منسدلة",
+      "default": "بلا خلفية",
+      "what": "من ألوان المتجر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/shared-cml-bg-none-panel.webp",
+          "result": "../../images/shared-cml-bg-none-result.webp",
+          "option": "بلا خلفية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/shared-cml-bg-surface-panel.webp",
+          "result": "../../images/shared-cml-bg-surface-result.webp",
+          "option": "لون البطاقات",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-bg-soft-panel.webp",
+          "result": "../../images/shared-cml-bg-soft-result.webp",
+          "option": "لون الأزرار الخفيف",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بلا خلفية",
+        "لون البطاقات",
+        "لون الأزرار الخفيف"
+      ]
+    },
+    {
+      "label": "حواف الصور والبطاقات",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم",
+      "what": "يحدد استدارة زوايا الصور والبطاقات في هذا القسم: حادة أو ناعمة أو مستديرة، أو تتبع إعداد الثيم العام.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/shared-cml-radius-theme-panel.webp",
+          "result": "../../images/shared-cml-radius-theme-result.webp",
+          "option": "حسب الثيم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/shared-cml-radius-sharp-panel.webp",
+          "result": "../../images/shared-cml-radius-sharp-result.webp",
+          "option": "حادة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-radius-soft-panel.webp",
+          "result": "../../images/shared-cml-radius-soft-result.webp",
+          "option": "ناعمة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/shared-cml-radius-round-panel.webp",
+          "result": "../../images/shared-cml-radius-round-result.webp",
+          "option": "دائرية",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم",
+        "حادة",
+        "ناعمة",
+        "دائرية"
+      ]
+    }
+  ]
+}

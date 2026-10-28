@@ -1,0 +1,42 @@
+{
+  "kind": "settings",
+  "title": "٦ · التصنيفات والسلة مسار القوائم وزر عرض الكل والسلة",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "إظهار مسار التنقل في صفحة قائمة المنتجات",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "مسار التنقل أعلى صفحات الأقسام وقوائم المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-12-product-index-show-breadcrumbs-product-index-show-breadcrumbs-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عرض (زر الكل) في الصفحة الرئيسية",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يظهر بجانب عنوان مكوّن الماركات وحده، وينقل إلى قائمة الماركات كاملة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-12-product-index-show-breadcrumbs-is-more-button-enabled-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kind": "settings",
+  "title": "ب · الوضع الداكن ألوان خاصة به (اختياري)",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "ألوان مختلفة للوضع الداكن",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "عند التشغيل تُستخدم الحقول التالية في الداكن، وتصير ألوان (أ) للفاتح فقط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-06-cml-dark-palette-cml-dark-palette-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ خلفية الصفحة (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "تُشتق منها البطاقات والنصوص في الداكن إن لم تحددها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-06-cml-dark-palette-cml-dark-bg-panel.webp",
+          "result": "",
+          "option": "↳ خلفية الصفحة (الداكن)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ خلفية البطاقات (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "إن تركتها، أو كانت فاتحة والخلفية داكنة أو العكس، تُشتق من خلفية الصفحة في الداكن.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-06-cml-dark-palette-cml-dark-surface-panel.webp",
+          "result": "",
+          "option": "↳ خلفية البطاقات (الداكن)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون النصوص (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "يُستبدل تلقائيًا إن لم يكن مقروءًا على الخلفية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-06-cml-dark-palette-cml-dark-text-panel.webp",
+          "result": "",
+          "option": "↳ لون النصوص (الداكن)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون العناوين (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "أسماء المنتجات وعناوين الصفحات في الوضع الداكن.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-06-cml-dark-palette-cml-dark-heading-panel.webp",
+          "result": "",
+          "option": "↳ لون العناوين (الداكن)",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

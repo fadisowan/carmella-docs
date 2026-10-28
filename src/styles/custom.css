@@ -30,3 +30,8 @@ body{line-height:1.85}.site-title{font-weight:800;letter-spacing:-.03em}.sl-mark
 :root[data-theme="light"] .site-title{color:#70542a}
 :root[data-theme="light"] .card{background:#fff;border-color:#e5dfd4}
 :root[data-theme="light"] ::selection{background:#e8d4a2;color:#2c2722}
+
+/* Each option owns its exact source panel and, when supplied, its result. */
+.preview-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin-block:.75rem 1.25rem;align-items:start}.sl-markdown-content .preview-grid figure{margin:0;min-width:0;padding:.75rem;border:1px solid var(--sl-color-hairline);border-radius:12px;background:var(--sl-color-bg)}.sl-markdown-content .preview-grid img{width:100%;height:auto;max-height:30rem;object-fit:contain;display:block;margin:0}.preview-grid:has(>figure:only-child){grid-template-columns:minmax(0,1fr);max-width:40rem}.sl-markdown-content .setting-example{margin-block:1.25rem 2rem}.sl-markdown-content .option-label{font-weight:700;font-size:1rem;padding:.6rem .85rem;background:var(--sl-color-gray-6);border-inline-start:3px solid var(--sl-color-accent);border-radius:.4rem;margin-block:0 .75rem}.field-meta{display:flex;flex-wrap:wrap;gap:.5rem 1.5rem;font-size:var(--carmella-small);color:var(--sl-color-gray-2)}.field-meta span{display:inline-block}.sl-markdown-content h4{border-inline-start:2px solid var(--sl-color-hairline);padding-inline-start:.75rem}.component-card img{max-height:220px}@media(max-width:50rem){.preview-grid{grid-template-columns:minmax(0,1fr)}.sl-markdown-content .preview-grid img{max-height:26rem}}
+
+.sl-markdown-content{overflow-wrap:anywhere}.field-meta span{max-width:100%;min-width:0;overflow-wrap:anywhere}

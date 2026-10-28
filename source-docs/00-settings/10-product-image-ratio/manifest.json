@@ -1,0 +1,376 @@
+{
+  "kind": "settings",
+  "title": "٤ · بطاقة المنتج صورتها وتفاعلاتها في الشبكات",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "شكل صورة المنتج في البطاقات",
+      "type": "قائمة منسدلة",
+      "default": "مربع 1:1 (الافتراضي)",
+      "what": "يطبَّق على بطاقات المنتجات في كل القوائم والمكوّنات. الطولي يناسب الصور الملتقطة بالطول (أزياء، عطور)؛ الصورة المربعة تُقص من جانبيها فيه، إلا إذا اخترت «احتواء» من توحيد ارتفاع البطاقات في إعدادات المنتجات بلوحة سلة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-product-image-ratio-square-panel.webp",
+          "result": "",
+          "option": "مربع 1:1 (الافتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-product-image-ratio-portrait-3-4-panel.webp",
+          "result": "",
+          "option": "طولي 3:4",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-product-image-ratio-portrait-4-5-panel.webp",
+          "result": "",
+          "option": "طولي خفيف 4:5",
+          "note": ""
+        }
+      ],
+      "options": [
+        "مربع 1:1 (الافتراضي)",
+        "طولي 3:4",
+        "طولي خفيف 4:5"
+      ]
+    },
+    {
+      "label": "تبديل صورة المنتج عند التأشير",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "عند تمرير الماوس على بطاقة منتج له صورتان أو أكثر تظهر صورته الثانية. يعمل على أجهزة الكمبيوتر فقط، ولا يتغيّر شيء للمنتج الذي فيه فيديو أو صورة واحدة. يجلب صور منتجات الصفحة القريبة من الشاشة في طلبات مجمَّعة (حتى 40 منتجًا لكل طلب).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-hover-image-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تشغيل فيديو المنتج تلقائيًا في البطاقات (صامت)",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "إذا كان الوسيط الأساسي للمنتج فيديو مرفوعًا على سلة، يُشغَّل في بطاقة المنتج تلقائيًا وبدون صوت وبتكرار، ويتوقّف حين يخرج من الشاشة. يجلب وسائط منتجات الصفحة في طلبات مجمَّعة (حتى 40 منتجًا لكل طلب)، فاتركه مطفأً إن لم تستخدم فيديو في منتجاتك. يعمل على الكمبيوتر (بالفأرة) فقط، ولا يُشغَّل على شاشات اللمس.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-video-autoplay-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار زر \"أعلمني عند التوفر\" في بطاقة المنتج",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر زر إشعار التوفر في بطاقات المنتجات التي نفذت كميتها",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-notify-when-available-in-card-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أسلوب البطاقة في كل المتجر",
+      "type": "قائمة منسدلة",
+      "default": "حسب القسم",
+      "what": "لصفحات التصنيف والبحث ولأقسام الرئيسية التي «شكل البطاقات» فيها «الافتراضي لهذا القسم»، ما عدا «منتجات مميزة» و«تبويبات جانبية» فلهما شكلهما. مكان زر الإضافة يتبع «أسلوب البطاقة عند التأشير» في كل قسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-style-global-theme-panel.webp",
+          "result": "",
+          "option": "حسب القسم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-style-global-explicit-panel.webp",
+          "result": "",
+          "option": "صريح: التصنيف وزر واضح",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-style-global-reveal-panel.webp",
+          "result": "",
+          "option": "التفاصيل عند التمرير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-style-global-compact-panel.webp",
+          "result": "",
+          "option": "مدمج",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب القسم",
+        "صريح: التصنيف وزر واضح",
+        "التفاصيل عند التمرير",
+        "مدمج"
+      ]
+    },
+    {
+      "label": "المنتجات في الصف — التصنيفات والبحث (كمبيوتر)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "مع شريط الفلاتر 4 منتجات كحد أقصى حتى لا تضيق البطاقات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-2-panel.webp",
+          "result": "",
+          "option": "2",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-3-panel.webp",
+          "result": "",
+          "option": "3",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-4-panel.webp",
+          "result": "",
+          "option": "4",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-5-panel.webp",
+          "result": "",
+          "option": "5",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-6-panel.webp",
+          "result": "",
+          "option": "6",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "label": "المنتجات في الصف — التصنيفات والبحث (جوال)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "عدد المنتجات في الصف على الجوال في صفحات التصنيفات والبحث.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-m-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-m-1-panel.webp",
+          "result": "",
+          "option": "1",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-listing-cols-m-2-panel.webp",
+          "result": "",
+          "option": "2",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "label": "نسبة الخصم بجانب السعر",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يظهر نسبة الخصم (مثل ‎-20%‎) بجانب السعر على بطاقة المنتج.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-off-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "المبلغ الموفّر تحت السعر",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يظهر المبلغ الذي يوفّره العميل تحت السعر حين يكون المنتج مخفّضًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-card-save-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صور المنتجات النافدة بالأبيض والأسود",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يعرض صور المنتجات النافدة بالأبيض والأسود لتمييزها عن المتوفرة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-oos-dim-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إخفاء التقييم",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يخفي نجوم التقييم من بطاقات المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-hide-rating-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "زر المفضلة",
+      "type": "قائمة منسدلة",
+      "default": "ظاهر عند التأشير",
+      "what": "يشمل كل أقسام المتجر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-wishlist-btn-show-panel.webp",
+          "result": "",
+          "option": "ظاهر عند التأشير",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-wishlist-btn-hide-m-panel.webp",
+          "result": "",
+          "option": "مخفي على الجوال",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-wishlist-btn-hide-panel.webp",
+          "result": "",
+          "option": "مخفي",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ظاهر عند التأشير",
+        "مخفي على الجوال",
+        "مخفي"
+      ]
+    },
+    {
+      "label": "زر العرض السريع",
+      "type": "قائمة منسدلة",
+      "default": "ظاهر عند التأشير",
+      "what": "يظهر زر العرض السريع على البطاقة لفتح المنتج في نافذة دون مغادرة الصفحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-qv-btn-show-panel.webp",
+          "result": "",
+          "option": "ظاهر عند التأشير",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-qv-btn-hide-m-panel.webp",
+          "result": "",
+          "option": "مخفي على الجوال",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-qv-btn-hide-panel.webp",
+          "result": "",
+          "option": "مخفي",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ظاهر عند التأشير",
+        "مخفي على الجوال",
+        "مخفي"
+      ]
+    },
+    {
+      "label": "تصغير نصوص البطاقة على الجوال",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "نص أصغر ومسافات أقل على الجوال. غير أسلوب البطاقة «مدمج».",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-10-product-image-ratio-cml-m-compact-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

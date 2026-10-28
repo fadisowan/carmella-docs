@@ -1,0 +1,212 @@
+{
+  "kind": "settings",
+  "title": "تخصيص عناصر شريط المميزات أربع مزايا: أيقونة وعنوان ووصف لكلٍّ",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "أيقونة الميزة الأولى",
+      "type": "نص",
+      "default": "sicon-shipping-fast",
+      "what": "مثال: sicon-shipping-fast / sicon-rotate / sicon-gold-badge / sicon-phone / sicon-shield-check / sicon-gift / sicon-star / sicon-clock",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature1-icon-panel.webp",
+          "result": "",
+          "option": "أيقونة الميزة الأولى",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عنوان الميزة الأولى",
+      "type": "نص",
+      "default": "الشحن والتوصيل",
+      "what": "سطر الميزة الرئيسي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature1-title-panel.webp",
+          "result": "",
+          "option": "عنوان الميزة الأولى",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف الميزة الأولى",
+      "type": "نص",
+      "default": "التفاصيل في سياسة المتجر",
+      "what": "سطر توضيحي أصغر تحت العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature1-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف الميزة الأولى",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أيقونة الميزة الثانية",
+      "type": "نص",
+      "default": "sicon-rotate",
+      "what": "اسم أيقونة سلة (sicon-…).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature2-icon-panel.webp",
+          "result": "",
+          "option": "أيقونة الميزة الثانية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عنوان الميزة الثانية",
+      "type": "نص",
+      "default": "الإرجاع والاستبدال",
+      "what": "سطر الميزة الرئيسي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature2-title-panel.webp",
+          "result": "",
+          "option": "عنوان الميزة الثانية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف الميزة الثانية",
+      "type": "نص",
+      "default": "حسب سياسة المتجر",
+      "what": "سطر توضيحي أصغر تحت العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature2-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف الميزة الثانية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أيقونة الميزة الثالثة",
+      "type": "نص",
+      "default": "sicon-gold-badge",
+      "what": "اسم أيقونة سلة (sicon-…).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature3-icon-panel.webp",
+          "result": "",
+          "option": "أيقونة الميزة الثالثة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عنوان الميزة الثالثة",
+      "type": "نص",
+      "default": "تشكيلة مختارة",
+      "what": "سطر الميزة الرئيسي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature3-title-panel.webp",
+          "result": "",
+          "option": "عنوان الميزة الثالثة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف الميزة الثالثة",
+      "type": "نص",
+      "default": "قطع منتقاة بعناية",
+      "what": "سطر توضيحي أصغر تحت العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature3-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف الميزة الثالثة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أيقونة الميزة الرابعة",
+      "type": "نص",
+      "default": "sicon-phone",
+      "what": "اسم أيقونة سلة (sicon-…).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature4-icon-panel.webp",
+          "result": "",
+          "option": "أيقونة الميزة الرابعة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عنوان الميزة الرابعة",
+      "type": "نص",
+      "default": "خدمة العملاء",
+      "what": "سطر الميزة الرئيسي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature4-title-panel.webp",
+          "result": "",
+          "option": "عنوان الميزة الرابعة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف الميزة الرابعة",
+      "type": "نص",
+      "default": "تواصل معنا لأي استفسار",
+      "what": "سطر توضيحي أصغر تحت العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-15-footer-feature1-icon-footer-feature4-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف الميزة الرابعة",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

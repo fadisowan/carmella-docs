@@ -1,0 +1,202 @@
+{
+  "kind": "section",
+  "title": "الماركات التجارية",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "تصفح من خلال العلامات التجارية",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الماركات التجارية",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "العلامات التجارية المعروضة، كل منها بشعارها ويفتح صفحتها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-brands-panel.webp",
+          "result": "",
+          "option": "الماركات التجارية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-align-right-panel.webp",
+          "result": "",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/06-brands-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/06-brands-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "تمرير تلقائي مستمر (شريط متحرك)",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يحرك العناصر باستمرار مثل شريط متحرك بدل التمرير اليدوي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-auto-scroll-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "خلفية القسم",
+      "type": "قائمة منسدلة",
+      "default": "بدون خلفية",
+      "what": "خلفية القسم: بلا خلفية، أو لون سطح، أو لون ناعم، أو لون تختاره.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-background-style-plain-panel.webp",
+          "result": "",
+          "option": "بدون خلفية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/06-brands-background-style-panel-panel.webp",
+          "result": "",
+          "option": "بخلفية",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بدون خلفية",
+        "بخلفية"
+      ]
+    },
+    {
+      "label": "حجم الشعار",
+      "type": "قائمة منسدلة",
+      "default": "متوسط",
+      "what": "حجم الشعارات داخل القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-cml-logo-size-sm-panel.webp",
+          "result": "",
+          "option": "صغير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/06-brands-cml-logo-size-md-panel.webp",
+          "result": "",
+          "option": "متوسط",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/06-brands-cml-logo-size-lg-panel.webp",
+          "result": "",
+          "option": "كبير",
+          "note": ""
+        }
+      ],
+      "options": [
+        "صغير",
+        "متوسط",
+        "كبير"
+      ]
+    },
+    {
+      "label": "ألوان الشعارات",
+      "type": "قائمة منسدلة",
+      "default": "ملوّنة (الافتراضي)",
+      "what": "ألوان الشعارات: بألوانها الأصلية أو رمادية موحّدة تتلوّن عند التأشير.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-cml-logo-tone-theme-panel.webp",
+          "result": "",
+          "option": "ملوّنة (الافتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/06-brands-cml-logo-tone-gray-panel.webp",
+          "result": "",
+          "option": "أبيض وأسود",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ملوّنة (الافتراضي)",
+        "أبيض وأسود"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--brands",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/06-brands-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

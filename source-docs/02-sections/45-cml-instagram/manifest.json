@@ -1,0 +1,209 @@
+{
+  "kind": "section",
+  "title": "كارميلا · معرض إنستغرام",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/45-cml-instagram-desktop.webp",
+  "mobile": "../../images/45-cml-instagram-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم",
+      "type": "نص",
+      "default": "تابعنا على إنستغرام",
+      "what": "عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف القسم",
+      "type": "نص طويل",
+      "default": "لقطات من عملائنا ومن كواليس المتجر.",
+      "what": "وصف قصير تحت عنوان القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-section-description-panel.webp",
+          "result": "",
+          "option": "وصف القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "معرّف إنستغرام (@)",
+      "type": "نص",
+      "default": "@sallaapp",
+      "what": "اسم حساب إنستغرام الذي يظهر ويفتحه الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-handle-panel.webp",
+          "result": "",
+          "option": "معرّف إنستغرام (@)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط إنستغرام (اختياري)",
+      "type": "نص",
+      "default": "https://www.instagram.com/sallaapp",
+      "what": "اتركه فارغاً ليُبنى تلقائياً من المعرّف.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-handle-url-panel.webp",
+          "result": "",
+          "option": "رابط إنستغرام (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصور",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-items-panel.webp",
+          "result": "",
+          "option": "الصور",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الصورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة المعروضة في هذا العنصر."
+        },
+        {
+          "label": "التعليق",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "التعليق الذي يظهر عند التأشير على الصورة."
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "الصفحة التي يفتحها الضغط على العنصر."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة عنوان القسم ووصفه (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-align-right-panel.webp",
+          "result": "../../images/45-cml-instagram-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/45-cml-instagram-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/45-cml-instagram-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "عدد الأعمدة",
+      "type": "قائمة منسدلة",
+      "default": "4",
+      "what": "عدد الأعمدة التي تتوزع عليها العناصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-columns-3-panel.webp",
+          "result": "",
+          "option": "3",
+          "note": ""
+        },
+        {
+          "panel": "../../images/45-cml-instagram-columns-4-panel.webp",
+          "result": "../../images/45-cml-instagram-columns-4-result.webp",
+          "option": "4",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/45-cml-instagram-columns-5-panel.webp",
+          "result": "",
+          "option": "5",
+          "note": ""
+        },
+        {
+          "panel": "../../images/45-cml-instagram-columns-6-panel.webp",
+          "result": "",
+          "option": "6",
+          "note": ""
+        }
+      ],
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-instagram",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/45-cml-instagram-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

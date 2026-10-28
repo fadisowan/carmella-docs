@@ -1,0 +1,215 @@
+{
+  "kind": "section",
+  "title": "تسوّق من الصورة (نقاط)",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/09-hotspot-shop-look-desktop.webp",
+  "mobile": "../../images/09-hotspot-shop-look-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "نص علوي صغير",
+      "type": "نص",
+      "default": "تسوّق الإطلالة",
+      "what": "كلمة صغيرة فوق العنوان (مثل «جديد» أو «موسم الصيف») تلفت الانتباه قبل العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-eyebrow-panel.webp",
+          "result": "",
+          "option": "نص علوي صغير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "الإطلالة الكاملة",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الوصف",
+      "type": "نص طويل",
+      "default": "اكتشف القطع المكوّنة لهذه الإطلالة واطلبها مباشرة من الصورة.",
+      "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-description-panel.webp",
+          "result": "",
+          "option": "الوصف",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة الإطلالة",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "المقاس المناسب 1000×1200 بكسل",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-image-panel.webp",
+          "result": "",
+          "option": "صورة الإطلالة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة الجوال (اختياري)",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "صورة خاصة بالجوال؛ إن تُركت فارغة تُستخدم الصورة الرئيسية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-mobile-image-panel.webp",
+          "result": "",
+          "option": "صورة الجوال (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "المنتجات والنقاط",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-items-panel.webp",
+          "result": "",
+          "option": "المنتجات والنقاط",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "صورة المنتج",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "صورة المنتج التي تظهر عند فتح النقطة."
+        },
+        {
+          "label": "اسم المنتج",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "اسم المنتج الذي يظهر عند فتح النقطة."
+        },
+        {
+          "label": "السعر (نص)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "السعر كما تريد كتابته عند فتح النقطة."
+        },
+        {
+          "label": "معرّف المنتج (للإضافة للسلة)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "اكتب معرّف المنتج الرقمي من سلة لتفعيل زر الإضافة للسلة. اتركه فارغاً ليتحوّل الزر إلى رابط المنتج."
+        },
+        {
+          "label": "رابط المنتج",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة... أو الصق رابطاً خارجياً."
+        },
+        {
+          "label": "الموضع الأفقي %",
+          "type": "رقم",
+          "default": "فارغ",
+          "what": "اتركه فارغاً ليتم توزيع النقاط تلقائياً على الصورة، أو حدّد نسبة من 0 إلى 100. تُقاس من الحافة اليسرى للصورة."
+        },
+        {
+          "label": "الموضع العمودي %",
+          "type": "رقم",
+          "default": "فارغ",
+          "what": "اتركه فارغاً ليتم توزيع النقاط تلقائياً على الصورة، أو حدّد نسبة من 0 إلى 100."
+        },
+        {
+          "label": "رقم/تسمية النقطة",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "الرقم أو الحرف المكتوب داخل النقطة فوق الصورة."
+        }
+      ]
+    },
+    {
+      "label": "لون خلفية القسم",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا للّون الافتراضي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-background-color-panel.webp",
+          "result": "",
+          "option": "لون خلفية القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون النص",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا للّون الافتراضي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-text-color-panel.webp",
+          "result": "",
+          "option": "لون النص",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--hotspot-shop-look",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/09-hotspot-shop-look-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

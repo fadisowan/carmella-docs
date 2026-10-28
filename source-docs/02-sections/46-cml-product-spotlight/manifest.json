@@ -1,0 +1,155 @@
+{
+  "kind": "section",
+  "title": "منتج بالتفصيل",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/46-cml-product-spotlight-desktop.webp",
+  "mobile": "../../images/46-cml-product-spotlight-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "المنتج",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر منتجًا واحدًا ليُعرض بالتفصيل في هذا القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/46-cml-product-spotlight-product-panel.webp",
+          "result": "",
+          "option": "المنتج",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مزايا المنتج",
+      "type": "عناصر متكررة",
+      "default": "فارغ",
+      "what": "حتى ثلاث مزايا قصيرة تظهر فوق زر الشراء.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/46-cml-product-spotlight-features-panel.webp",
+          "result": "",
+          "option": "مزايا المنتج",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الأيقونة",
+          "type": "أيقونة",
+          "default": "فارغ",
+          "what": "اتركها فارغة لعلامة صح."
+        },
+        {
+          "label": "نص الميزة",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المعروض في العنصر."
+        }
+      ]
+    },
+    {
+      "label": "موضع الصورة",
+      "type": "قائمة منسدلة",
+      "default": "الصورة في البداية",
+      "what": "في العربية يبدأ العمود الأول من اليمين تلقائيًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/46-cml-product-spotlight-layout-image-start-panel.webp",
+          "result": "../../images/46-cml-product-spotlight-layout-image-start-result.webp",
+          "option": "الصورة في البداية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/46-cml-product-spotlight-layout-image-end-panel.webp",
+          "result": "",
+          "option": "الصورة في النهاية",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الصورة في البداية",
+        "الصورة في النهاية"
+      ]
+    },
+    {
+      "label": "إظهار الصور المصغّرة",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "تظهر فقط إذا كان للمنتج أكثر من صورة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/46-cml-product-spotlight-show-thumbs-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار خيارات المنتج",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "معطّل افتراضيًا لإبقاء القسم بسيطًا. إذا كان للمنتج خيارات وتركته معطّلًا، يتحوّل الزر إلى «اختر الخيارات» ويقود لصفحة المنتج.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/46-cml-product-spotlight-show-options-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار محدّد الكمية",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر محدد الكمية قبل الإضافة للسلة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/46-cml-product-spotlight-show-qty-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-product-spotlight",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/46-cml-product-spotlight-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

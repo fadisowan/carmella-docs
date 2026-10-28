@@ -1,0 +1,492 @@
+{
+  "kind": "section",
+  "title": "كارميلا · شبكة المنتجات التحريرية",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/49-cml-editorial-masonry-desktop.webp",
+  "mobile": "../../images/49-cml-editorial-masonry-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "مختارات تحريرية",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان الفرعي",
+      "type": "نص",
+      "default": "قطع مختارة بعناية من تشكيلتنا",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-subtitle-panel.webp",
+          "result": "",
+          "option": "العنوان الفرعي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار رابط عرض جميع المنتجات",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر رابط «عرض جميع المنتجات».",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-all-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص زر عرض جميع المنتجات",
+      "type": "نص",
+      "default": "عرض جميع المنتجات",
+      "what": "النص المكتوب على زر عرض جميع المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-all-text-panel.webp",
+          "result": "",
+          "option": "نص زر عرض جميع المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط زر عرض جميع المنتجات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "الصفحة التي يفتحها زر عرض جميع المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-all-url-panel.webp",
+          "result": "",
+          "option": "رابط زر عرض جميع المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مصدر المنتجات",
+      "type": "قائمة منسدلة",
+      "default": "الأحدث",
+      "what": "يحدد من أين تأتي منتجات القسم: أحدث المنتجات، أو تصنيفات محددة، أو علامات تجارية، أو منتجات تختارها يدويًا. الحقل المناسب يظهر بعد الاختيار.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-type-latest-panel.webp",
+          "result": "../../images/49-cml-editorial-masonry-source-type-latest-result.webp",
+          "option": "الأحدث",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-type-sales-panel.webp",
+          "result": "",
+          "option": "الأكثر مبيعاً",
+          "note": ""
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-type-offers-panel.webp",
+          "result": "",
+          "option": "العروض والتخفيضات",
+          "note": ""
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-type-categories-panel.webp",
+          "result": "",
+          "option": "تصنيف محدد",
+          "note": ""
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-type-brands-panel.webp",
+          "result": "",
+          "option": "علامة تجارية",
+          "note": ""
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-type-selected-panel.webp",
+          "result": "",
+          "option": "منتجات محددة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الأحدث",
+        "الأكثر مبيعاً",
+        "العروض والتخفيضات",
+        "تصنيف محدد",
+        "علامة تجارية",
+        "منتجات محددة"
+      ]
+    },
+    {
+      "label": "اختر التصنيفات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "التصنيفات التي تُجلب منها المنتجات؛ يظهر حين يكون المصدر «تصنيفات».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = تصنيف محدد",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-categories-panel.webp",
+          "result": "",
+          "option": "اختر التصنيفات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "اختر العلامات التجارية",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "العلامات التجارية التي تُجلب منها المنتجات؛ يظهر حين يكون المصدر «علامات تجارية».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = علامة تجارية",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-brands-panel.webp",
+          "result": "",
+          "option": "اختر العلامات التجارية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "اختر المنتجات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "المنتجات التي تختارها بنفسك لتظهر في القسم بالترتيب الذي تحدده؛ يظهر حين يكون المصدر «منتجات محددة».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = منتجات محددة",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-source-products-panel.webp",
+          "result": "",
+          "option": "اختر المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عدد المنتجات",
+      "type": "رقم",
+      "default": "8",
+      "what": "من 6 إلى 8.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-limit-panel.webp",
+          "result": "",
+          "option": "عدد المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار العنوان",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر عنوان القسم أو يخفيه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-title-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار العنوان الفرعي",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر العنوان الفرعي أو يخفيه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-subtitle-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار السعر",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر سعر المنتج على البطاقة أو يخفيه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-price-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار السعر قبل الخصم",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر السعر الأصلي مشطوبًا بجانب سعر الخصم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-regular-price-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار شارة المنتج",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر شارة المنتج (جديد، خصم، نفد…) على البطاقة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-badge-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار زر المفضلة",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر زر المفضلة على البطاقات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-wishlist-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار زر العرض السريع",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر زر العرض السريع لرؤية المنتج دون مغادرة الصفحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-quick-view-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار زر الإضافة للسلة",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر زر الإضافة للسلة على البطاقة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-add-to-cart-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار ترقيم المنتجات (01، 02…)",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يرقّم المنتجات (01، 02…) بجانب كل بطاقة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-show-index-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "حجم الفراغات بين البطاقات",
+      "type": "قائمة منسدلة",
+      "default": "متوسطة",
+      "what": "المسافة بين البطاقات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-gap-tight-panel.webp",
+          "result": "",
+          "option": "ضيقة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-gap-medium-panel.webp",
+          "result": "../../images/49-cml-editorial-masonry-gap-medium-result.webp",
+          "option": "متوسطة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-gap-wide-panel.webp",
+          "result": "",
+          "option": "واسعة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ضيقة",
+        "متوسطة",
+        "واسعة"
+      ]
+    },
+    {
+      "label": "ارتفاع التكوين",
+      "type": "قائمة منسدلة",
+      "default": "افتراضي",
+      "what": "على سطح المكتب؛ على الجوال يتناسب مع عرض الشاشة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-height-low-panel.webp",
+          "result": "",
+          "option": "منخفض",
+          "note": ""
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-height-standard-panel.webp",
+          "result": "../../images/49-cml-editorial-masonry-height-standard-result.webp",
+          "option": "افتراضي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/49-cml-editorial-masonry-height-tall-panel.webp",
+          "result": "",
+          "option": "مرتفع",
+          "note": ""
+        }
+      ],
+      "options": [
+        "منخفض",
+        "افتراضي",
+        "مرتفع"
+      ]
+    },
+    {
+      "label": "لون خلفية القسم",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا للّون الافتراضي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-background-color-panel.webp",
+          "result": "",
+          "option": "لون خلفية القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون نص العنوان",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا للّون الافتراضي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-text-color-panel.webp",
+          "result": "",
+          "option": "لون نص العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-editorial-masonry",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/49-cml-editorial-masonry-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

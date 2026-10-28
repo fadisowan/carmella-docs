@@ -1,0 +1,212 @@
+{
+  "kind": "section",
+  "title": "شعارات العملاء مخصص",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/12-press-logos-desktop.webp",
+  "mobile": "../../images/12-press-logos-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "علامات تجارية",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي تحت العنوان (اختياري)",
+      "type": "نص",
+      "default": "مختارات",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف فرعي تحت العنوان (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الشعارات",
+      "type": "عناصر متكررة",
+      "default": "فارغ",
+      "what": "قائمة الشعارات المعروضة، لكل شعار صورته ورابطه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-logos-panel.webp",
+          "result": "",
+          "option": "الشعارات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الشعار",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "يفضّل شعار أحادي اللون"
+        },
+        {
+          "label": "اسم الشريك",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "يُقرأ لقارئ الشاشة بدل الشعار. اتركه فارغاً لاستخدام «شعار شريك»."
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر تصنيفًا أو ماركة من المتجر، أو ضع رابطًا خارجيًا."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-align-right-panel.webp",
+          "result": "../../images/12-press-logos-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/12-press-logos-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/12-press-logos-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "تمرير تلقائي مستمر (شريط متحرك)",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يحرك العناصر باستمرار مثل شريط متحرك بدل التمرير اليدوي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-auto-scroll-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "حجم الشعار",
+      "type": "قائمة منسدلة",
+      "default": "متوسط",
+      "what": "حجم الشعارات داخل القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-cml-logo-size-sm-panel.webp",
+          "result": "../../images/12-press-logos-cml-logo-size-sm-result.webp",
+          "option": "صغير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/12-press-logos-cml-logo-size-md-panel.webp",
+          "result": "../../images/12-press-logos-cml-logo-size-md-result.webp",
+          "option": "متوسط",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/12-press-logos-cml-logo-size-lg-panel.webp",
+          "result": "../../images/12-press-logos-cml-logo-size-lg-result.webp",
+          "option": "كبير",
+          "note": ""
+        }
+      ],
+      "options": [
+        "صغير",
+        "متوسط",
+        "كبير"
+      ]
+    },
+    {
+      "label": "ألوان الشعارات",
+      "type": "قائمة منسدلة",
+      "default": "أبيض وأسود (الافتراضي)",
+      "what": "ألوان الشعارات: بألوانها الأصلية أو رمادية موحّدة تتلوّن عند التأشير.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-cml-logo-tone-theme-panel.webp",
+          "result": "../../images/12-press-logos-cml-logo-tone-theme-result.webp",
+          "option": "أبيض وأسود (الافتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/12-press-logos-cml-logo-tone-color-panel.webp",
+          "result": "../../images/12-press-logos-cml-logo-tone-color-result.webp",
+          "option": "ملوّنة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "أبيض وأسود (الافتراضي)",
+        "ملوّنة"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--press-logos",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/12-press-logos-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

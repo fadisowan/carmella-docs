@@ -1,0 +1,148 @@
+{
+  "kind": "section",
+  "title": "منتجات متحركة مع خلفية",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان رئيسي",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/03-slider-products-with-header-title-panel.webp",
+          "result": "",
+          "option": "عنوان رئيسي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص توضيحي",
+      "type": "نص طويل",
+      "default": "فارغ",
+      "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/03-slider-products-with-header-description-panel.webp",
+          "result": "",
+          "option": "نص توضيحي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة الخلفية",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/form-builder/D7bG3pgSit43TheOejBOZV7LIfG1y1Cj0hWLmgIh.jpg",
+      "what": "* المقاس المناسب للصورة هو 1233×500 بكسل",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/03-slider-products-with-header-background-panel.webp",
+          "result": "",
+          "option": "صورة الخلفية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط عرض الكل",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "عند إختيار رابط فارغ سيتم إخفاء زر 'عرض الكل'",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/03-slider-products-with-header-display-all-url-panel.webp",
+          "result": "",
+          "option": "رابط عرض الكل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "منتجات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "المنتجات المعروضة في القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/03-slider-products-with-header-products-panel.webp",
+          "result": "",
+          "option": "منتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/03-slider-products-with-header-align-right-panel.webp",
+          "result": "",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/03-slider-products-with-header-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/03-slider-products-with-header-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--slider-products-with-header",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/03-slider-products-with-header-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

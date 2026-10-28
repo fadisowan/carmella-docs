@@ -1,0 +1,163 @@
+{
+  "kind": "section",
+  "title": "واجهة التصنيفات",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/14-category-showcase-desktop.webp",
+  "mobile": "../../images/14-category-showcase-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "تصفّح أقسامنا",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/14-category-showcase-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي تحت العنوان (اختياري)",
+      "type": "نص",
+      "default": "تسوّق حسب الفئة",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/14-category-showcase-subtitle-panel.webp",
+          "result": "",
+          "option": "وصف فرعي تحت العنوان (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "بطاقات التصنيفات",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/14-category-showcase-items-panel.webp",
+          "result": "",
+          "option": "بطاقات التصنيفات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الصورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "* المقاس المناسب 800×800 بكسل"
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "نص فرعي",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا."
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر تصنيفًا أو ماركة من المتجر، أو ضع رابطًا خارجيًا."
+        },
+        {
+          "label": "بطاقة عريضة",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يجعل العنصر يأخذ خليتين بالعرض ليبرز بين الباقي."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/14-category-showcase-align-right-panel.webp",
+          "result": "../../images/14-category-showcase-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/14-category-showcase-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/14-category-showcase-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "صور بالأبيض والأسود",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "تتلوّن عند مرور الماوس، وتبقى ملوّنة على الجوال.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/14-category-showcase-cml-gray-panel.webp",
+          "result": "../../images/14-category-showcase-cml-gray-on-result.webp",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--category-showcase",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/14-category-showcase-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

@@ -1,0 +1,150 @@
+{
+  "kind": "section",
+  "title": "كارميلا | قصة ثابتة مع السكرول",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/19-sticky-story-desktop.webp",
+  "mobile": "../../images/19-sticky-story-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "قصتنا",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/19-sticky-story-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الوصف",
+      "type": "نص طويل",
+      "default": "رحلة العلامة خطوة بخطوة.",
+      "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/19-sticky-story-description-panel.webp",
+          "result": "",
+          "option": "الوصف",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصورة الثابتة",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "الصورة المعروضة في هذا العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/19-sticky-story-image-panel.webp",
+          "result": "",
+          "option": "الصورة الثابتة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الخطوات",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/19-sticky-story-items-panel.webp",
+          "result": "",
+          "option": "الخطوات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الرقم",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "الرقم الكبير الظاهر مع العنصر (مثل 01 أو +500)."
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "الوصف",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة."
+        },
+        {
+          "label": "صورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة المعروضة في هذا العنصر."
+        }
+      ]
+    },
+    {
+      "label": "نوع العنصر الثابت",
+      "type": "قائمة منسدلة",
+      "default": "صورة",
+      "what": "العنصر الذي يبقى ثابتًا أثناء تمرير البطاقات فوقه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/19-sticky-story-pinned-type-image-panel.webp",
+          "result": "../../images/19-sticky-story-pinned-type-image-result.webp",
+          "option": "صورة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/19-sticky-story-pinned-type-title-panel.webp",
+          "result": "",
+          "option": "عنوان",
+          "note": ""
+        }
+      ],
+      "options": [
+        "صورة",
+        "عنوان"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--sticky-story",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/19-sticky-story-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

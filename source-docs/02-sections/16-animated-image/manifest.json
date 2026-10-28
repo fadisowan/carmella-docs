@@ -1,0 +1,356 @@
+{
+  "kind": "section",
+  "title": "كارميلا | صورة متحركة",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/16-animated-image-desktop.webp",
+  "mobile": "../../images/16-animated-image-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "لحظة فاخرة",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الوصف",
+      "type": "نص طويل",
+      "default": "قطع مختارة بعناية لتكمل إطلالتك في كل مناسبة.",
+      "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-description-panel.webp",
+          "result": "",
+          "option": "الوصف",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصورة",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "الصورة المعروضة في هذا العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-image-panel.webp",
+          "result": "",
+          "option": "الصورة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الزر",
+      "type": "نص",
+      "default": "اكتشف المزيد",
+      "what": "النص المكتوب على الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-button-text-panel.webp",
+          "result": "",
+          "option": "نص الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط الزر",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية... أو الصق رابطاً خارجياً.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-button-url-panel.webp",
+          "result": "",
+          "option": "رابط الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نوع الحركة",
+      "type": "قائمة منسدلة",
+      "default": "كشف تدريجي",
+      "what": "نوع حركة ظهور العناصر عند التمرير.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-animation-type-reveal-panel.webp",
+          "result": "../../images/16-animated-image-animation-type-reveal-result.webp",
+          "option": "كشف تدريجي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/16-animated-image-animation-type-zoom-panel.webp",
+          "result": "",
+          "option": "تكبير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/16-animated-image-animation-type-parallax-panel.webp",
+          "result": "",
+          "option": "عمق مع التمرير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/16-animated-image-animation-type-stretch-panel.webp",
+          "result": "",
+          "option": "تمدّد",
+          "note": ""
+        }
+      ],
+      "options": [
+        "كشف تدريجي",
+        "تكبير",
+        "عمق مع التمرير",
+        "تمدّد"
+      ]
+    },
+    {
+      "label": "تأثير ظهور النص",
+      "type": "قائمة منسدلة",
+      "default": "ظهور من الأسفل (افتراضي)",
+      "what": "طريقة ظهور النص عند وصول الزائر للقسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-text-anim-fade-up-panel.webp",
+          "result": "../../images/16-animated-image-text-anim-fade-up-result.webp",
+          "option": "ظهور من الأسفل (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/16-animated-image-text-anim-clip-panel.webp",
+          "result": "",
+          "option": "كاشف مقطوع",
+          "note": ""
+        },
+        {
+          "panel": "../../images/16-animated-image-text-anim-drift-panel.webp",
+          "result": "",
+          "option": "انزلاق جانبي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/16-animated-image-text-anim-typewriter-panel.webp",
+          "result": "",
+          "option": "ظهور كلمة كلمة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ظهور من الأسفل (افتراضي)",
+        "كاشف مقطوع",
+        "انزلاق جانبي",
+        "ظهور كلمة كلمة"
+      ]
+    },
+    {
+      "label": "الاتجاه",
+      "type": "قائمة منسدلة",
+      "default": "من الأسفل",
+      "what": "اتجاه الحركة: مع اتجاه القراءة أو عكسه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-direction-top-panel.webp",
+          "result": "",
+          "option": "من الأعلى",
+          "note": ""
+        },
+        {
+          "panel": "../../images/16-animated-image-direction-bottom-panel.webp",
+          "result": "../../images/16-animated-image-direction-bottom-result.webp",
+          "option": "من الأسفل",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/16-animated-image-direction-left-panel.webp",
+          "result": "",
+          "option": "من اليسار",
+          "note": ""
+        },
+        {
+          "panel": "../../images/16-animated-image-direction-right-panel.webp",
+          "result": "",
+          "option": "من اليمين",
+          "note": ""
+        }
+      ],
+      "options": [
+        "من الأعلى",
+        "من الأسفل",
+        "من اليسار",
+        "من اليمين"
+      ]
+    },
+    {
+      "label": "السرعة",
+      "type": "قائمة منسدلة",
+      "default": "عادي",
+      "what": "سرعة الحركة: الأبطأ أهدأ للقراءة، والأسرع أكثر حيوية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-speed-slow-panel.webp",
+          "result": "",
+          "option": "بطيء",
+          "note": ""
+        },
+        {
+          "panel": "../../images/16-animated-image-speed-normal-panel.webp",
+          "result": "../../images/16-animated-image-speed-normal-result.webp",
+          "option": "عادي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/16-animated-image-speed-fast-panel.webp",
+          "result": "",
+          "option": "سريع",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بطيء",
+        "عادي",
+        "سريع"
+      ]
+    },
+    {
+      "label": "تفعيل الحركة على الجوال",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يشغّل الحركة على الجوال أيضًا؛ أطفئه لصفحة أخف على الأجهزة الضعيفة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-enable-on-mobile-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون الخلفية",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "لون خلفية القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-background-color-panel.webp",
+          "result": "",
+          "option": "لون الخلفية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "لون النص",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "لون النص فوق الخلفية أو الصورة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-text-color-panel.webp",
+          "result": "",
+          "option": "لون النص",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مسافة علوية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أعلى القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أعلى القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-top-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة علوية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مسافة سفلية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أسفل القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أسفل القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-bottom-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة سفلية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--animated-image",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/16-animated-image-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "section",
+  "title": "كارميلا · فيديو يوتيوب",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/22-youtube-desktop.webp",
+  "mobile": "../../images/22-youtube-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم (اختياري)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يظهر فوق الفيديو عند تعبئته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/22-youtube-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "معرّف فيديو يوتيوب",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "الجزء الأخير من رابط يوتيوب: youtube.com/watch?v=XXXXXXX",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/22-youtube-youtube-id-panel.webp",
+          "result": "",
+          "option": "معرّف فيديو يوتيوب",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة الغلاف (اختياري)",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "تظهر صورة غلاف مع زر تشغيل بدل تحميل الفيديو مباشرة. اتركها فارغة لعرض الفيديو مباشرة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/22-youtube-cover-image-panel.webp",
+          "result": "",
+          "option": "صورة الغلاف (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "فتح الفيديو في نافذة منبثقة",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "عند التفعيل يفتح الفيديو في نافذة منبثقة فوق الصفحة مع زر إغلاق. عند الإيقاف يعمل الفيديو داخل الإطار.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/22-youtube-open-in-popup-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "زوايا مدوّرة",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "مدوّرة بقطر الثيم افتراضيًّا؛ إطفاؤه يجعل إطار الفيديو حاد الزوايا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/22-youtube-rounded-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--youtube",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/22-youtube-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

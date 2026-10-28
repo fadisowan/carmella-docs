@@ -1,0 +1,76 @@
+{
+  "kind": "settings",
+  "title": "٩ · الحركة والتحميل مستوى الحركة وشاشة الافتتاح وزر الصعود",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "مستوى الحركة",
+      "type": "قائمة منسدلة",
+      "default": "كاملة (Full)",
+      "what": "كاملة: كل المؤثرات على سطح المكتب. خفيفة: بلا بارالاكس، وبلا تثبيت المقاطع أثناء التمرير، وبلا تقطيع النص (تراكم البطاقات يبقى — فهو تخطيط لا حركة). بلا حركة: يُلغى الزخرف كله بما فيه تراكم البطاقات، وتبقى كل الوظائف (التبويبات، قبل/بعد، النقاط، الشراء) تعمل. الجوال محدود بـ«خفيفة» تلقائيًا، وطلب النظام «تقليل الحركة» يتقدّم على هذا الإعداد دائمًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-17-motion-level-motion-level-full-panel.webp",
+          "result": "",
+          "option": "كاملة (Full)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-17-motion-level-motion-level-light-panel.webp",
+          "result": "",
+          "option": "خفيفة (Light)",
+          "note": ""
+        },
+        {
+          "panel": "../../images/settings-17-motion-level-motion-level-off-panel.webp",
+          "result": "",
+          "option": "بلا حركة (Off)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "كاملة (Full)",
+        "خفيفة (Light)",
+        "بلا حركة (Off)"
+      ]
+    },
+    {
+      "label": "إظهار شاشة التحميل الافتتاحية (Preloader)",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "غلاف بصري أنيق يظهر لثوانٍ أثناء تحميل المتجر ثم يختفي تلقائيًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-17-motion-level-enable-preloader-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار زر العودة للأعلى",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "زر عائم يظهر عند التمرير لأسفل ويعيد الزائر لأعلى الصفحة بسلاسة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-17-motion-level-enable-back-to-top-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

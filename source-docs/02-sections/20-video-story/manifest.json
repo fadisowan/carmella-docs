@@ -1,0 +1,248 @@
+{
+  "kind": "section",
+  "title": "كارميلا | قصص فيديو",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/20-video-story-desktop.webp",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم",
+      "type": "نص",
+      "default": "قصص فيديو",
+      "what": "عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/20-video-story-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الفيديوهات",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/20-video-story-items-panel.webp",
+          "result": "",
+          "option": "الفيديوهات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "رابط الفيديو",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "رابط الفيديو الذي يُشغَّل عند الضغط."
+        },
+        {
+          "label": "صورة الغلاف",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة التي تظهر قبل تشغيل الفيديو."
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "الكاتب / المصدر",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "اسم الكاتب أو المصدر تحت العنصر."
+        },
+        {
+          "label": "التاريخ",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "التاريخ الظاهر مع العنصر."
+        },
+        {
+          "label": "وصف فرعي (بديل للكاتب)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا."
+        },
+        {
+          "label": "وسم",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "كلمة صغيرة فوق العنوان تصنّف العنصر."
+        },
+        {
+          "label": "مدة الفيديو",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "تُحدَّث تلقائياً من الفيديو إن تُركت فارغة"
+        },
+        {
+          "label": "رابط بديل",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/20-video-story-align-right-panel.webp",
+          "result": "../../images/20-video-story-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/20-video-story-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/20-video-story-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "التخطيط",
+      "type": "قائمة منسدلة",
+      "default": "ستوري أفقي",
+      "what": "ترتيب عناصر القسم وطريقة توزيعها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/20-video-story-layout-stories-panel.webp",
+          "result": "../../images/20-video-story-layout-stories-result.webp",
+          "option": "ستوري أفقي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/20-video-story-layout-cards-panel.webp",
+          "result": "",
+          "option": "كروت",
+          "note": ""
+        },
+        {
+          "panel": "../../images/20-video-story-layout-featured-panel.webp",
+          "result": "",
+          "option": "مميز",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ستوري أفقي",
+        "كروت",
+        "مميز"
+      ]
+    },
+    {
+      "label": "أبعاد الفيديو",
+      "type": "قائمة منسدلة",
+      "default": "طولي",
+      "what": "أبعاد إطار الفيديو: طولي أو مربع أو عريض.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/20-video-story-cml-vs-ratio-portrait-panel.webp",
+          "result": "../../images/20-video-story-cml-vs-ratio-portrait-result.webp",
+          "option": "طولي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/20-video-story-cml-vs-ratio-square-panel.webp",
+          "result": "../../images/20-video-story-cml-vs-ratio-square-result.webp",
+          "option": "مربع",
+          "note": ""
+        },
+        {
+          "panel": "../../images/20-video-story-cml-vs-ratio-wide-panel.webp",
+          "result": "../../images/20-video-story-cml-vs-ratio-wide-result.webp",
+          "option": "عريض",
+          "note": ""
+        }
+      ],
+      "options": [
+        "طولي",
+        "مربع",
+        "عريض"
+      ]
+    },
+    {
+      "label": "التشغيل",
+      "type": "قائمة منسدلة",
+      "default": "عند الظهور",
+      "what": "«عند مرور الماوس» يوفّر بيانات الزائر، وعلى الجوال وفي البطاقات بلا غلاف يبقى التشغيل عند الظهور.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/20-video-story-cml-vs-play-view-panel.webp",
+          "result": "../../images/20-video-story-cml-vs-play-view-result.webp",
+          "option": "عند الظهور",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/20-video-story-cml-vs-play-hover-panel.webp",
+          "result": "",
+          "option": "عند مرور الماوس فقط",
+          "note": ""
+        }
+      ],
+      "options": [
+        "عند الظهور",
+        "عند مرور الماوس فقط"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--video-story",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/20-video-story-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

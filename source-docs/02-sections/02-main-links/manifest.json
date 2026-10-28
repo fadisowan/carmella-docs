@@ -1,0 +1,284 @@
+{
+  "kind": "section",
+  "title": "روابط سريعة",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عرض روابط التصنيفات",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يمكنك تحديد التصنيفات بدل العناصر الخاصة، مع امكانية عرض صورة التصنيف مع العنصر",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-show-cats-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "حدد التصنيفات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "التصنيفات التي تظهر في القسم، كل تصنيف بصورته واسمه ويفتح صفحته عند الضغط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«عرض روابط التصنيفات» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-categories-panel.webp",
+          "result": "",
+          "option": "حدد التصنيفات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "links",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "الروابط التي يعرضها القسم، لكل رابط نصه ووجهته وأيقونته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«عرض روابط التصنيفات» = مطفأ",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-links-panel.webp",
+          "result": "",
+          "option": "links",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "أيقونة الرابط",
+          "type": "أيقونة",
+          "default": "sicon-store2",
+          "what": "الأيقونة التي تظهر بجانب العنصر."
+        },
+        {
+          "label": "عنوان الرابط",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "الصفحة التي يفتحها الضغط على الزر أو العنصر."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-align-right-panel.webp",
+          "result": "",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/02-main-links-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/02-main-links-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "دمج مع العنصر السابق",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يلصق القسم بالقسم الذي فوقه بلا فراغ، ليبدوا قسمًا واحدًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-merge-with-top-component-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عرض أسهم التحرك",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر أسهم التنقل يمينًا ويسارًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-show-controls-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العدد في الصف (كمبيوتر)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "عدد العناصر في الصف الواحد على شاشة الكمبيوتر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-cml-per-row-d-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/02-main-links-cml-per-row-d-4-panel.webp",
+          "result": "",
+          "option": "4",
+          "note": ""
+        },
+        {
+          "panel": "../../images/02-main-links-cml-per-row-d-5-panel.webp",
+          "result": "",
+          "option": "5",
+          "note": ""
+        },
+        {
+          "panel": "../../images/02-main-links-cml-per-row-d-6-panel.webp",
+          "result": "",
+          "option": "6",
+          "note": ""
+        },
+        {
+          "panel": "../../images/02-main-links-cml-per-row-d-8-panel.webp",
+          "result": "",
+          "option": "8",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "4",
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "label": "العدد في الصف (جوال)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "عدد العناصر في الصف الواحد على الجوال.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-cml-per-row-m-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/02-main-links-cml-per-row-m-2-panel.webp",
+          "result": "",
+          "option": "2",
+          "note": ""
+        },
+        {
+          "panel": "../../images/02-main-links-cml-per-row-m-3-panel.webp",
+          "result": "",
+          "option": "3",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "label": "صور بالأبيض والأسود",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "تتلوّن عند مرور الماوس، وتبقى ملوّنة على الجوال.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-cml-gray-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--main-links",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/02-main-links-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

@@ -1,0 +1,304 @@
+{
+  "kind": "section",
+  "title": "كارميلا · فئات دائرية",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/35-circular-categories-desktop.webp",
+  "mobile": "../../images/35-circular-categories-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "تسوّق حسب الفئة",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي (اختياري)",
+      "type": "نص",
+      "default": "",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-sub-title-panel.webp",
+          "result": "",
+          "option": "وصف فرعي (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "التصنيفات (مصدر تلقائي للعدد)",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر تصنيفات ليتم عرضها مع عدد المنتجات تلقائياً. عند تركها فارغة تُستخدم العناصر اليدوية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-categories-panel.webp",
+          "result": "",
+          "option": "التصنيفات (مصدر تلقائي للعدد)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "items",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-items-panel.webp",
+          "result": "",
+          "option": "items",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "صورة الفئة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "* يُفضّل صورة مربعة 400×400 بكسل"
+        },
+        {
+          "label": "اسم الفئة",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "عدد المنتجات (نص اختياري)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "نص صغير اختياري تحت اسم التصنيف (مثل «24 منتج»)."
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-align-right-panel.webp",
+          "result": "../../images/35-circular-categories-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/35-circular-categories-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "العدد في الصف (كمبيوتر)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "عدد العناصر في الصف الواحد على شاشة الكمبيوتر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-d-auto-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-d-auto-result.webp",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-d-3-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-d-3-result.webp",
+          "option": "3",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-d-4-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-d-4-result.webp",
+          "option": "4",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-d-5-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-d-5-result.webp",
+          "option": "5",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-d-6-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-d-6-result.webp",
+          "option": "6",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-d-8-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-d-8-result.webp",
+          "option": "8",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "label": "العدد في الصف (جوال)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "عدد العناصر في الصف الواحد على الجوال.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-m-auto-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-m-auto-result.webp",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-m-2-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-m-2-result.webp",
+          "option": "2",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-m-3-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-m-3-result.webp",
+          "option": "3",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-per-row-m-4-panel.webp",
+          "result": "../../images/35-circular-categories-cml-per-row-m-4-result.webp",
+          "option": "4",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "label": "شكل الصورة",
+      "type": "قائمة منسدلة",
+      "default": "دائرة",
+      "what": "شكل إطار الصورة: دائري أو مربع أو مستدير الزوايا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-cml-img-shape-circle-panel.webp",
+          "result": "../../images/35-circular-categories-cml-img-shape-circle-result.webp",
+          "option": "دائرة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-img-shape-square-panel.webp",
+          "result": "../../images/35-circular-categories-cml-img-shape-square-result.webp",
+          "option": "مربع",
+          "note": ""
+        },
+        {
+          "panel": "../../images/35-circular-categories-cml-img-shape-portrait-panel.webp",
+          "result": "../../images/35-circular-categories-cml-img-shape-portrait-result.webp",
+          "option": "طولي",
+          "note": ""
+        }
+      ],
+      "options": [
+        "دائرة",
+        "مربع",
+        "طولي"
+      ]
+    },
+    {
+      "label": "صور بالأبيض والأسود",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "تتلوّن عند مرور الماوس، وتبقى ملوّنة على الجوال.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-cml-gray-panel.webp",
+          "result": "../../images/35-circular-categories-cml-gray-on-result.webp",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--circular-categories",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/35-circular-categories-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Carmelea (معاينة الثيم)"
+}

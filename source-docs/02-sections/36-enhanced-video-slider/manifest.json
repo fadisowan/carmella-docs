@@ -1,0 +1,245 @@
+{
+  "kind": "section",
+  "title": "فيديو متحرك (محسّن)",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "slides",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-slides-panel.webp",
+          "result": "",
+          "option": "slides",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "رابط الفيديو (يوتيوب أو فيميو)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "الصق رابط فيديو يوتيوب أو فيميو"
+        },
+        {
+          "label": "صورة بديلة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "تظهر خلف الفيديو وعند عدم تشغيله"
+        },
+        {
+          "label": "نص علوي صغير (Eyebrow)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "يظهر فوق العنوان بلون ذهبي"
+        },
+        {
+          "label": "عنوان رئيسي",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "نص إضافي",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة."
+        },
+        {
+          "label": "نص زر الإجراء (CTA)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر."
+        },
+        {
+          "label": "وجهة الزر",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية... أو الصق رابطاً خارجياً."
+        },
+        {
+          "label": "تأثير نص هذه الشريحة",
+          "type": "قائمة منسدلة",
+          "default": "افتراضي (حسب الإعداد العام)",
+          "what": "اتركه على (افتراضي) لاستخدام إعداد المكوّن العام."
+        },
+        {
+          "label": "إزالة طبقة التعتيم",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يزيل الطبقة الداكنة فوق الصورة؛ مناسب للصور الفاتحة التي تحمل نصًا داكنًا أو بلا نص."
+        }
+      ]
+    },
+    {
+      "label": "نوع تأثير النص (افتراضي لكل الشرائح)",
+      "type": "قائمة منسدلة",
+      "default": "ظهور من الأسفل (افتراضي)",
+      "what": "كيف تظهر نصوص الشرائح. يمكن تخصيص كل شريحة على حدة من إعداداتها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-text-anim-fade-up-panel.webp",
+          "result": "",
+          "option": "ظهور من الأسفل (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/36-enhanced-video-slider-text-anim-clip-panel.webp",
+          "result": "",
+          "option": "كاشف مقطوع",
+          "note": ""
+        },
+        {
+          "panel": "../../images/36-enhanced-video-slider-text-anim-drift-panel.webp",
+          "result": "",
+          "option": "انزلاق جانبي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/36-enhanced-video-slider-text-anim-typewriter-panel.webp",
+          "result": "",
+          "option": "ظهور كلمة كلمة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "ظهور من الأسفل (افتراضي)",
+        "كاشف مقطوع",
+        "انزلاق جانبي",
+        "ظهور كلمة كلمة"
+      ]
+    },
+    {
+      "label": "تنقّل تلقائي بين الشرائح",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "إطفاؤه يثبّت الشريحة حتى يسحب الزائر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-autoplay-slides-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نقاط التنقّل",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "مؤشرات الشرائح أسفل العرض.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-show-pagination-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "ألوان النصوص والزر",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم (افتراضي)",
+      "what": "حسب الثيم: العنوان أبيض فوق الصورة، والزر والسطر الصغير بلون أزرار المتجر. «العنوان بلون الثيم» يلوّن العنوان بلون الأزرار ويتغير معه تلقائيًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-cml-text-tone-theme-panel.webp",
+          "result": "",
+          "option": "حسب الثيم (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/36-enhanced-video-slider-cml-text-tone-accent-panel.webp",
+          "result": "",
+          "option": "العنوان بلون الثيم",
+          "note": ""
+        },
+        {
+          "panel": "../../images/36-enhanced-video-slider-cml-text-tone-custom-panel.webp",
+          "result": "",
+          "option": "ألوان أختارها",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم (افتراضي)",
+        "العنوان بلون الثيم",
+        "ألوان أختارها"
+      ]
+    },
+    {
+      "label": "↳ لون العنوان والوصف",
+      "type": "لون",
+      "default": "#ffffff",
+      "what": "الوصف يأخذ نفس اللون بشفافية خفيفة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان النصوص والزر» = ألوان أختارها",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-cml-text-color-panel.webp",
+          "result": "",
+          "option": "↳ لون العنوان والوصف",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون الزر والسطر الصغير",
+      "type": "لون",
+      "default": "#cda878",
+      "what": "لون نص الزر يُختار تلقائيًا ليبقى مقروءًا، واللون الداكن يُفتَّح فوق الصورة للسطر الصغير والزر المفرّغ.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان النصوص والزر» = ألوان أختارها",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-cml-btn-color-panel.webp",
+          "result": "",
+          "option": "↳ لون الزر والسطر الصغير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--enhanced-video-slider",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/36-enhanced-video-slider-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

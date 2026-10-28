@@ -1,0 +1,319 @@
+{
+  "kind": "section",
+  "title": "كارميلا · تبويبات علوية",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/33-products-tabs-desktop.webp",
+  "mobile": "../../images/33-products-tabs-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "تسوّق حسب القسم",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف فرعي (اختياري)",
+      "type": "نص",
+      "default": "",
+      "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-sub-title-panel.webp",
+          "result": "",
+          "option": "وصف فرعي (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط عرض الكل",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "وجهة زر «عرض الكل» أعلى القسم؛ اتركه فارغًا لإخفاء الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-display-all-url-panel.webp",
+          "result": "",
+          "option": "رابط عرض الكل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "التصنيفات (كل تصنيف يصبح تبويباً)",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "التصنيفات التي تظهر في القسم، كل تصنيف بصورته واسمه ويفتح صفحته عند الضغط.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-categories-panel.webp",
+          "result": "",
+          "option": "التصنيفات (كل تصنيف يصبح تبويباً)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عدد المنتجات لكل تبويب",
+      "type": "نص",
+      "default": "8",
+      "what": "أقصى عدد من العناصر يُعرض في القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-limit-panel.webp",
+          "result": "",
+          "option": "عدد المنتجات لكل تبويب",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-align-right-panel.webp",
+          "result": "../../images/33-products-tabs-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/33-products-tabs-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "أسلوب بطاقة المنتج عند التأشير",
+      "type": "قائمة منسدلة",
+      "default": "افتراضي",
+      "what": "يحدد مكان زر الإضافة: «افتراضي» زر ثابت أسفل البطاقة، و«شريط أدوات أفقي» أو «إضافة سريعة» يظهر الزر فوق الصورة عند التأشير بدل الزر الثابت.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-card-hover-default-panel.webp",
+          "result": "../../images/33-products-tabs-card-hover-default-result.webp",
+          "option": "افتراضي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/33-products-tabs-card-hover-reveal-bar-panel.webp",
+          "result": "",
+          "option": "شريط أدوات أفقي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-card-hover-quick-add-panel.webp",
+          "result": "",
+          "option": "إضافة سريعة (شريط ذهبي)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "افتراضي",
+        "شريط أدوات أفقي",
+        "إضافة سريعة (شريط ذهبي)"
+      ]
+    },
+    {
+      "label": "شكل البطاقات في هذا القسم",
+      "type": "قائمة منسدلة",
+      "default": "الافتراضي لهذا القسم",
+      "what": "الشكل يحدد مظهر البطاقة، و«أسلوب البطاقة عند التأشير» يحدد مكان زر الإضافة. يعملان معًا في كل التركيبات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-cml-card-style-section-panel.webp",
+          "result": "../../images/33-products-tabs-cml-card-style-section-result.webp",
+          "option": "الافتراضي لهذا القسم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-card-style-base-panel.webp",
+          "result": "",
+          "option": "أساسي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-card-style-explicit-panel.webp",
+          "result": "",
+          "option": "صريح: التصنيف وزر واضح",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-card-style-reveal-panel.webp",
+          "result": "",
+          "option": "التفاصيل عند التمرير",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-card-style-compact-panel.webp",
+          "result": "",
+          "option": "مدمج",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-card-style-ranked-panel.webp",
+          "result": "",
+          "option": "مع خط فاصل",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الافتراضي لهذا القسم",
+        "أساسي",
+        "صريح: التصنيف وزر واضح",
+        "التفاصيل عند التمرير",
+        "مدمج",
+        "مع خط فاصل"
+      ]
+    },
+    {
+      "label": "المنتجات في الصف (كمبيوتر)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "في الشبكة، وفي السلايدر عدد المنتجات الظاهرة معًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-d-auto-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-d-auto-result.webp",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-d-2-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-d-2-result.webp",
+          "option": "2",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-d-3-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-d-3-result.webp",
+          "option": "3",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-d-4-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-d-4-result.webp",
+          "option": "4",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-d-5-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-d-5-result.webp",
+          "option": "5",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "label": "المنتجات في الصف (جوال)",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي",
+      "what": "في الشبكة، وفي السلايدر عدد المنتجات الظاهرة معًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-m-auto-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-m-auto-result.webp",
+          "option": "تلقائي",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-m-1-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-m-1-result.webp",
+          "option": "1",
+          "note": ""
+        },
+        {
+          "panel": "../../images/33-products-tabs-cml-cols-m-2-panel.webp",
+          "result": "../../images/33-products-tabs-cml-cols-m-2-result.webp",
+          "option": "2",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--products-tabs",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/33-products-tabs-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

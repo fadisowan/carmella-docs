@@ -1,0 +1,330 @@
+{
+  "kind": "settings",
+  "title": "د · الشريط العلوي والهيدر والفوتر",
+  "intro": "",
+  "when": "",
+  "fields": [
+    {
+      "label": "خلفية الشريط العلوي (الإعلان)",
+      "type": "قائمة منسدلة",
+      "default": "حسب اللوحة (افتراضي)",
+      "what": "الشريط الرفيع أعلى الصفحة. لون النص يصير أبيض أو أسود تلقائيًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-announce-tone-theme-panel.webp",
+          "result": "",
+          "option": "حسب اللوحة (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-announce-tone-custom-panel.webp",
+          "result": "",
+          "option": "لون أختاره",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب اللوحة (افتراضي)",
+        "لون أختاره"
+      ]
+    },
+    {
+      "label": "↳ لون الشريط العلوي",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "يعمل مع «لون أختاره» في الحقل السابق، ويبقى نفسه في الفاتح والداكن.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الشريط العلوي (الإعلان)» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-announce-bg-panel.webp",
+          "result": "",
+          "option": "↳ لون الشريط العلوي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "خلفية الهيدر",
+      "type": "قائمة منسدلة",
+      "default": "حسب اللوحة (افتراضي)",
+      "what": "النص والأيقونات تتعدّل تلقائيًا، أو اختر لونها تحته. فوق السلايدر يظهر اللون شبه شفاف.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-tone-theme-panel.webp",
+          "result": "",
+          "option": "حسب اللوحة (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-tone-custom-panel.webp",
+          "result": "",
+          "option": "لون أختاره",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب اللوحة (افتراضي)",
+        "لون أختاره"
+      ]
+    },
+    {
+      "label": "↳ لون الهيدر",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "يعمل مع «لون أختاره» في الحقل السابق. يُستخدم في الفاتح والداكن، إلا إذا شغّلت «ألوان مختلفة للوضع الداكن» تحته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الهيدر» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-bg-panel.webp",
+          "result": "",
+          "option": "↳ لون الهيدر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون النص والأيقونات",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي (افتراضي)",
+      "what": "«تلقائي» يختار الأبيض أو الأسود حسب لون الهيدر. اختر «لون أختاره» لتحدده بنفسك.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الهيدر» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-ink-tone-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-ink-tone-custom-panel.webp",
+          "result": "",
+          "option": "لون أختاره",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي (افتراضي)",
+        "لون أختاره"
+      ]
+    },
+    {
+      "label": "↳ لون النص والأيقونات الذي تختاره",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "إذا لم يكن مقروءًا على لون الهيدر يرجع الثيم للون التلقائي حتى يبقى النص واضحًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الهيدر» = لون أختاره و «↳ لون النص والأيقونات» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-ink-panel.webp",
+          "result": "",
+          "option": "↳ لون النص والأيقونات الذي تختاره",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ ألوان مختلفة للوضع الداكن",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "عند التشغيل تختار لون الهيدر ولون النص والأيقونات للوضع الداكن، وتبقى الألوان أعلاه للفاتح.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الهيدر» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-dark-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون الهيدر (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا ليبقى اللون نفسه في الوضعين.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الهيدر» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-bg-dark-panel.webp",
+          "result": "",
+          "option": "↳ لون الهيدر (الداكن)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون النص والأيقونات (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا ليأخذ لون الفاتح، أو التلقائي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الهيدر» = لون أختاره و «↳ لون النص والأيقونات» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-header-ink-dark-panel.webp",
+          "result": "",
+          "option": "↳ لون النص والأيقونات (الداكن)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "خلفية الفوتر",
+      "type": "قائمة منسدلة",
+      "default": "حسب اللوحة وشكل الفوتر (افتراضي)",
+      "what": "النص والروابط تتعدّل تلقائيًا، أو اختر لونها تحته. الافتراضي يأخذ لون اللوحة بالشكل المختار في القسم ٧.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-tone-theme-panel.webp",
+          "result": "",
+          "option": "حسب اللوحة وشكل الفوتر (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-tone-custom-panel.webp",
+          "result": "",
+          "option": "لون أختاره",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب اللوحة وشكل الفوتر (افتراضي)",
+        "لون أختاره"
+      ]
+    },
+    {
+      "label": "↳ لون الفوتر",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "يعمل مع «لون أختاره» في الحقل السابق. يُستخدم في الفاتح والداكن، إلا إذا شغّلت «ألوان مختلفة للوضع الداكن» تحته.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الفوتر» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-bg-panel.webp",
+          "result": "",
+          "option": "↳ لون الفوتر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون النص والروابط",
+      "type": "قائمة منسدلة",
+      "default": "تلقائي (افتراضي)",
+      "what": "«تلقائي» يختار الأبيض أو الأسود حسب لون الفوتر. اختر «لون أختاره» لتحدده بنفسك.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الفوتر» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-ink-tone-auto-panel.webp",
+          "result": "",
+          "option": "تلقائي (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-ink-tone-custom-panel.webp",
+          "result": "",
+          "option": "لون أختاره",
+          "note": ""
+        }
+      ],
+      "options": [
+        "تلقائي (افتراضي)",
+        "لون أختاره"
+      ]
+    },
+    {
+      "label": "↳ لون النص والروابط الذي تختاره",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "إذا لم يكن مقروءًا على لون الفوتر يرجع الثيم للون التلقائي حتى يبقى النص واضحًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الفوتر» = لون أختاره و «↳ لون النص والروابط» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-ink-panel.webp",
+          "result": "",
+          "option": "↳ لون النص والروابط الذي تختاره",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ ألوان مختلفة للوضع الداكن",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "عند التشغيل تختار لون الفوتر ولون النص والروابط للوضع الداكن، وتبقى الألوان أعلاه للفاتح.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الفوتر» = لون أختاره",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-dark-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون الفوتر (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا ليبقى اللون نفسه في الوضعين.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الفوتر» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-bg-dark-panel.webp",
+          "result": "",
+          "option": "↳ لون الفوتر (الداكن)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون النص والروابط (الداكن)",
+      "type": "لون",
+      "default": "فارغ",
+      "what": "اتركه فارغًا ليأخذ لون الفاتح، أو التلقائي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«خلفية الفوتر» = لون أختاره و «↳ لون النص والروابط» = لون أختاره و «↳ ألوان مختلفة للوضع الداكن» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/settings-08-cml-announce-tone-cml-footer-ink-dark-panel.webp",
+          "result": "",
+          "option": "↳ لون النص والروابط (الداكن)",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

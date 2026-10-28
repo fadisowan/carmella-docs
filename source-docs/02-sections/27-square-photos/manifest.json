@@ -1,0 +1,151 @@
+{
+  "kind": "section",
+  "title": "كارميلا · صور مربعة",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/27-square-photos-desktop.webp",
+  "mobile": "../../images/27-square-photos-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "معرض الصور",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/27-square-photos-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "items",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/27-square-photos-items-panel.webp",
+          "result": "",
+          "option": "items",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الصورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة المعروضة في هذا العنصر."
+        },
+        {
+          "label": "نص على الصورة",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المعروض في العنصر."
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "الصفحة التي يفتحها الضغط على الزر أو العنصر."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/27-square-photos-align-right-panel.webp",
+          "result": "../../images/27-square-photos-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/27-square-photos-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/27-square-photos-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "عرض جميع الصور بنفس الحجم",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "عند الإيقاف وكان عدد الصور ٣ أو ٥، تظهر الصورة الأولى كبيرة (موزاييك) والباقي حولها. الأعداد الأخرى متساوية دائمًا: صورتان أو أربع في عمودين، والباقي في ثلاثة أعمدة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/27-square-photos-equal-size-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صور بالأبيض والأسود",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "تتلوّن عند مرور الماوس، وتبقى ملوّنة على الجوال.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/27-square-photos-cml-gray-panel.webp",
+          "result": "../../images/27-square-photos-cml-gray-on-result.webp",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--square-photos",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/27-square-photos-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

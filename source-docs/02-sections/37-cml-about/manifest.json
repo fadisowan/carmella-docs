@@ -1,0 +1,148 @@
+{
+  "kind": "section",
+  "title": "كارميلا · نبذة عنّا",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/37-cml-about-desktop.webp",
+  "mobile": "../../images/37-cml-about-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "نص علوي صغير",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يظهر فوق العنوان بلون ذهبي",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-eyebrow-panel.webp",
+          "result": "",
+          "option": "نص علوي صغير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان الرئيسي",
+      "type": "نص",
+      "default": "نبذة عنّا",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-title-panel.webp",
+          "result": "",
+          "option": "العنوان الرئيسي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص المحتوى",
+      "type": "نص طويل",
+      "default": "فارغ",
+      "what": "النص المعروض في العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-text-panel.webp",
+          "result": "",
+          "option": "نص المحتوى",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الصورة",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "الحجم المقترح 480×600 بكسل",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-image-panel.webp",
+          "result": "",
+          "option": "الصورة",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الزر",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "اتركه فارغاً لإخفاء الزر",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-cta-text-panel.webp",
+          "result": "",
+          "option": "نص الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط الزر",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة... أو الصق رابطاً خارجياً.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-cta-url-panel.webp",
+          "result": "",
+          "option": "رابط الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عكس الترتيب (صورة يمين)",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يضع الصورة في الجانب الآخر",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-reverse-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-about",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/37-cml-about-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

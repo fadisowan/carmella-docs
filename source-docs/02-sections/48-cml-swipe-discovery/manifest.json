@@ -1,0 +1,427 @@
+{
+  "kind": "section",
+  "title": "كارميلا · اكتشف بالسحب",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/48-cml-swipe-discovery-desktop.webp",
+  "mobile": "../../images/48-cml-swipe-discovery-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان تمهيدي صغير",
+      "type": "نص",
+      "default": "اختيارات تناسبك",
+      "what": "سطر صغير فوق العنوان. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-eyebrow-panel.webp",
+          "result": "",
+          "option": "عنوان تمهيدي صغير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان",
+      "type": "نص طويل",
+      "default": "اختيارات أسرع. على ذوقك.",
+      "what": "كل سطر يظهر في سطر مستقل.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف قصير",
+      "type": "نص طويل",
+      "default": "اسحب البطاقة أو استخدم الأسهم؛ التالية بانتظارك.",
+      "what": "سطر قصير تحت العنوان. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-description-panel.webp",
+          "result": "",
+          "option": "وصف قصير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص زر عرض جميع المنتجات",
+      "type": "نص",
+      "default": "عرض جميع المنتجات",
+      "what": "النص المكتوب على زر عرض جميع المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-all-text-panel.webp",
+          "result": "",
+          "option": "نص زر عرض جميع المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط زر عرض جميع المنتجات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "الصفحة التي يفتحها زر عرض جميع المنتجات.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-all-url-panel.webp",
+          "result": "",
+          "option": "رابط زر عرض جميع المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مصدر المنتجات",
+      "type": "قائمة منسدلة",
+      "default": "الأحدث",
+      "what": "يحدد من أين تأتي منتجات القسم: أحدث المنتجات، أو تصنيفات محددة، أو علامات تجارية، أو منتجات تختارها يدويًا. الحقل المناسب يظهر بعد الاختيار.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-type-latest-panel.webp",
+          "result": "../../images/48-cml-swipe-discovery-source-type-latest-result.webp",
+          "option": "الأحدث",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-type-sales-panel.webp",
+          "result": "",
+          "option": "الأكثر مبيعاً",
+          "note": ""
+        },
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-type-offers-panel.webp",
+          "result": "",
+          "option": "العروض والتخفيضات",
+          "note": ""
+        },
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-type-categories-panel.webp",
+          "result": "",
+          "option": "تصنيف محدد",
+          "note": ""
+        },
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-type-brands-panel.webp",
+          "result": "",
+          "option": "علامة تجارية",
+          "note": ""
+        },
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-type-selected-panel.webp",
+          "result": "",
+          "option": "منتجات محددة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "الأحدث",
+        "الأكثر مبيعاً",
+        "العروض والتخفيضات",
+        "تصنيف محدد",
+        "علامة تجارية",
+        "منتجات محددة"
+      ]
+    },
+    {
+      "label": "اختر التصنيفات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "التصنيفات التي تُجلب منها المنتجات؛ يظهر حين يكون المصدر «تصنيفات».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = تصنيف محدد",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-categories-panel.webp",
+          "result": "",
+          "option": "اختر التصنيفات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "اختر العلامات التجارية",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "العلامات التجارية التي تُجلب منها المنتجات؛ يظهر حين يكون المصدر «علامات تجارية».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = علامة تجارية",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-brands-panel.webp",
+          "result": "",
+          "option": "اختر العلامات التجارية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "اختر المنتجات",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "المنتجات التي تختارها بنفسك لتظهر في القسم بالترتيب الذي تحدده؛ يظهر حين يكون المصدر «منتجات محددة».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«مصدر المنتجات» = منتجات محددة",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-source-products-panel.webp",
+          "result": "",
+          "option": "اختر المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "عدد المنتجات",
+      "type": "رقم",
+      "default": "6",
+      "what": "من 4 إلى 12.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-limit-panel.webp",
+          "result": "",
+          "option": "عدد المنتجات",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار السعر",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر سعر المنتج على البطاقة أو يخفيه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-show-price-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار السعر قبل الخصم",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر السعر الأصلي مشطوبًا بجانب سعر الخصم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-show-regular-price-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار شارة المنتج",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر شارة المنتج (جديد، خصم، نفد…) على البطاقة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-show-badge-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار زر الإضافة للسلة",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر زر الإضافة للسلة على البطاقة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-show-add-to-cart-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار رابط فتح المنتج",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر رابطًا لفتح صفحة المنتج كاملة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-show-open-button-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "إظهار زر المفضلة على البطاقة",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يظهر زر المفضلة (القلب) على البطاقة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-enable-wishlist-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "السحب بالماوس على سطح المكتب",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يسمح بسحب السلايدر بالماوس على الكمبيوتر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-enable-mouse-drag-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "البدء من جديد تلقائيًا بعد آخر منتج",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يعود للمنتج الأول تلقائيًا بعد آخر منتج.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-enable-loop-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الضغط على البطاقة يفتح",
+      "type": "قائمة منسدلة",
+      "default": "صفحة المنتج",
+      "what": "ما يحدث عند الضغط على البطاقة: فتح صفحة المنتج أو العرض السريع.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-open-mode-product-panel.webp",
+          "result": "../../images/48-cml-swipe-discovery-open-mode-product-result.webp",
+          "option": "صفحة المنتج",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/48-cml-swipe-discovery-open-mode-quick-panel.webp",
+          "result": "",
+          "option": "العرض السريع",
+          "note": ""
+        }
+      ],
+      "options": [
+        "صفحة المنتج",
+        "العرض السريع"
+      ]
+    },
+    {
+      "label": "خلفية القسم",
+      "type": "قائمة منسدلة",
+      "default": "بدون خلفية",
+      "what": "خلفية القسم: بلا خلفية، أو لون سطح، أو لون ناعم، أو لون تختاره.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-background-style-plain-panel.webp",
+          "result": "../../images/48-cml-swipe-discovery-background-style-plain-result.webp",
+          "option": "بدون خلفية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/48-cml-swipe-discovery-background-style-panel-panel.webp",
+          "result": "",
+          "option": "خلفية متدرجة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بدون خلفية",
+        "خلفية متدرجة"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-swipe-discovery",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/48-cml-swipe-discovery-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

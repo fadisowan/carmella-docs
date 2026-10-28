@@ -1,0 +1,211 @@
+{
+  "kind": "section",
+  "title": "كارميلا | معرض كشف الصور",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/17-hover-reveal-gallery-desktop.webp",
+  "mobile": "../../images/17-hover-reveal-gallery-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم",
+      "type": "نص",
+      "default": "تفاصيل تستحق النظر",
+      "what": "عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/17-hover-reveal-gallery-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العناصر",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/17-hover-reveal-gallery-items-panel.webp",
+          "result": "",
+          "option": "العناصر",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "وصف فرعي",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "سطر قصير تحت العنوان يشرح محتوى القسم. اختياري؛ يختفي إن تُرك فارغًا."
+        },
+        {
+          "label": "الصورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة المعروضة في هذا العنصر."
+        },
+        {
+          "label": "الرابط",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر تصنيفًا أو ماركة من المتجر، أو ضع رابطًا خارجيًا."
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان الرئيسي والفرعي داخل القسم (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/17-hover-reveal-gallery-align-right-panel.webp",
+          "result": "../../images/17-hover-reveal-gallery-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/17-hover-reveal-gallery-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/17-hover-reveal-gallery-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "التخطيط",
+      "type": "قائمة منسدلة",
+      "default": "شبكة",
+      "what": "ترتيب عناصر القسم وطريقة توزيعها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/17-hover-reveal-gallery-layout-list-panel.webp",
+          "result": "",
+          "option": "قائمة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/17-hover-reveal-gallery-layout-grid-panel.webp",
+          "result": "../../images/17-hover-reveal-gallery-layout-grid-result.webp",
+          "option": "شبكة",
+          "note": "القيمة الافتراضية."
+        }
+      ],
+      "options": [
+        "قائمة",
+        "شبكة"
+      ]
+    },
+    {
+      "label": "عدد الأعمدة",
+      "type": "قائمة منسدلة",
+      "default": "3 أعمدة",
+      "what": "عدد الأعمدة التي تتوزع عليها العناصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/17-hover-reveal-gallery-columns-2-panel.webp",
+          "result": "",
+          "option": "عمودان",
+          "note": ""
+        },
+        {
+          "panel": "../../images/17-hover-reveal-gallery-columns-3-panel.webp",
+          "result": "../../images/17-hover-reveal-gallery-columns-3-result.webp",
+          "option": "3 أعمدة",
+          "note": "القيمة الافتراضية."
+        }
+      ],
+      "options": [
+        "عمودان",
+        "3 أعمدة"
+      ]
+    },
+    {
+      "label": "التأثير",
+      "type": "قائمة منسدلة",
+      "default": "طبقة فوق الصورة",
+      "what": "التأثير البصري المطبق على النص أثناء التمرير.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/17-hover-reveal-gallery-effect-overlay-panel.webp",
+          "result": "../../images/17-hover-reveal-gallery-effect-overlay-result.webp",
+          "option": "طبقة فوق الصورة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/17-hover-reveal-gallery-effect-mouse-follow-panel.webp",
+          "result": "",
+          "option": "تتبّع المؤشر",
+          "note": ""
+        },
+        {
+          "panel": "../../images/17-hover-reveal-gallery-effect-fade-panel.webp",
+          "result": "",
+          "option": "تلاشٍ",
+          "note": ""
+        }
+      ],
+      "options": [
+        "طبقة فوق الصورة",
+        "تتبّع المؤشر",
+        "تلاشٍ"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--hover-reveal-gallery",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/17-hover-reveal-gallery-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

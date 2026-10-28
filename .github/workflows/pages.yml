@@ -25,6 +25,8 @@ jobs:
         run: npm ci
       - name: Build Astro Starlight and search index
         run: npm run build
+      - name: Verify original sources, option images and built links
+        run: node scripts/validate.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

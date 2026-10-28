@@ -1,0 +1,167 @@
+{
+  "kind": "section",
+  "title": "آراء عملاء مخصصة",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم (اختياري)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يستبدل العنوان الافتراضي «آراء العملاء».",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/07-custom-testimonials-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "التقييمات",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/07-custom-testimonials-items-panel.webp",
+          "result": "",
+          "option": "التقييمات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "اسم العميل",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "اسم العميل صاحب التقييم."
+        },
+        {
+          "label": "صورة العميل",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "المقاس المناسب للصورة هو 68*68 بكسل"
+        },
+        {
+          "label": "عدد النجوم",
+          "type": "رقم",
+          "default": "5",
+          "what": "عدد النجوم الظاهر مع التقييم (من 1 إلى 5)."
+        },
+        {
+          "label": "نص التقييم",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "النص المعروض في العنصر."
+        }
+      ]
+    },
+    {
+      "label": "تشغيل تلقائي للشرائح",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "ينقل الشرائح تلقائيًا دون ضغط الزائر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/07-custom-testimonials-auto-play-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "أيقونة الاقتباس",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "علامة التنصيص الزخرفية في البطاقة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/07-custom-testimonials-show-quote-icon-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نجوم التقييم",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "إظهار تقييم النجوم لكل رأي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/07-custom-testimonials-show-stars-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "طريقة العرض",
+      "type": "قائمة منسدلة",
+      "default": "سلايدر",
+      "what": "طريقة عرض التقييمات: شبكة أو سلايدر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/07-custom-testimonials-cml-tst-layout-slider-panel.webp",
+          "result": "",
+          "option": "سلايدر",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/07-custom-testimonials-cml-tst-layout-grid-panel.webp",
+          "result": "",
+          "option": "شبكة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "سلايدر",
+        "شبكة"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--custom-testimonials",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/07-custom-testimonials-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": ""
+}

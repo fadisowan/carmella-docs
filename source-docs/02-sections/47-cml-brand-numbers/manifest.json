@@ -1,0 +1,184 @@
+{
+  "kind": "section",
+  "title": "كارميلا · أرقام تحكي القصة",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/47-cml-brand-numbers-desktop.webp",
+  "mobile": "../../images/47-cml-brand-numbers-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان تمهيدي",
+      "type": "نص",
+      "default": "المتجر في أرقام",
+      "what": "سطر صغير فوق العنوان. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-eyebrow-panel.webp",
+          "result": "",
+          "option": "عنوان تمهيدي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "كل رقم، وراءه حكاية",
+      "what": "عنوان القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف قصير",
+      "type": "نص طويل",
+      "default": "محطات من رحلتنا، نشاركها معك.",
+      "what": "سطر واحد تحت العنوان. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-description-panel.webp",
+          "result": "",
+          "option": "وصف قصير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الإحصاءات",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "من إحصاء واحد إلى أربعة. لا يظهر الإحصاء إلا إذا كُتبت قيمته وعنوانه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-stats-panel.webp",
+          "result": "",
+          "option": "الإحصاءات",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "أيقونة (اختياري)",
+          "type": "أيقونة",
+          "default": "فارغ",
+          "what": "من مكتبة أيقونات سلة. اتركها فارغة لإخفائها."
+        },
+        {
+          "label": "القيمة",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "كما تريدها أن تُعرض: 12 أو 2,500 أو 98% أو +5. تُطبع كما تُكتب."
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "ما الذي يعنيه الرقم."
+        },
+        {
+          "label": "وصف اختياري",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "سطر قصير تحت العنوان. اتركه فارغًا لإخفائه."
+        }
+      ]
+    },
+    {
+      "label": "خلفية القسم",
+      "type": "قائمة منسدلة",
+      "default": "بخلفية",
+      "what": "لوحة بخلفية وحدّ خفيف، أو بدون خلفية فتظهر الأرقام على خلفية الصفحة مباشرة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-background-style-panel-panel.webp",
+          "result": "../../images/47-cml-brand-numbers-background-style-panel-result.webp",
+          "option": "بخلفية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/47-cml-brand-numbers-background-style-plain-panel.webp",
+          "result": "",
+          "option": "بدون خلفية",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بخلفية",
+        "بدون خلفية"
+      ]
+    },
+    {
+      "label": "مسافة علوية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أعلى القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أعلى القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-top-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة علوية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "مسافة سفلية مخصّصة بالبكسل",
+      "type": "رقم",
+      "default": "0",
+      "what": "اختياري. يعمل حين تكون «المسافة أسفل القسم» على «حسب الثيم».",
+      "when": "",
+      "empty": "",
+      "shows_when": "«المسافة أسفل القسم» = حسب الثيم",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-bottom-spacing-panel.webp",
+          "result": "",
+          "option": "مسافة سفلية مخصّصة بالبكسل",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--cml-brand-numbers",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/47-cml-brand-numbers-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

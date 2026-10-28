@@ -1,0 +1,338 @@
+{
+  "kind": "section",
+  "title": "صور متحركة (محسنة)",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/01-enhanced-slider-desktop.webp",
+  "mobile": "../../images/01-enhanced-slider-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "slides",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "الشرائح التي يعرضها القسم؛ لكل شريحة صورتها ونصوصها ورابطها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-slides-panel.webp",
+          "result": "",
+          "option": "slides",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "صورة البنر",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "* المقاس المناسب للصورة هو 900×600 بكسل"
+        },
+        {
+          "label": "عنوان رئيسي",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "يتم عرضه على الصورة بحجم بارز جداً، مع إضافة تأثير دخول للنص يضيف لمسة جمالية على معرض الصور."
+        },
+        {
+          "label": "نص إضافي",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "يتم عرضه على الصورة بحجم أصغر من العنوان الرئيسي، مع إضافة تأثير دخول للنص يضيف لمسة جمالية على معرض الصور."
+        },
+        {
+          "label": "إزالة طبقة التعتيم",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يزيل الطبقة الداكنة فوق الصورة؛ مناسب للصور الفاتحة التي تحمل نصًا داكنًا أو بلا نص."
+        },
+        {
+          "label": "نص علوي صغير (Eyebrow)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "يظهر فوق العنوان بحروف متباعدة وبلون ذهبي، يمنح الهيرو طابعاً فاخراً."
+        },
+        {
+          "label": "نص زر الإجراء (CTA)",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "يظهر كزر ذهبي بارز. اتركه فارغاً لإخفاء الزر."
+        },
+        {
+          "label": "وجهة الزر",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية... أو الصق رابطاً خارجياً."
+        },
+        {
+          "label": "تأثير نص هذه الشريحة",
+          "type": "قائمة منسدلة",
+          "default": "افتراضي (حسب الإعداد العام)",
+          "what": "اتركه على (افتراضي) لاستخدام إعداد المكوّن العام."
+        },
+        {
+          "label": "موضع النص",
+          "type": "قائمة منسدلة",
+          "default": "وسط",
+          "what": "مكان النص فوق الشريحة: يمين أو وسط أو يسار، وأعلى أو أسفل."
+        },
+        {
+          "label": "موضع الصورة",
+          "type": "قائمة منسدلة",
+          "default": "حسب الثيم",
+          "what": "الجزء من الصورة الذي يبقى ظاهرًا حين تُقص على الشاشات الضيقة."
+        },
+        {
+          "label": "شكل الزر",
+          "type": "قائمة منسدلة",
+          "default": "ممتلئ",
+          "what": "شكل زر الشريحة: ممتلئ أو بإطار."
+        },
+        {
+          "label": "جعل الشريحة كلها رابطاً",
+          "type": "مفتاح",
+          "default": "مطفأ",
+          "what": "يجعل الضغط في أي مكان على الشريحة يفتح الرابط، لا الزر وحده."
+        }
+      ]
+    },
+    {
+      "label": "نوع تأثير النص (افتراضي لكل الشرائح)",
+      "type": "قائمة منسدلة",
+      "default": "متحرك أفقياً (افتراضي)",
+      "what": "اختر كيف تظهر نصوص الشرائح. يمكن تخصيص كل شريحة على حدة من إعداداتها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-text-anim-swiper-panel.webp",
+          "result": "../../images/01-enhanced-slider-text-anim-swiper-result.webp",
+          "option": "متحرك أفقياً (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-text-anim-fade-up-panel.webp",
+          "result": "",
+          "option": "ظهور من الأسفل",
+          "note": ""
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-text-anim-clip-panel.webp",
+          "result": "",
+          "option": "كاشف مقطوع",
+          "note": ""
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-text-anim-drift-panel.webp",
+          "result": "",
+          "option": "انزلاق جانبي",
+          "note": ""
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-text-anim-typewriter-panel.webp",
+          "result": "",
+          "option": "ظهور كلمة كلمة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "متحرك أفقياً (افتراضي)",
+        "ظهور من الأسفل",
+        "كاشف مقطوع",
+        "انزلاق جانبي",
+        "ظهور كلمة كلمة"
+      ]
+    },
+    {
+      "label": "مدة كل شريحة",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم",
+      "what": "كم ثانية تبقى كل شريحة قبل الانتقال للتالية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-cml-slide-seconds-theme-panel.webp",
+          "result": "../../images/01-enhanced-slider-cml-slide-seconds-theme-result.webp",
+          "option": "حسب الثيم",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-slide-seconds-4-panel.webp",
+          "result": "",
+          "option": "4 ثوانٍ",
+          "note": ""
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-slide-seconds-6-panel.webp",
+          "result": "",
+          "option": "6 ثوانٍ",
+          "note": ""
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-slide-seconds-8-panel.webp",
+          "result": "",
+          "option": "8 ثوانٍ",
+          "note": ""
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-slide-seconds-12-panel.webp",
+          "result": "",
+          "option": "12 ثانية",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم",
+        "4 ثوانٍ",
+        "6 ثوانٍ",
+        "8 ثوانٍ",
+        "12 ثانية"
+      ]
+    },
+    {
+      "label": "الانتقال بين الشرائح",
+      "type": "قائمة منسدلة",
+      "default": "انزلاق",
+      "what": "شكل الانتقال بين الشرائح: انزلاق أو تلاشي.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-cml-transition-slide-panel.webp",
+          "result": "../../images/01-enhanced-slider-cml-transition-slide-result.webp",
+          "option": "انزلاق",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-transition-fade-panel.webp",
+          "result": "",
+          "option": "تلاشي",
+          "note": ""
+        }
+      ],
+      "options": [
+        "انزلاق",
+        "تلاشي"
+      ]
+    },
+    {
+      "label": "حركة تقريب الصورة",
+      "type": "قائمة منسدلة",
+      "default": "مفعّلة",
+      "what": "تقريب بطيء للصورة أثناء ظهور الشريحة يعطي إحساسًا بالحركة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-cml-zoom-on-panel.webp",
+          "result": "../../images/01-enhanced-slider-cml-zoom-on-result.webp",
+          "option": "مفعّلة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-zoom-off-panel.webp",
+          "result": "",
+          "option": "متوقفة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "مفعّلة",
+        "متوقفة"
+      ]
+    },
+    {
+      "label": "ألوان النصوص والزر",
+      "type": "قائمة منسدلة",
+      "default": "حسب الثيم (افتراضي)",
+      "what": "حسب الثيم: العنوان أبيض فوق الصورة، والزر والسطر الصغير بلون أزرار المتجر. «العنوان بلون الثيم» يلوّن العنوان بلون الأزرار ويتغير معه تلقائيًا.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-cml-text-tone-theme-panel.webp",
+          "result": "../../images/01-enhanced-slider-cml-text-tone-theme-result.webp",
+          "option": "حسب الثيم (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-text-tone-accent-panel.webp",
+          "result": "",
+          "option": "العنوان بلون الثيم",
+          "note": ""
+        },
+        {
+          "panel": "../../images/01-enhanced-slider-cml-text-tone-custom-panel.webp",
+          "result": "",
+          "option": "ألوان أختارها",
+          "note": ""
+        }
+      ],
+      "options": [
+        "حسب الثيم (افتراضي)",
+        "العنوان بلون الثيم",
+        "ألوان أختارها"
+      ]
+    },
+    {
+      "label": "↳ لون العنوان والوصف",
+      "type": "لون",
+      "default": "#ffffff",
+      "what": "الوصف يأخذ نفس اللون بشفافية خفيفة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان النصوص والزر» = ألوان أختارها",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-cml-text-color-panel.webp",
+          "result": "",
+          "option": "↳ لون العنوان والوصف",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "↳ لون الزر والسطر الصغير",
+      "type": "لون",
+      "default": "#cda878",
+      "what": "لون نص الزر يُختار تلقائيًا ليبقى مقروءًا، واللون الداكن يُفتَّح فوق الصورة للسطر الصغير والزر المفرّغ.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«ألوان النصوص والزر» = ألوان أختارها",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-cml-btn-color-panel.webp",
+          "result": "",
+          "option": "↳ لون الزر والسطر الصغير",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--enhanced-slider",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/01-enhanced-slider-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Carmelea (معاينة الثيم)"
+}

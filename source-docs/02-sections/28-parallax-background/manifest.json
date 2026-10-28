@@ -1,0 +1,165 @@
+{
+  "kind": "section",
+  "title": "كارميلا · بنر باراللاكس",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/28-parallax-background-desktop.webp",
+  "mobile": "../../images/28-parallax-background-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "العنوان",
+      "type": "نص",
+      "default": "اكتشف مجموعتنا",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-title-panel.webp",
+          "result": "",
+          "option": "العنوان",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "النص الفرعي",
+      "type": "نص طويل",
+      "default": "فارغ",
+      "what": "سطر وصفي قصير تحت العنوان. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-sub-title-panel.webp",
+          "result": "",
+          "option": "النص الفرعي",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة الخلفية",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "الصورة المعروضة في هذا العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-image-panel.webp",
+          "result": "",
+          "option": "صورة الخلفية",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الزر",
+      "type": "نص",
+      "default": "تسوق الآن",
+      "what": "النص المكتوب على الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-link-text-panel.webp",
+          "result": "",
+          "option": "نص الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "رابط الزر",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "الصفحة التي يفتحها الضغط على الزر أو العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-url-panel.webp",
+          "result": "",
+          "option": "رابط الزر",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "محاذاة العنوان والنص الفرعي",
+      "type": "قائمة منسدلة",
+      "default": "يمين",
+      "what": "محاذاة العنوان والنص الفرعي والزر داخل البانر (الافتراضي: يمين).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-align-right-panel.webp",
+          "result": "../../images/28-parallax-background-align-right-result.webp",
+          "option": "يمين",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/28-parallax-background-align-center-panel.webp",
+          "result": "",
+          "option": "وسط",
+          "note": ""
+        },
+        {
+          "panel": "../../images/28-parallax-background-align-left-panel.webp",
+          "result": "",
+          "option": "يسار",
+          "note": ""
+        }
+      ],
+      "options": [
+        "يمين",
+        "وسط",
+        "يسار"
+      ]
+    },
+    {
+      "label": "إضافة طبقة تعتيم",
+      "type": "مفتاح",
+      "default": "مفعّل",
+      "what": "يضع طبقة داكنة فوق الصورة ليتضح النص فوقها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-is-opacity-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--parallax-background",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/28-parallax-background-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}

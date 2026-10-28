@@ -1,0 +1,338 @@
+{
+  "kind": "section",
+  "title": "كارميلا · بانر إعلاني / خصم",
+  "intro": "",
+  "when": "",
+  "desktop": "",
+  "mobile": "",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان مختصر (اختياري)",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-title-panel.webp",
+          "result": "",
+          "option": "عنوان مختصر (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف العرض",
+      "type": "نص طويل",
+      "default": "فارغ",
+      "what": "سطر وصفي إضافي يظهر أسفل العنوان.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-description-panel.webp",
+          "result": "",
+          "option": "وصف العرض",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة العرض (ديسكتوب)",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "المقاس الموصى به: 1200×500 — تظهر كصورة البانر/النافذة",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-image-panel.webp",
+          "result": "",
+          "option": "صورة العرض (ديسكتوب)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة العرض (موبايل)",
+      "type": "صورة",
+      "default": "فارغ",
+      "what": "صورة بديلة تظهر على الجوال بدل صورة الكمبيوتر، بأبعاد طولية تناسب الشاشة الصغيرة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-small-image-panel.webp",
+          "result": "",
+          "option": "صورة العرض (موبايل)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الخصم",
+      "type": "نص",
+      "default": "عرض خاص",
+      "what": "مثال: خصم 30% أو وفّر 50 ر.س",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-discount-panel.webp",
+          "result": "",
+          "option": "نص الخصم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "نص الزر (اختياري)",
+      "type": "نص",
+      "default": "تسوّق الآن",
+      "what": "النص المكتوب على الزر. اتركه فارغًا لإخفاء الزر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-cta-text-panel.webp",
+          "result": "",
+          "option": "نص الزر (اختياري)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الرابط",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "الصفحة التي يفتحها الضغط على الزر أو العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-url-panel.webp",
+          "result": "",
+          "option": "الرابط",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كود الخصم",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "يظهر داخل إطار مميّز مع زر نسخ.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-promo-code-panel.webp",
+          "result": "",
+          "option": "كود الخصم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تفعيل العدّاد التنازلي",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يعرض مؤقتاً تنازلياً حتى تاريخ انتهاء العرض.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-enable-countdown-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "تاريخ انتهاء العرض",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "تاريخ انتهاء العرض بالصيغة YYYY-MM-DD. تاريخ فقط بلا وقت؛ ينتهي العدّاد في آخر ذلك اليوم. اتركه فارغاً لإخفاء العدّاد.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«تفعيل العدّاد التنازلي» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-countdown-to-panel.webp",
+          "result": "",
+          "option": "تاريخ انتهاء العرض",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "طريقة العرض",
+      "type": "قائمة منسدلة",
+      "default": "نافذة منبثقة (افتراضي)",
+      "what": "النافذة المنبثقة (الافتراضي) تظهر تلقائياً عند فتح المتجر وتُغلق مرة واحدة. «بانر علوي» يعرضه كقسم ثابت في الصفحة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-mode-popup-panel.webp",
+          "result": "",
+          "option": "نافذة منبثقة (افتراضي)",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/30-cml-promo-mode-banner-panel.webp",
+          "result": "",
+          "option": "بانر علوي ثابت",
+          "note": ""
+        }
+      ],
+      "options": [
+        "نافذة منبثقة (افتراضي)",
+        "بانر علوي ثابت"
+      ]
+    },
+    {
+      "label": "تشغيل صوت عند الظهور",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "يشغّل نغمة داخلية قصيرة عند ظهور العرض (منبثق أو شريط).",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-enable-sound-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "متى تظهر النافذة",
+      "type": "قائمة منسدلة",
+      "default": "بعد ثوانٍ",
+      "what": "متى تظهر النافذة للزائر: بعد ثوانٍ، أو عند التمرير، أو عند محاولة المغادرة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«طريقة العرض» = نافذة منبثقة (افتراضي)",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-cml-trigger-delay-panel.webp",
+          "result": "",
+          "option": "بعد ثوانٍ",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/30-cml-promo-cml-trigger-scroll-panel.webp",
+          "result": "",
+          "option": "بعد تمرير نصف الصفحة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/30-cml-promo-cml-trigger-exit-panel.webp",
+          "result": "",
+          "option": "عند محاولة الخروج (كمبيوتر)",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بعد ثوانٍ",
+        "بعد تمرير نصف الصفحة",
+        "عند محاولة الخروج (كمبيوتر)"
+      ]
+    },
+    {
+      "label": "تأخير ظهور النافذة (ثانية)",
+      "type": "رقم",
+      "default": "1",
+      "what": "يعمل مع «بعد ثوانٍ»، ومع «عند محاولة الخروج» على الجوال. من 1 إلى 60 ثانية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«طريقة العرض» = نافذة منبثقة (افتراضي)",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-popup-delay-panel.webp",
+          "result": "",
+          "option": "تأخير ظهور النافذة (ثانية)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كم مرة تظهر",
+      "type": "قائمة منسدلة",
+      "default": "مرة واحدة",
+      "what": "بعد أن يغلقها الزائر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«طريقة العرض» = نافذة منبثقة (افتراضي)",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-cml-freq-once-panel.webp",
+          "result": "",
+          "option": "مرة واحدة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/30-cml-promo-cml-freq-daily-panel.webp",
+          "result": "",
+          "option": "مرة كل يوم",
+          "note": ""
+        },
+        {
+          "panel": "../../images/30-cml-promo-cml-freq-session-panel.webp",
+          "result": "",
+          "option": "كل زيارة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "مرة واحدة",
+        "مرة كل يوم",
+        "كل زيارة"
+      ]
+    },
+    {
+      "label": "موضعها على الجوال",
+      "type": "قائمة منسدلة",
+      "default": "أسفل الشاشة",
+      "what": "مكان ظهور النافذة على الجوال: في المنتصف أو من الأسفل.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«طريقة العرض» = نافذة منبثقة (افتراضي)",
+      "pairs": [
+        {
+          "panel": "../../images/30-cml-promo-cml-mobile-pos-bottom-panel.webp",
+          "result": "",
+          "option": "أسفل الشاشة",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/30-cml-promo-cml-mobile-pos-center-panel.webp",
+          "result": "",
+          "option": "وسط الشاشة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "أسفل الشاشة",
+        "وسط الشاشة"
+      ]
+    }
+  ],
+  "source_store": ""
+}

@@ -1,0 +1,234 @@
+{
+  "kind": "section",
+  "title": "عرض أفقي متحرك",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/44-horizontal-showcase-desktop.webp",
+  "mobile": "../../images/44-horizontal-showcase-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "عنوان القسم",
+      "type": "نص",
+      "default": "تشكيلات الموسم",
+      "what": "عنوان القسم الظاهر أعلاه. اتركه فارغًا لإخفائه.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-section-title-panel.webp",
+          "result": "",
+          "option": "عنوان القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "وصف القسم",
+      "type": "نص طويل",
+      "default": "قطع مختارة لكل مناسبة.",
+      "what": "وصف قصير تحت عنوان القسم.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-section-description-panel.webp",
+          "result": "",
+          "option": "وصف القسم",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الشرائح",
+      "type": "عناصر متكررة",
+      "default": "عناصر جاهزة",
+      "what": "قائمة العناصر التي يعرضها القسم؛ أضف عنصرًا أو احذفه أو اسحبه لتغيير الترتيب.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-items-panel.webp",
+          "result": "",
+          "option": "الشرائح",
+          "note": ""
+        }
+      ],
+      "item_fields": [
+        {
+          "label": "الصورة",
+          "type": "صورة",
+          "default": "فارغ",
+          "what": "الصورة المعروضة في هذا العنصر."
+        },
+        {
+          "label": "العنوان",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "العنوان الرئيسي الذي يظهر أعلى القسم. اتركه فارغًا لإخفائه."
+        },
+        {
+          "label": "الوصف",
+          "type": "نص طويل",
+          "default": "فارغ",
+          "what": "نص توضيحي يظهر مع العنوان لشرح العرض أو المجموعة."
+        },
+        {
+          "label": "نص الزر",
+          "type": "نص",
+          "default": "فارغ",
+          "what": "النص المكتوب على الزر."
+        },
+        {
+          "label": "رابط الزر",
+          "type": "اختيار من المتجر",
+          "default": "فارغ",
+          "what": "اختر منتجاً أو تصنيفاً أو صفحة تعريفية أو ماركة… أو الصق رابطاً خارجياً."
+        }
+      ]
+    },
+    {
+      "label": "إظهار أسهم التنقّل",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "مطفأة افتراضيًّا. الشريط يُسحب بالإصبع وبعجلة الفأرة، وتظهر الأسهم فوق الصور عند تفعيلها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-show-arrows-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "حركة تلقائية مستمرة",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "تتحرّك الشرائح من نفسها في حلقة لا تنتهي، بلا حاجة للتمرير. تتوقّف عند التأشير لتتيح النقر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-auto-loop-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "سرعة الحركة",
+      "type": "قائمة منسدلة",
+      "default": "عادية",
+      "what": "تُحسب لكل شريحة، فالسرعة نفسها مهما زاد عددها.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«حركة تلقائية مستمرة» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-loop-speed-slow-panel.webp",
+          "result": "",
+          "option": "هادئة",
+          "note": ""
+        },
+        {
+          "panel": "../../images/44-horizontal-showcase-loop-speed-normal-panel.webp",
+          "result": "../../images/44-horizontal-showcase-loop-speed-normal-result.webp",
+          "option": "عادية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/44-horizontal-showcase-loop-speed-fast-panel.webp",
+          "result": "",
+          "option": "سريعة",
+          "note": ""
+        }
+      ],
+      "options": [
+        "هادئة",
+        "عادية",
+        "سريعة"
+      ]
+    },
+    {
+      "label": "اتجاه الحركة",
+      "type": "قائمة منسدلة",
+      "default": "من اليمين إلى اليسار",
+      "what": "اتجاه دوران الشرائح.",
+      "when": "",
+      "empty": "",
+      "shows_when": "«حركة تلقائية مستمرة» = مفعّل",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-loop-direction-forward-panel.webp",
+          "result": "../../images/44-horizontal-showcase-loop-direction-forward-result.webp",
+          "option": "من اليمين إلى اليسار",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/44-horizontal-showcase-loop-direction-backward-panel.webp",
+          "result": "",
+          "option": "من اليسار إلى اليمين",
+          "note": ""
+        }
+      ],
+      "options": [
+        "من اليمين إلى اليسار",
+        "من اليسار إلى اليمين"
+      ]
+    },
+    {
+      "label": "خلفية القسم",
+      "type": "قائمة منسدلة",
+      "default": "بدون خلفية",
+      "what": "بدون خلفية: الشرائح على خلفية الصفحة مباشرة. بخلفية: شريط هادئ خلف القسم كله.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-background-style-plain-panel.webp",
+          "result": "../../images/44-horizontal-showcase-background-style-plain-result.webp",
+          "option": "بدون خلفية",
+          "note": "القيمة الافتراضية."
+        },
+        {
+          "panel": "../../images/44-horizontal-showcase-background-style-panel-panel.webp",
+          "result": "",
+          "option": "بخلفية",
+          "note": ""
+        }
+      ],
+      "options": [
+        "بدون خلفية",
+        "بخلفية"
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--horizontal-showcase",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/44-horizontal-showcase-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Carmelea (معاينة الثيم)"
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "section",
+  "title": "كارميلا · بنر ثابت",
+  "intro": "",
+  "when": "",
+  "desktop": "../../images/29-fixed-banner-desktop.webp",
+  "mobile": "../../images/29-fixed-banner-mobile.webp",
+  "shared": "../../01-shared/",
+  "fields": [
+    {
+      "label": "صورة البنر (ديسكتوب)",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "المقاس الموصى به: 1200×300",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/29-fixed-banner-image-panel.webp",
+          "result": "",
+          "option": "صورة البنر (ديسكتوب)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "صورة البنر (موبايل)",
+      "type": "صورة",
+      "default": "https://cdn.salla.sa/ZrBEO/MopzhoqpTkDObcKc8Q8n77AuydanfsGXdZO7iinH.jpg",
+      "what": "صورة بديلة تظهر على الجوال بدل صورة الكمبيوتر، بأبعاد طولية تناسب الشاشة الصغيرة.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/29-fixed-banner-small-image-panel.webp",
+          "result": "",
+          "option": "صورة البنر (موبايل)",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "الرابط",
+      "type": "اختيار من المتجر",
+      "default": "فارغ",
+      "what": "الصفحة التي يفتحها الضغط على الزر أو العنصر.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/29-fixed-banner-url-panel.webp",
+          "result": "",
+          "option": "الرابط",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "فتح الرابط في تبويب جديد",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "مناسب للحملات والروابط الخارجية.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/29-fixed-banner-new-tab-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "داخل إطار الصفحة",
+      "type": "مفتاح",
+      "default": "مطفأ",
+      "what": "عرض البنر بعرض المحتوى وزوايا مدوّرة بدل العرض الكامل.",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/29-fixed-banner-contained-panel.webp",
+          "result": "",
+          "option": "بعد قلب المفتاح",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "label": "كلاس CSS مخصص",
+      "type": "نص",
+      "default": "فارغ",
+      "what": "للمصممين. كلاس القسم الثابت: cml-s--fixed-banner",
+      "when": "",
+      "empty": "",
+      "shows_when": "",
+      "pairs": [
+        {
+          "panel": "../../images/29-fixed-banner-cml-class-panel.webp",
+          "result": "",
+          "option": "كلاس CSS مخصص",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "source_store": "Fadi Abu Sowan (معاينة الثيم)"
+}
